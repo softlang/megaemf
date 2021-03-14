@@ -1,0 +1,269 @@
+<repository:/src/ppo/PurchaseOrder.java>
+        <http://org.softlang.com/manifestsAs>
+                <http://org.softlang.com/File> ;
+        <http://org.softlang.com/partOf>
+                <repository:/src/ppo> .
+
+<repository:/src/ppo/impl>
+        <http://org.softlang.com/manifestsAs>
+                <http://org.softlang.com/Folder> ;
+        <http://org.softlang.com/partOf>
+                <repository:/src/ppo> .
+
+<repository:/src/ppo/Item.java>
+        <http://org.softlang.com/manifestsAs>
+                <http://org.softlang.com/File> ;
+        <http://org.softlang.com/partOf>
+                <repository:/src/ppo> .
+
+<repository:/model/PrimerPO.ecore>
+        <http://org.softlang.com/CreateGeneratorModel>
+                <repository:/model/PrimerPO.genmodel> ;
+        <http://org.softlang.com/instanceOf>
+                <http://org.softlang.com/EcoreModel> ;
+        <http://org.softlang.com/manifestsAs>
+                <http://org.softlang.com/File> ;
+        <http://org.softlang.com/partOf>
+                <repository:/model> .
+
+<repository:/plugin.xml>
+        <http://org.softlang.com/manifestsAs>
+                <http://org.softlang.com/File> ;
+        <http://org.softlang.com/partOf>
+                <repository:/> .
+
+<repository:/META-INF>
+        <http://org.softlang.com/manifestsAs>
+                <http://org.softlang.com/Folder> ;
+        <http://org.softlang.com/partOf>
+                <repository:/> .
+
+<repository:/bin/ppo/PpoPackage$Literals.class>
+        <http://org.softlang.com/manifestsAs>
+                <http://org.softlang.com/File> ;
+        <http://org.softlang.com/partOf>
+                <repository:/bin/ppo> .
+
+<repository:/src/ppo/impl/USAddressImpl.java>
+        <http://org.softlang.com/manifestsAs>
+                <http://org.softlang.com/File> ;
+        <http://org.softlang.com/partOf>
+                <repository:/src/ppo/impl> .
+
+<repository:/bin/ppo/util/PpoSwitch.class>
+        <http://org.softlang.com/manifestsAs>
+                <http://org.softlang.com/File> ;
+        <http://org.softlang.com/partOf>
+                <repository:/bin/ppo/util> .
+
+<repository:/bin>  <http://org.softlang.com/manifestsAs>
+                <http://org.softlang.com/Folder> ;
+        <http://org.softlang.com/partOf>
+                <repository:/> .
+
+<repository:/src/ppo/impl/ItemImpl.java>
+        <http://org.softlang.com/manifestsAs>
+                <http://org.softlang.com/File> ;
+        <http://org.softlang.com/partOf>
+                <repository:/src/ppo/impl> .
+
+<repository:/bin/ppo/impl/PpoFactoryImpl.class>
+        <http://org.softlang.com/manifestsAs>
+                <http://org.softlang.com/File> ;
+        <http://org.softlang.com/partOf>
+                <repository:/bin/ppo/impl> .
+
+<repository:/bin/ppo/impl/PpoPackageImpl.class>
+        <http://org.softlang.com/manifestsAs>
+                <http://org.softlang.com/File> ;
+        <http://org.softlang.com/partOf>
+                <repository:/bin/ppo/impl> .
+
+<repository:/src/ppo/PpoPackage.java>
+        <http://org.softlang.com/manifestsAs>
+                <http://org.softlang.com/File> ;
+        <http://org.softlang.com/partOf>
+                <repository:/src/ppo> .
+
+<repository:/bin/ppo/PurchaseOrder.class>
+        <http://org.softlang.com/manifestsAs>
+                <http://org.softlang.com/File> ;
+        <http://org.softlang.com/partOf>
+                <repository:/bin/ppo> .
+
+<repository:/bin/ppo/util/PpoAdapterFactory$1.class>
+        <http://org.softlang.com/manifestsAs>
+                <http://org.softlang.com/File> ;
+        <http://org.softlang.com/partOf>
+                <repository:/bin/ppo/util> .
+
+<repository:/META-INF/MANIFEST.MF>
+        <http://org.softlang.com/manifestsAs>
+                <http://org.softlang.com/File> ;
+        <http://org.softlang.com/partOf>
+                <repository:/META-INF> .
+
+<repository:/bin/ppo/PpoFactory.class>
+        <http://org.softlang.com/manifestsAs>
+                <http://org.softlang.com/File> ;
+        <http://org.softlang.com/partOf>
+                <repository:/bin/ppo> .
+
+<repository:/model>  <http://org.softlang.com/manifestsAs>
+                <http://org.softlang.com/Folder> ;
+        <http://org.softlang.com/partOf>
+                <repository:/> .
+
+<repository:/bin/ppo/impl/USAddressImpl.class>
+        <http://org.softlang.com/manifestsAs>
+                <http://org.softlang.com/File> ;
+        <http://org.softlang.com/partOf>
+                <repository:/bin/ppo/impl> .
+
+<repository:/bin/ppo/PpoPackage.class>
+        <http://org.softlang.com/manifestsAs>
+                <http://org.softlang.com/File> ;
+        <http://org.softlang.com/partOf>
+                <repository:/bin/ppo> .
+
+<repository:/bin/ppo/Item.class>
+        <http://org.softlang.com/manifestsAs>
+                <http://org.softlang.com/File> ;
+        <http://org.softlang.com/partOf>
+                <repository:/bin/ppo> .
+
+<repository:/model/PrimerPO.genmodel>
+        <http://org.softlang.com/instanceOf>
+                <http://org.softlang.com/GeneratorModel> ;
+        <http://org.softlang.com/manifestsAs>
+                <http://org.softlang.com/File> ;
+        <http://org.softlang.com/partOf>
+                <repository:/model> .
+
+<repository:/plugin.properties>
+        <http://org.softlang.com/manifestsAs>
+                <http://org.softlang.com/File> ;
+        <http://org.softlang.com/partOf>
+                <repository:/> .
+
+<repository:/src/ppo>
+        <http://org.softlang.com/manifestsAs>
+                <http://org.softlang.com/Folder> ;
+        <http://org.softlang.com/partOf>
+                <repository:/src> .
+
+<repository:/src/ppo/impl/PurchaseOrderImpl.java>
+        <http://org.softlang.com/manifestsAs>
+                <http://org.softlang.com/File> ;
+        <http://org.softlang.com/partOf>
+                <repository:/src/ppo/impl> .
+
+<repository:/src>  <http://org.softlang.com/manifestsAs>
+                <http://org.softlang.com/Folder> ;
+        <http://org.softlang.com/partOf>
+                <repository:/> .
+
+<repository:/src/ppo/util/PpoAdapterFactory.java>
+        <http://org.softlang.com/manifestsAs>
+                <http://org.softlang.com/File> ;
+        <http://org.softlang.com/partOf>
+                <repository:/src/ppo/util> .
+
+<repository:/src/ppo/USAddress.java>
+        <http://org.softlang.com/manifestsAs>
+                <http://org.softlang.com/File> ;
+        <http://org.softlang.com/partOf>
+                <repository:/src/ppo> .
+
+<repository:/bin/ppo/USAddress.class>
+        <http://org.softlang.com/manifestsAs>
+                <http://org.softlang.com/File> ;
+        <http://org.softlang.com/partOf>
+                <repository:/bin/ppo> .
+
+<repository:/bin/ppo/impl/ItemImpl.class>
+        <http://org.softlang.com/manifestsAs>
+                <http://org.softlang.com/File> ;
+        <http://org.softlang.com/partOf>
+                <repository:/bin/ppo/impl> .
+
+<repository:/bin/ppo>
+        <http://org.softlang.com/manifestsAs>
+                <http://org.softlang.com/Folder> ;
+        <http://org.softlang.com/partOf>
+                <repository:/bin> .
+
+<repository:/bin/ppo/util>
+        <http://org.softlang.com/manifestsAs>
+                <http://org.softlang.com/Folder> ;
+        <http://org.softlang.com/partOf>
+                <repository:/bin/ppo> .
+
+<repository:/build.properties>
+        <http://org.softlang.com/manifestsAs>
+                <http://org.softlang.com/File> ;
+        <http://org.softlang.com/partOf>
+                <repository:/> .
+
+<repository:/src/ppo/impl/PpoPackageImpl.java>
+        <http://org.softlang.com/manifestsAs>
+                <http://org.softlang.com/File> ;
+        <http://org.softlang.com/partOf>
+                <repository:/src/ppo/impl> .
+
+<repository:/src/ppo/PpoFactory.java>
+        <http://org.softlang.com/manifestsAs>
+                <http://org.softlang.com/File> ;
+        <http://org.softlang.com/partOf>
+                <repository:/src/ppo> .
+
+<repository:/src/ppo/util/PpoSwitch.java>
+        <http://org.softlang.com/manifestsAs>
+                <http://org.softlang.com/File> ;
+        <http://org.softlang.com/partOf>
+                <repository:/src/ppo/util> .
+
+<repository:/bin/ppo/impl/PurchaseOrderImpl.class>
+        <http://org.softlang.com/manifestsAs>
+                <http://org.softlang.com/File> ;
+        <http://org.softlang.com/partOf>
+                <repository:/bin/ppo/impl> .
+
+<repository:/.project>
+        <http://org.softlang.com/manifestsAs>
+                <http://org.softlang.com/File> ;
+        <http://org.softlang.com/partOf>
+                <repository:/> .
+
+<repository:/src/ppo/util>
+        <http://org.softlang.com/manifestsAs>
+                <http://org.softlang.com/Folder> ;
+        <http://org.softlang.com/partOf>
+                <repository:/src/ppo> .
+
+<repository:/.classpath>
+        <http://org.softlang.com/manifestsAs>
+                <http://org.softlang.com/File> ;
+        <http://org.softlang.com/partOf>
+                <repository:/> .
+
+<repository:/bin/ppo/util/PpoAdapterFactory.class>
+        <http://org.softlang.com/manifestsAs>
+                <http://org.softlang.com/File> ;
+        <http://org.softlang.com/partOf>
+                <repository:/bin/ppo/util> .
+
+<repository:/bin/ppo/impl>
+        <http://org.softlang.com/manifestsAs>
+                <http://org.softlang.com/Folder> ;
+        <http://org.softlang.com/partOf>
+                <repository:/bin/ppo> .
+
+<repository:/src/ppo/impl/PpoFactoryImpl.java>
+        <http://org.softlang.com/manifestsAs>
+                <http://org.softlang.com/File> ;
+        <http://org.softlang.com/partOf>
+                <repository:/src/ppo/impl> .
+
+<repository:/>  <http://org.softlang.com/manifestsAs>
+                <http://org.softlang.com/Folder> .

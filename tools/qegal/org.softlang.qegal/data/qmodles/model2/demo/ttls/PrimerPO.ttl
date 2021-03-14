@@ -1,0 +1,1740 @@
+<repository:/src/ppo/impl/PpoFactoryImpl.java#/type(1)/extendedTypes(1)>
+        <http://org.softlang.com/elementOf>
+                <http://org.softlang.com/ExtendedTypeJava> ;
+        <http://org.softlang.com/env/escope>
+                <cls:EObject> , <repository:/model/PrimerPO.genmodel#/element/content(4)> , <repository:/src/ppo/impl> , <repository:/src/ppo/impl/PpoFactoryImpl.java> , <repository:/src/ppo> ;
+        <http://org.softlang.com/env/usescope>
+                <repository:/src/ppo/impl> , <repository:/src/ppo/impl/PpoFactoryImpl.java> ;
+        <http://org.softlang.com/partOf>
+                <repository:/src/ppo/impl/PpoFactoryImpl.java> .
+
+<repository:/model/PrimerPO.genmodel#/element/content(4)/content(10)/content(6)>
+        <http://org.softlang.com/elementOf>
+                <http://org.softlang.com/XMIElement> ;
+        <http://org.softlang.com/partOf>
+                <repository:/model/PrimerPO.genmodel#/element/content(4)/content(10)> .
+
+<repository:/src/ppo/impl/PurchaseOrderImpl.java#/imports(13)>
+        <http://org.softlang.com/elementOf>
+                <http://org.softlang.com/ImportJava> ;
+        <http://org.softlang.com/partOf>
+                <repository:/src/ppo/impl/PurchaseOrderImpl.java> .
+
+<repository:/src/ppo/impl/PpoPackageImpl.java#/imports(3)>
+        <http://org.softlang.com/elementOf>
+                <http://org.softlang.com/ImportJava> ;
+        <http://org.softlang.com/partOf>
+                <repository:/src/ppo/impl/PpoPackageImpl.java> .
+
+<repository:/model/PrimerPO.ecore#/element/content(3)>
+        <http://org.softlang.com/elementOf>
+                <http://org.softlang.com/XMIElement> ;
+        <http://org.softlang.com/partOf>
+                <repository:/model/PrimerPO.ecore#/element> .
+
+<repository:/src/ppo/impl/PpoFactoryImpl.java#/imports(3)>
+        <http://org.softlang.com/elementOf>
+                <http://org.softlang.com/ImportJava> ;
+        <http://org.softlang.com/partOf>
+                <repository:/src/ppo/impl/PpoFactoryImpl.java> .
+
+<repository:/model/PrimerPO.genmodel#/element/content(4)/content(3)>
+        <http://org.softlang.com/elementOf>
+                <http://org.softlang.com/XMIElement> ;
+        <http://org.softlang.com/partOf>
+                <repository:/model/PrimerPO.genmodel#/element/content(4)> .
+
+<repository:/src/ppo/Item.java#/type(1)/extendedTypes(1)>
+        <http://org.softlang.com/elementOf>
+                <http://org.softlang.com/ExtendedTypeJava> ;
+        <http://org.softlang.com/env/escope>
+                <cls:EObject> , <repository:/src/ppo/Item.java> , <repository:/src/ppo> ;
+        <http://org.softlang.com/env/usescope>
+                <repository:/src/ppo> , <repository:/src/ppo/Item.java> ;
+        <http://org.softlang.com/partOf>
+                <repository:/src/ppo/Item.java> .
+
+<repository:/model/PrimerPO.ecore#/element/content(2)/content(1)>
+        <http://org.softlang.com/elementOf>
+                <http://org.softlang.com/XMIElement> ;
+        <http://org.softlang.com/partOf>
+                <repository:/model/PrimerPO.ecore#/element/content(2)> .
+
+<repository:/model/PrimerPO.ecore#/element/content(6)/content(3)>
+        <http://org.softlang.com/elementOf>
+                <http://org.softlang.com/XMIElement> ;
+        <http://org.softlang.com/partOf>
+                <repository:/model/PrimerPO.ecore#/element/content(6)> .
+
+<repository:/model/PrimerPO.genmodel#/element/content(4)/content(8)/content(6)>
+        <http://org.softlang.com/elementOf>
+                <http://org.softlang.com/XMIElement> ;
+        <http://org.softlang.com/partOf>
+                <repository:/model/PrimerPO.genmodel#/element/content(4)/content(8)> .
+
+<repository:/src/ppo/impl/PpoPackageImpl.java#/imports(8)>
+        <http://org.softlang.com/elementOf>
+                <http://org.softlang.com/ImportJava> ;
+        <http://org.softlang.com/partOf>
+                <repository:/src/ppo/impl/PpoPackageImpl.java> .
+
+<repository:/model/PrimerPO.ecore#/element/content(8)>
+        <http://org.softlang.com/elementOf>
+                <http://org.softlang.com/XMIElement> ;
+        <http://org.softlang.com/partOf>
+                <repository:/model/PrimerPO.ecore#/element> .
+
+<repository:/src/ppo/PpoPackage.java#/imports(4)>
+        <http://org.softlang.com/elementOf>
+                <http://org.softlang.com/ImportJava> ;
+        <http://org.softlang.com/partOf>
+                <repository:/src/ppo/PpoPackage.java> .
+
+<repository:/src/ppo/impl/PpoFactoryImpl.java#/imports(8)>
+        <http://org.softlang.com/elementOf>
+                <http://org.softlang.com/ImportJava> ;
+        <http://org.softlang.com/partOf>
+                <repository:/src/ppo/impl/PpoFactoryImpl.java> .
+
+<repository:/model/PrimerPO.genmodel#/element/content(4)/content(8)>
+        <http://org.softlang.com/GenerateJavaCode>
+                <repository:/src/ppo/impl/USAddressImpl.java> , <repository:/src/ppo/USAddress.java> ;
+        <http://org.softlang.com/elementOf>
+                <http://org.softlang.com/XMIElement> ;
+        <http://org.softlang.com/env/qname>
+                "ppo.USAddress" ;
+        <http://org.softlang.com/env/sname>
+                "USAddress" ;
+        <http://org.softlang.com/instanceOf>
+                <http://org.softlang.com/GeneratorClass> ;
+        <http://org.softlang.com/partOf>
+                <repository:/model/PrimerPO.genmodel#/element/content(4)> .
+
+<repository:/model/PrimerPO.ecore#/element/content(2)/content(6)>
+        <http://org.softlang.com/elementOf>
+                <http://org.softlang.com/XMIElement> ;
+        <http://org.softlang.com/partOf>
+                <repository:/model/PrimerPO.ecore#/element/content(2)> .
+
+<repository:/model/PrimerPO.ecore#/element/content(6)/content(8)>
+        <http://org.softlang.com/elementOf>
+                <http://org.softlang.com/XMIElement> ;
+        <http://org.softlang.com/partOf>
+                <repository:/model/PrimerPO.ecore#/element/content(6)> .
+
+<repository:/src/ppo/util/PpoSwitch.java#/imports(2)>
+        <http://org.softlang.com/elementOf>
+                <http://org.softlang.com/ImportJava> ;
+        <http://org.softlang.com/partOf>
+                <repository:/src/ppo/util/PpoSwitch.java> .
+
+<repository:/src/ppo/impl/PpoPackageImpl.java#/imports(11)>
+        <http://org.softlang.com/elementOf>
+                <http://org.softlang.com/ImportJava> ;
+        <http://org.softlang.com/partOf>
+                <repository:/src/ppo/impl/PpoPackageImpl.java> .
+
+<repository:/src/ppo/util/PpoAdapterFactory.java#/imports(1)>
+        <http://org.softlang.com/elementOf>
+                <http://org.softlang.com/ImportJava> ;
+        <http://org.softlang.com/partOf>
+                <repository:/src/ppo/util/PpoAdapterFactory.java> .
+
+<repository:/src/ppo/impl/ItemImpl.java#/type(1)/extendedTypes(1)>
+        <http://org.softlang.com/elementOf>
+                <http://org.softlang.com/ExtendedTypeJava> ;
+        <http://org.softlang.com/env/escope>
+                <repository:/model/PrimerPO.genmodel#/element/content(4)/content(10)> , <repository:/src/ppo/PpoPackage.java> , <repository:/src/ppo/Item.java> , <repository:/src/ppo/impl/ItemImpl.java> , <repository:/src/ppo/impl> ;
+        <http://org.softlang.com/env/usescope>
+                <repository:/src/ppo/impl> , <repository:/src/ppo/impl/ItemImpl.java> ;
+        <http://org.softlang.com/partOf>
+                <repository:/src/ppo/impl/ItemImpl.java> .
+
+<repository:/model/PrimerPO.genmodel#/element/content(1)>
+        <http://org.softlang.com/elementOf>
+                <http://org.softlang.com/XMIElement> ;
+        <http://org.softlang.com/partOf>
+                <repository:/model/PrimerPO.genmodel#/element> .
+
+<repository:/src/ppo/impl/USAddressImpl.java#/type(1)/extendedTypes(1)>
+        <http://org.softlang.com/elementOf>
+                <http://org.softlang.com/ExtendedTypeJava> ;
+        <http://org.softlang.com/env/escope>
+                <repository:/model/PrimerPO.genmodel#/element/content(4)/content(8)> , <repository:/src/ppo/impl> , <repository:/src/ppo/PpoPackage.java> , <repository:/src/ppo/USAddress.java> , <repository:/src/ppo/impl/USAddressImpl.java> ;
+        <http://org.softlang.com/env/usescope>
+                <repository:/src/ppo/impl> , <repository:/src/ppo/impl/USAddressImpl.java> ;
+        <http://org.softlang.com/partOf>
+                <repository:/src/ppo/impl/USAddressImpl.java> .
+
+<repository:/src/ppo/impl/PurchaseOrderImpl.java#/type(1)/implementedTypes(1)>
+        <http://org.softlang.com/elementOf>
+                <http://org.softlang.com/ImplementedTypeJava> ;
+        <http://org.softlang.com/env/escope>
+                <repository:/src/ppo/PurchaseOrder.java> , <repository:/src/ppo/USAddress.java> , <repository:/model/PrimerPO.genmodel#/element/content(4)/content(10)> , <repository:/src/ppo/PpoPackage.java> , <repository:/src/ppo/impl/PurchaseOrderImpl.java> , <repository:/src/ppo/Item.java> , <repository:/model/PrimerPO.genmodel#/element/content(4)/content(6)> , <repository:/src/ppo/impl> , <repository:/model/PrimerPO.genmodel#/element/content(4)/content(8)> ;
+        <http://org.softlang.com/env/usescope>
+                <repository:/src/ppo/impl/PurchaseOrderImpl.java> , <repository:/src/ppo/impl> ;
+        <http://org.softlang.com/partOf>
+                <repository:/src/ppo/impl/PurchaseOrderImpl.java> .
+
+<repository:/plugin.properties>
+        <http://org.softlang.com/manifestsAs>
+                <http://org.softlang.com/File> ;
+        <http://org.softlang.com/partOf>
+                <repository:/> .
+
+<repository:/model/PrimerPO.ecore#/element/content(2)/content(10)>
+        <http://org.softlang.com/elementOf>
+                <http://org.softlang.com/XMIElement> ;
+        <http://org.softlang.com/partOf>
+                <repository:/model/PrimerPO.ecore#/element/content(2)> .
+
+<repository:/src/ppo/impl/USAddressImpl.java#/imports(5)>
+        <http://org.softlang.com/elementOf>
+                <http://org.softlang.com/ImportJava> ;
+        <http://org.softlang.com/partOf>
+                <repository:/src/ppo/impl/USAddressImpl.java> .
+
+<repository:/src/ppo/impl/ItemImpl.java#/imports(4)>
+        <http://org.softlang.com/elementOf>
+                <http://org.softlang.com/ImportJava> ;
+        <http://org.softlang.com/partOf>
+                <repository:/src/ppo/impl/ItemImpl.java> .
+
+<repository:/bin>  <http://org.softlang.com/manifestsAs>
+                <http://org.softlang.com/Folder> ;
+        <http://org.softlang.com/partOf>
+                <repository:/> .
+
+<repository:/model/PrimerPO.genmodel#/element/content(4)/content(6)/content(3)>
+        <http://org.softlang.com/elementOf>
+                <http://org.softlang.com/XMIElement> ;
+        <http://org.softlang.com/partOf>
+                <repository:/model/PrimerPO.genmodel#/element/content(4)/content(6)> .
+
+<repository:/src/ppo/PurchaseOrder.java#/imports(1)>
+        <http://org.softlang.com/elementOf>
+                <http://org.softlang.com/ImportJava> ;
+        <http://org.softlang.com/partOf>
+                <repository:/src/ppo/PurchaseOrder.java> .
+
+<repository:/src/ppo/impl/PurchaseOrderImpl.java#/imports(5)>
+        <http://org.softlang.com/elementOf>
+                <http://org.softlang.com/ImportJava> ;
+        <http://org.softlang.com/partOf>
+                <repository:/src/ppo/impl/PurchaseOrderImpl.java> .
+
+<repository:/model/PrimerPO.ecore#/element/content(4)/content(5)>
+        <http://org.softlang.com/elementOf>
+                <http://org.softlang.com/XMIElement> ;
+        <http://org.softlang.com/partOf>
+                <repository:/model/PrimerPO.ecore#/element/content(4)> .
+
+<repository:/bin/ppo/PpoPackage.class>
+        <http://org.softlang.com/manifestsAs>
+                <http://org.softlang.com/File> ;
+        <http://org.softlang.com/partOf>
+                <repository:/bin/ppo> .
+
+<repository:/model/PrimerPO.ecore#/element/content(4)/content(13)>
+        <http://org.softlang.com/elementOf>
+                <http://org.softlang.com/XMIElement> ;
+        <http://org.softlang.com/partOf>
+                <repository:/model/PrimerPO.ecore#/element/content(4)> .
+
+<repository:/src/ppo/util/PpoAdapterFactory.java#/type(1)/extendedTypes(1)>
+        <http://org.softlang.com/elementOf>
+                <http://org.softlang.com/ExtendedTypeJava> ;
+        <http://org.softlang.com/env/escope>
+                <repository:/src/ppo/util> , <cls:EObject> , <repository:/src/ppo> , <repository:/model/PrimerPO.genmodel#/element/content(4)> , <repository:/src/ppo/util/PpoAdapterFactory.java> , <cls:AdapterFactoryImpl> ;
+        <http://org.softlang.com/env/usescope>
+                <repository:/src/ppo/util/PpoAdapterFactory.java> , <repository:/src/ppo/util> ;
+        <http://org.softlang.com/partOf>
+                <repository:/src/ppo/util/PpoAdapterFactory.java> .
+
+<repository:/model/PrimerPO.genmodel#/element/content(4)/content(6)/content(8)>
+        <http://org.softlang.com/elementOf>
+                <http://org.softlang.com/XMIElement> ;
+        <http://org.softlang.com/partOf>
+                <repository:/model/PrimerPO.genmodel#/element/content(4)/content(6)> .
+
+<repository:/.project>
+        <http://org.softlang.com/manifestsAs>
+                <http://org.softlang.com/File> ;
+        <http://org.softlang.com/partOf>
+                <repository:/> .
+
+<repository:/src/ppo/USAddress.java#/imports(1)>
+        <http://org.softlang.com/elementOf>
+                <http://org.softlang.com/ImportJava> ;
+        <http://org.softlang.com/partOf>
+                <repository:/src/ppo/USAddress.java> .
+
+<repository:/src/ppo/impl>
+        <http://org.softlang.com/elementOf>
+                <http://org.softlang.com/PackageJava> ;
+        <http://org.softlang.com/env/escope>
+                <repository:/src/ppo/impl> ;
+        <http://org.softlang.com/env/inscope>
+                <repository:/src/ppo/impl> ;
+        <http://org.softlang.com/env/qname>
+                "ppo.impl" ;
+        <http://org.softlang.com/manifestsAs>
+                <http://org.softlang.com/Folder> ;
+        <http://org.softlang.com/partOf>
+                <repository:/src/ppo> .
+
+<repository:/src/ppo/Item.java#/imports(1)>
+        <http://org.softlang.com/elementOf>
+                <http://org.softlang.com/ImportJava> ;
+        <http://org.softlang.com/partOf>
+                <repository:/src/ppo/Item.java> .
+
+<repository:/src/ppo/impl/PurchaseOrderImpl.java#/imports(12)>
+        <http://org.softlang.com/elementOf>
+                <http://org.softlang.com/ImportJava> ;
+        <http://org.softlang.com/partOf>
+                <repository:/src/ppo/impl/PurchaseOrderImpl.java> .
+
+<repository:/src/ppo/impl/PpoPackageImpl.java#/imports(2)>
+        <http://org.softlang.com/elementOf>
+                <http://org.softlang.com/ImportJava> ;
+        <http://org.softlang.com/partOf>
+                <repository:/src/ppo/impl/PpoPackageImpl.java> .
+
+<repository:/model/PrimerPO.genmodel#/element/content(4)/content(10)/content(5)>
+        <http://org.softlang.com/elementOf>
+                <http://org.softlang.com/XMIElement> ;
+        <http://org.softlang.com/partOf>
+                <repository:/model/PrimerPO.genmodel#/element/content(4)/content(10)> .
+
+<repository:/model/PrimerPO.ecore#/element/content(2)>
+        <http://org.softlang.com/elementOf>
+                <http://org.softlang.com/XMIElement> ;
+        <http://org.softlang.com/partOf>
+                <repository:/model/PrimerPO.ecore#/element> .
+
+<repository:/src/ppo/PpoPackage.java#/type(1)/extendedTypes(1)>
+        <http://org.softlang.com/elementOf>
+                <http://org.softlang.com/ExtendedTypeJava> ;
+        <http://org.softlang.com/env/escope>
+                <repository:/src/ppo> , <repository:/src/ppo/PpoPackage.java> ;
+        <http://org.softlang.com/env/usescope>
+                <repository:/src/ppo> , <repository:/src/ppo/PpoPackage.java> ;
+        <http://org.softlang.com/partOf>
+                <repository:/src/ppo/PpoPackage.java> .
+
+<repository:/bin/ppo/util/PpoAdapterFactory$1.class>
+        <http://org.softlang.com/manifestsAs>
+                <http://org.softlang.com/File> ;
+        <http://org.softlang.com/partOf>
+                <repository:/bin/ppo/util> .
+
+<repository:/src/ppo/impl/PpoFactoryImpl.java#/imports(2)>
+        <http://org.softlang.com/elementOf>
+                <http://org.softlang.com/ImportJava> ;
+        <http://org.softlang.com/partOf>
+                <repository:/src/ppo/impl/PpoFactoryImpl.java> .
+
+<repository:/model/PrimerPO.genmodel#/element/content(4)/content(2)>
+        <http://org.softlang.com/elementOf>
+                <http://org.softlang.com/XMIElement> ;
+        <http://org.softlang.com/partOf>
+                <repository:/model/PrimerPO.genmodel#/element/content(4)> .
+
+<repository:/model/PrimerPO.ecore#/element/content(6)/content(2)>
+        <http://org.softlang.com/elementOf>
+                <http://org.softlang.com/XMIElement> ;
+        <http://org.softlang.com/partOf>
+                <repository:/model/PrimerPO.ecore#/element/content(6)> .
+
+<repository:/src/ppo/PpoFactory.java#/imports(1)>
+        <http://org.softlang.com/elementOf>
+                <http://org.softlang.com/ImportJava> ;
+        <http://org.softlang.com/partOf>
+                <repository:/src/ppo/PpoFactory.java> .
+
+<repository:/model/PrimerPO.genmodel#/element/content(4)/content(8)/content(5)>
+        <http://org.softlang.com/elementOf>
+                <http://org.softlang.com/XMIElement> ;
+        <http://org.softlang.com/partOf>
+                <repository:/model/PrimerPO.genmodel#/element/content(4)/content(8)> .
+
+<repository:/model/PrimerPO.genmodel>
+        <http://org.softlang.com/elementOf>
+                <http://org.softlang.com/XMI> ;
+        <http://org.softlang.com/instanceOf>
+                <http://org.softlang.com/GeneratorModel> ;
+        <http://org.softlang.com/manifestsAs>
+                <http://org.softlang.com/File> ;
+        <http://org.softlang.com/partOf>
+                <repository:/model> .
+
+<repository:/src/ppo/impl/PpoPackageImpl.java#/imports(7)>
+        <http://org.softlang.com/elementOf>
+                <http://org.softlang.com/ImportJava> ;
+        <http://org.softlang.com/partOf>
+                <repository:/src/ppo/impl/PpoPackageImpl.java> .
+
+<repository:/model/PrimerPO.ecore#/element/content(7)>
+        <http://org.softlang.com/elementOf>
+                <http://org.softlang.com/XMIElement> ;
+        <http://org.softlang.com/partOf>
+                <repository:/model/PrimerPO.ecore#/element> .
+
+<repository:/src/ppo/USAddress.java#/type(1)/extendedTypes(1)>
+        <http://org.softlang.com/elementOf>
+                <http://org.softlang.com/ExtendedTypeJava> ;
+        <http://org.softlang.com/env/escope>
+                <cls:EObject> , <repository:/src/ppo> , <repository:/src/ppo/USAddress.java> ;
+        <http://org.softlang.com/env/usescope>
+                <repository:/src/ppo> , <repository:/src/ppo/USAddress.java> ;
+        <http://org.softlang.com/partOf>
+                <repository:/src/ppo/USAddress.java> .
+
+<repository:/model/PrimerPO.genmodel#/element/content(4)/content(7)>
+        <http://org.softlang.com/elementOf>
+                <http://org.softlang.com/XMIElement> ;
+        <http://org.softlang.com/partOf>
+                <repository:/model/PrimerPO.genmodel#/element/content(4)> .
+
+<repository:/src/ppo>
+        <http://org.softlang.com/elementOf>
+                <http://org.softlang.com/PackageJava> ;
+        <http://org.softlang.com/env/escope>
+                <repository:/src/ppo> ;
+        <http://org.softlang.com/env/inscope>
+                <repository:/src/ppo> ;
+        <http://org.softlang.com/env/qname>
+                "ppo" ;
+        <http://org.softlang.com/manifestsAs>
+                <http://org.softlang.com/Folder> ;
+        <http://org.softlang.com/partOf>
+                <repository:/src> .
+
+<repository:/src/ppo/PpoPackage.java#/imports(3)>
+        <http://org.softlang.com/elementOf>
+                <http://org.softlang.com/ImportJava> ;
+        <http://org.softlang.com/partOf>
+                <repository:/src/ppo/PpoPackage.java> .
+
+<repository:/src/ppo/impl/ItemImpl.java#/type(1)/implementedTypes(1)>
+        <http://org.softlang.com/elementOf>
+                <http://org.softlang.com/ImplementedTypeJava> ;
+        <http://org.softlang.com/env/escope>
+                <repository:/model/PrimerPO.genmodel#/element/content(4)/content(10)> , <repository:/src/ppo/PpoPackage.java> , <repository:/src/ppo/Item.java> , <repository:/src/ppo/impl/ItemImpl.java> , <repository:/src/ppo/impl> ;
+        <http://org.softlang.com/env/usescope>
+                <repository:/src/ppo/impl> , <repository:/src/ppo/impl/ItemImpl.java> ;
+        <http://org.softlang.com/partOf>
+                <repository:/src/ppo/impl/ItemImpl.java> .
+
+<repository:/src/ppo/impl/PpoFactoryImpl.java#/imports(7)>
+        <http://org.softlang.com/elementOf>
+                <http://org.softlang.com/ImportJava> ;
+        <http://org.softlang.com/partOf>
+                <repository:/src/ppo/impl/PpoFactoryImpl.java> .
+
+<repository:/model/PrimerPO.ecore#/element/content(2)/content(5)>
+        <http://org.softlang.com/elementOf>
+                <http://org.softlang.com/XMIElement> ;
+        <http://org.softlang.com/partOf>
+                <repository:/model/PrimerPO.ecore#/element/content(2)> .
+
+<repository:/model/PrimerPO.ecore#/element/content(6)/content(7)>
+        <http://org.softlang.com/elementOf>
+                <http://org.softlang.com/XMIElement> ;
+        <http://org.softlang.com/partOf>
+                <repository:/model/PrimerPO.ecore#/element/content(6)> .
+
+<repository:/src/ppo/util/PpoSwitch.java#/imports(1)>
+        <http://org.softlang.com/elementOf>
+                <http://org.softlang.com/ImportJava> ;
+        <http://org.softlang.com/partOf>
+                <repository:/src/ppo/util/PpoSwitch.java> .
+
+<repository:/src/ppo/impl/PpoPackageImpl.java#/imports(10)>
+        <http://org.softlang.com/elementOf>
+                <http://org.softlang.com/ImportJava> ;
+        <http://org.softlang.com/partOf>
+                <repository:/src/ppo/impl/PpoPackageImpl.java> .
+
+<repository:/model/PrimerPO.genmodel#/element/content(4)/content(8)/content(13)>
+        <http://org.softlang.com/elementOf>
+                <http://org.softlang.com/XMIElement> ;
+        <http://org.softlang.com/partOf>
+                <repository:/model/PrimerPO.genmodel#/element/content(4)/content(8)> .
+
+<repository:/src/ppo/util/PpoSwitch.java>
+        <http://org.softlang.com/elementOf>
+                <http://org.softlang.com/Java> ;
+        <http://org.softlang.com/env/escope>
+                <repository:/model/PrimerPO.genmodel#/element/content(4)> , <repository:/src/ppo/util> , <repository:/src/ppo/util/PpoSwitch.java> , <repository:/src/ppo> , <cls:EObject> ;
+        <http://org.softlang.com/env/inscope>
+                <repository:/src/ppo/util/PpoSwitch.java> , <repository:/src/ppo/util> ;
+        <http://org.softlang.com/env/qname>
+                "ppo.util.PpoSwitch" ;
+        <http://org.softlang.com/env/sname>
+                "PpoSwitch" ;
+        <http://org.softlang.com/env/usescope>
+                <repository:/src/ppo/util> ;
+        <http://org.softlang.com/manifestsAs>
+                <http://org.softlang.com/File> ;
+        <http://org.softlang.com/partOf>
+                <repository:/src/ppo/util> .
+
+<repository:/src/ppo/Item.java>
+        <http://org.softlang.com/elementOf>
+                <http://org.softlang.com/Java> ;
+        <http://org.softlang.com/env/escope>
+                <repository:/src/ppo/Item.java> , <cls:EObject> , <repository:/src/ppo> ;
+        <http://org.softlang.com/env/inscope>
+                <repository:/src/ppo/Item.java> , <repository:/src/ppo> ;
+        <http://org.softlang.com/env/qname>
+                "ppo.Item" ;
+        <http://org.softlang.com/env/sname>
+                "Item" ;
+        <http://org.softlang.com/env/usescope>
+                <repository:/src/ppo> ;
+        <http://org.softlang.com/extend>
+                <cls:EObject> ;
+        <http://org.softlang.com/instanceOf>
+                <http://org.softlang.com/Interface> ;
+        <http://org.softlang.com/manifestsAs>
+                <http://org.softlang.com/File> ;
+        <http://org.softlang.com/partOf>
+                <repository:/src/ppo> .
+
+<cls:EObject>  <http://org.softlang.com/elementOf>
+                <http://org.softlang.com/Java> ;
+        <http://org.softlang.com/env/escope>
+                <cls:EObject> ;
+        <http://org.softlang.com/env/inscope>
+                <cls:EObject> ;
+        <http://org.softlang.com/env/qname>
+                "org.eclipse.emf.ecore.EObject" ;
+        <http://org.softlang.com/env/sname>
+                "EObject" .
+
+<repository:/src/ppo/util/PpoAdapterFactory.java>
+        <http://org.softlang.com/elementOf>
+                <http://org.softlang.com/Java> ;
+        <http://org.softlang.com/env/escope>
+                <cls:EObject> , <repository:/src/ppo/util> , <repository:/src/ppo> , <repository:/src/ppo/util/PpoAdapterFactory.java> , <cls:AdapterFactoryImpl> , <repository:/model/PrimerPO.genmodel#/element/content(4)> ;
+        <http://org.softlang.com/env/inscope>
+                <repository:/src/ppo/util/PpoAdapterFactory.java> , <repository:/src/ppo/util> ;
+        <http://org.softlang.com/env/qname>
+                "ppo.util.PpoAdapterFactory" ;
+        <http://org.softlang.com/env/sname>
+                "PpoAdapterFactory" ;
+        <http://org.softlang.com/env/usescope>
+                <repository:/src/ppo/util> ;
+        <http://org.softlang.com/extend>
+                <cls:AdapterFactoryImpl> ;
+        <http://org.softlang.com/instanceOf>
+                <http://org.softlang.com/AdapterFactory> ;
+        <http://org.softlang.com/manifestsAs>
+                <http://org.softlang.com/File> ;
+        <http://org.softlang.com/partOf>
+                <repository:/src/ppo/util> .
+
+<repository:/src/ppo/util/PpoAdapterFactory.java#/imports(5)>
+        <http://org.softlang.com/elementOf>
+                <http://org.softlang.com/ImportJava> ;
+        <http://org.softlang.com/partOf>
+                <repository:/src/ppo/util/PpoAdapterFactory.java> .
+
+<repository:/model/PrimerPO.genmodel#/element/content(5)>
+        <http://org.softlang.com/elementOf>
+                <http://org.softlang.com/XMIElement> ;
+        <http://org.softlang.com/partOf>
+                <repository:/model/PrimerPO.genmodel#/element> .
+
+<repository:/bin/ppo/PpoFactory.class>
+        <http://org.softlang.com/manifestsAs>
+                <http://org.softlang.com/File> ;
+        <http://org.softlang.com/partOf>
+                <repository:/bin/ppo> .
+
+<repository:/model/PrimerPO.genmodel#/element/content(4)/content(11)>
+        <http://org.softlang.com/elementOf>
+                <http://org.softlang.com/XMIElement> ;
+        <http://org.softlang.com/partOf>
+                <repository:/model/PrimerPO.genmodel#/element/content(4)> .
+
+<repository:/src/ppo/impl/USAddressImpl.java#/imports(4)>
+        <http://org.softlang.com/elementOf>
+                <http://org.softlang.com/ImportJava> ;
+        <http://org.softlang.com/partOf>
+                <repository:/src/ppo/impl/USAddressImpl.java> .
+
+<repository:/src/ppo/impl/ItemImpl.java#/imports(3)>
+        <http://org.softlang.com/elementOf>
+                <http://org.softlang.com/ImportJava> ;
+        <http://org.softlang.com/partOf>
+                <repository:/src/ppo/impl/ItemImpl.java> .
+
+<repository:/bin/ppo/PurchaseOrder.class>
+        <http://org.softlang.com/manifestsAs>
+                <http://org.softlang.com/File> ;
+        <http://org.softlang.com/partOf>
+                <repository:/bin/ppo> .
+
+<repository:/model/PrimerPO.ecore#/element>
+        <http://org.softlang.com/CreateGeneratorModelPackage>
+                <repository:/model/PrimerPO.genmodel#/element/content(4)> ;
+        <http://org.softlang.com/elementOf>
+                <http://org.softlang.com/XMIElement> ;
+        <http://org.softlang.com/instanceOf>
+                <http://org.softlang.com/EPackage> ;
+        <http://org.softlang.com/partOf>
+                <repository:/model/PrimerPO.ecore> .
+
+<repository:/model/PrimerPO.genmodel#/element/content(4)/content(6)/content(2)>
+        <http://org.softlang.com/elementOf>
+                <http://org.softlang.com/XMIElement> ;
+        <http://org.softlang.com/partOf>
+                <repository:/model/PrimerPO.genmodel#/element/content(4)/content(6)> .
+
+<repository:/src/ppo/impl/USAddressImpl.java>
+        <http://org.softlang.com/elementOf>
+                <http://org.softlang.com/Java> ;
+        <http://org.softlang.com/env/escope>
+                <repository:/src/ppo/impl> , <repository:/src/ppo/impl/USAddressImpl.java> , <repository:/src/ppo/USAddress.java> , <repository:/src/ppo/PpoPackage.java> , <repository:/model/PrimerPO.genmodel#/element/content(4)/content(8)> ;
+        <http://org.softlang.com/env/inscope>
+                <repository:/src/ppo/impl> , <repository:/src/ppo/impl/USAddressImpl.java> ;
+        <http://org.softlang.com/env/qname>
+                "ppo.impl.USAddressImpl" ;
+        <http://org.softlang.com/env/sname>
+                "USAddressImpl" ;
+        <http://org.softlang.com/env/usescope>
+                <repository:/src/ppo/impl> ;
+        <http://org.softlang.com/implement>
+                <repository:/src/ppo/USAddress.java> ;
+        <http://org.softlang.com/instanceOf>
+                <http://org.softlang.com/InterfaceImpl> ;
+        <http://org.softlang.com/manifestsAs>
+                <http://org.softlang.com/File> ;
+        <http://org.softlang.com/partOf>
+                <repository:/src/ppo/impl> .
+
+<repository:/bin/ppo/Item.class>
+        <http://org.softlang.com/manifestsAs>
+                <http://org.softlang.com/File> ;
+        <http://org.softlang.com/partOf>
+                <repository:/bin/ppo> .
+
+<repository:/src/ppo/impl/PurchaseOrderImpl.java#/imports(4)>
+        <http://org.softlang.com/elementOf>
+                <http://org.softlang.com/ImportJava> ;
+        <http://org.softlang.com/partOf>
+                <repository:/src/ppo/impl/PurchaseOrderImpl.java> .
+
+<repository:/model/PrimerPO.ecore#/element/content(4)/content(4)>
+        <http://org.softlang.com/elementOf>
+                <http://org.softlang.com/XMIElement> ;
+        <http://org.softlang.com/partOf>
+                <repository:/model/PrimerPO.ecore#/element/content(4)> .
+
+<repository:/model/PrimerPO.ecore#/element/content(4)/content(12)>
+        <http://org.softlang.com/elementOf>
+                <http://org.softlang.com/XMIElement> ;
+        <http://org.softlang.com/partOf>
+                <repository:/model/PrimerPO.ecore#/element/content(4)> .
+
+<repository:/model/PrimerPO.genmodel#/element/content(4)/content(6)/content(7)>
+        <http://org.softlang.com/elementOf>
+                <http://org.softlang.com/XMIElement> ;
+        <http://org.softlang.com/partOf>
+                <repository:/model/PrimerPO.genmodel#/element/content(4)/content(6)> .
+
+<repository:/model/PrimerPO.ecore#/element/content(6)/content(13)>
+        <http://org.softlang.com/elementOf>
+                <http://org.softlang.com/XMIElement> ;
+        <http://org.softlang.com/partOf>
+                <repository:/model/PrimerPO.ecore#/element/content(6)> .
+
+<repository:/model/PrimerPO.genmodel#/element/content(4)/content(10)/content(4)>
+        <http://org.softlang.com/elementOf>
+                <http://org.softlang.com/XMIElement> ;
+        <http://org.softlang.com/partOf>
+                <repository:/model/PrimerPO.genmodel#/element/content(4)/content(10)> .
+
+<repository:/src/ppo/impl/PpoPackageImpl.java#/type(1)/extendedTypes(1)>
+        <http://org.softlang.com/elementOf>
+                <http://org.softlang.com/ExtendedTypeJava> ;
+        <http://org.softlang.com/env/escope>
+                <repository:/src/ppo/PurchaseOrder.java> , <repository:/src/ppo/PpoFactory.java> , <repository:/src/ppo/impl> , <repository:/src/ppo/impl/PpoPackageImpl.java> , <repository:/src/ppo/PpoPackage.java> , <repository:/src/ppo/USAddress.java> , <repository:/model/PrimerPO.genmodel#/element/content(4)/content(10)> , <repository:/model/PrimerPO.genmodel#/element/content(4)/content(6)> , <repository:/model/PrimerPO.genmodel#/element/content(4)/content(8)> , <repository:/src/ppo/Item.java> ;
+        <http://org.softlang.com/env/usescope>
+                <repository:/src/ppo/impl> , <repository:/src/ppo/impl/PpoPackageImpl.java> ;
+        <http://org.softlang.com/partOf>
+                <repository:/src/ppo/impl/PpoPackageImpl.java> .
+
+<repository:/src/ppo/impl/PurchaseOrderImpl.java#/imports(11)>
+        <http://org.softlang.com/elementOf>
+                <http://org.softlang.com/ImportJava> ;
+        <http://org.softlang.com/partOf>
+                <repository:/src/ppo/impl/PurchaseOrderImpl.java> .
+
+<repository:/src/ppo/impl/PpoPackageImpl.java#/imports(1)>
+        <http://org.softlang.com/elementOf>
+                <http://org.softlang.com/ImportJava> ;
+        <http://org.softlang.com/partOf>
+                <repository:/src/ppo/impl/PpoPackageImpl.java> .
+
+<repository:/plugin.xml>
+        <http://org.softlang.com/manifestsAs>
+                <http://org.softlang.com/File> ;
+        <http://org.softlang.com/partOf>
+                <repository:/> .
+
+<repository:/src/ppo/impl/PurchaseOrderImpl.java#/imports(9)>
+        <http://org.softlang.com/elementOf>
+                <http://org.softlang.com/ImportJava> ;
+        <http://org.softlang.com/partOf>
+                <repository:/src/ppo/impl/PurchaseOrderImpl.java> .
+
+<repository:/model/PrimerPO.ecore#/element/content(1)>
+        <http://org.softlang.com/elementOf>
+                <http://org.softlang.com/XMIElement> ;
+        <http://org.softlang.com/partOf>
+                <repository:/model/PrimerPO.ecore#/element> .
+
+<repository:/model/PrimerPO.ecore#/element/content(4)/content(9)>
+        <http://org.softlang.com/elementOf>
+                <http://org.softlang.com/XMIElement> ;
+        <http://org.softlang.com/partOf>
+                <repository:/model/PrimerPO.ecore#/element/content(4)> .
+
+<repository:/src/ppo/impl/PpoFactoryImpl.java#/imports(1)>
+        <http://org.softlang.com/elementOf>
+                <http://org.softlang.com/ImportJava> ;
+        <http://org.softlang.com/partOf>
+                <repository:/src/ppo/impl/PpoFactoryImpl.java> .
+
+<repository:/model/PrimerPO.genmodel#/element/content(4)/content(1)>
+        <http://org.softlang.com/elementOf>
+                <http://org.softlang.com/XMIElement> ;
+        <http://org.softlang.com/partOf>
+                <repository:/model/PrimerPO.genmodel#/element/content(4)> .
+
+<repository:/model/PrimerPO.genmodel#/element/content(4)/content(10)/content(13)>
+        <http://org.softlang.com/elementOf>
+                <http://org.softlang.com/XMIElement> ;
+        <http://org.softlang.com/partOf>
+                <repository:/model/PrimerPO.genmodel#/element/content(4)/content(10)> .
+
+<repository:/model/PrimerPO.ecore#/element/content(6)/content(1)>
+        <http://org.softlang.com/elementOf>
+                <http://org.softlang.com/XMIElement> ;
+        <http://org.softlang.com/partOf>
+                <repository:/model/PrimerPO.ecore#/element/content(6)> .
+
+<repository:/model/PrimerPO.genmodel#/element/content(4)/content(8)/content(4)>
+        <http://org.softlang.com/elementOf>
+                <http://org.softlang.com/XMIElement> ;
+        <http://org.softlang.com/partOf>
+                <repository:/model/PrimerPO.genmodel#/element/content(4)/content(8)> .
+
+<repository:/src/ppo/impl/PpoPackageImpl.java#/imports(6)>
+        <http://org.softlang.com/elementOf>
+                <http://org.softlang.com/ImportJava> ;
+        <http://org.softlang.com/partOf>
+                <repository:/src/ppo/impl/PpoPackageImpl.java> .
+
+<repository:/src/ppo/impl/PpoPackageImpl.java>
+        <http://org.softlang.com/elementOf>
+                <http://org.softlang.com/Java> ;
+        <http://org.softlang.com/env/escope>
+                <repository:/model/PrimerPO.genmodel#/element/content(4)/content(6)> , <repository:/src/ppo/PurchaseOrder.java> , <repository:/model/PrimerPO.genmodel#/element/content(4)/content(8)> , <repository:/src/ppo/PpoPackage.java> , <repository:/model/PrimerPO.genmodel#/element/content(4)/content(10)> , <repository:/src/ppo/impl/PpoPackageImpl.java> , <repository:/src/ppo/USAddress.java> , <repository:/src/ppo/Item.java> , <repository:/src/ppo/PpoFactory.java> , <repository:/src/ppo/impl> ;
+        <http://org.softlang.com/env/inscope>
+                <repository:/src/ppo/impl/PpoPackageImpl.java> , <repository:/src/ppo/impl> ;
+        <http://org.softlang.com/env/qname>
+                "ppo.impl.PpoPackageImpl" ;
+        <http://org.softlang.com/env/sname>
+                "PpoPackageImpl" ;
+        <http://org.softlang.com/env/usescope>
+                <repository:/src/ppo/impl> ;
+        <http://org.softlang.com/implement>
+                <repository:/src/ppo/PpoPackage.java> ;
+        <http://org.softlang.com/manifestsAs>
+                <http://org.softlang.com/File> ;
+        <http://org.softlang.com/partOf>
+                <repository:/src/ppo/impl> .
+
+<repository:/model/PrimerPO.genmodel#/element/content(4)/content(10)/content(9)>
+        <http://org.softlang.com/elementOf>
+                <http://org.softlang.com/XMIElement> ;
+        <http://org.softlang.com/partOf>
+                <repository:/model/PrimerPO.genmodel#/element/content(4)/content(10)> .
+
+<repository:/model/PrimerPO.ecore#/element/content(6)>
+        <http://org.softlang.com/elementOf>
+                <http://org.softlang.com/XMIElement> ;
+        <http://org.softlang.com/partOf>
+                <repository:/model/PrimerPO.ecore#/element> .
+
+<repository:/model/PrimerPO.genmodel#/element/content(4)/content(6)/content(11)>
+        <http://org.softlang.com/elementOf>
+                <http://org.softlang.com/XMIElement> ;
+        <http://org.softlang.com/partOf>
+                <repository:/model/PrimerPO.genmodel#/element/content(4)/content(6)> .
+
+<repository:/src/ppo/PurchaseOrder.java>
+        <http://org.softlang.com/elementOf>
+                <http://org.softlang.com/Java> ;
+        <http://org.softlang.com/env/escope>
+                <cls:EObject> , <repository:/src/ppo> , <repository:/src/ppo/PurchaseOrder.java> ;
+        <http://org.softlang.com/env/inscope>
+                <repository:/src/ppo/PurchaseOrder.java> , <repository:/src/ppo> ;
+        <http://org.softlang.com/env/qname>
+                "ppo.PurchaseOrder" ;
+        <http://org.softlang.com/env/sname>
+                "PurchaseOrder" ;
+        <http://org.softlang.com/env/usescope>
+                <repository:/src/ppo> ;
+        <http://org.softlang.com/extend>
+                <cls:EObject> ;
+        <http://org.softlang.com/instanceOf>
+                <http://org.softlang.com/Interface> ;
+        <http://org.softlang.com/manifestsAs>
+                <http://org.softlang.com/File> ;
+        <http://org.softlang.com/partOf>
+                <repository:/src/ppo> .
+
+<repository:/src/ppo/PpoPackage.java#/imports(2)>
+        <http://org.softlang.com/elementOf>
+                <http://org.softlang.com/ImportJava> ;
+        <http://org.softlang.com/partOf>
+                <repository:/src/ppo/PpoPackage.java> .
+
+<repository:/src/ppo/impl/PpoFactoryImpl.java#/imports(6)>
+        <http://org.softlang.com/elementOf>
+                <http://org.softlang.com/ImportJava> ;
+        <http://org.softlang.com/partOf>
+                <repository:/src/ppo/impl/PpoFactoryImpl.java> .
+
+<repository:/model/PrimerPO.genmodel#/element/content(4)/content(6)>
+        <http://org.softlang.com/GenerateJavaCode>
+                <repository:/src/ppo/impl/PurchaseOrderImpl.java> , <repository:/src/ppo/PurchaseOrder.java> ;
+        <http://org.softlang.com/elementOf>
+                <http://org.softlang.com/XMIElement> ;
+        <http://org.softlang.com/env/qname>
+                "ppo.PurchaseOrder" ;
+        <http://org.softlang.com/env/sname>
+                "PurchaseOrder" ;
+        <http://org.softlang.com/instanceOf>
+                <http://org.softlang.com/GeneratorClass> ;
+        <http://org.softlang.com/partOf>
+                <repository:/model/PrimerPO.genmodel#/element/content(4)> .
+
+<repository:/bin/ppo/impl/USAddressImpl.class>
+        <http://org.softlang.com/manifestsAs>
+                <http://org.softlang.com/File> ;
+        <http://org.softlang.com/partOf>
+                <repository:/bin/ppo/impl> .
+
+<repository:/model/PrimerPO.ecore#/element/content(2)/content(4)>
+        <http://org.softlang.com/elementOf>
+                <http://org.softlang.com/XMIElement> ;
+        <http://org.softlang.com/partOf>
+                <repository:/model/PrimerPO.ecore#/element/content(2)> .
+
+<repository:/model/PrimerPO.ecore#/element/content(6)/content(6)>
+        <http://org.softlang.com/elementOf>
+                <http://org.softlang.com/XMIElement> ;
+        <http://org.softlang.com/partOf>
+                <repository:/model/PrimerPO.ecore#/element/content(6)> .
+
+<repository:/model/PrimerPO.genmodel#/element/content(4)/content(8)/content(12)>
+        <http://org.softlang.com/elementOf>
+                <http://org.softlang.com/XMIElement> ;
+        <http://org.softlang.com/partOf>
+                <repository:/model/PrimerPO.genmodel#/element/content(4)/content(8)> .
+
+<repository:/model/PrimerPO.genmodel#/element/content(4)/content(8)/content(9)>
+        <http://org.softlang.com/elementOf>
+                <http://org.softlang.com/XMIElement> ;
+        <http://org.softlang.com/partOf>
+                <repository:/model/PrimerPO.genmodel#/element/content(4)/content(8)> .
+
+<cls:AdapterFactoryImpl>
+        <http://org.softlang.com/elementOf>
+                <http://org.softlang.com/Java> ;
+        <http://org.softlang.com/env/escope>
+                <cls:AdapterFactoryImpl> ;
+        <http://org.softlang.com/env/inscope>
+                <cls:AdapterFactoryImpl> ;
+        <http://org.softlang.com/env/qname>
+                "org.eclipse.emf.common.notify.impl.AdapterFactoryImpl" ;
+        <http://org.softlang.com/env/sname>
+                "AdapterFactoryImpl" .
+
+<repository:/model/PrimerPO.ecore#/element/content(2)/content(9)>
+        <http://org.softlang.com/elementOf>
+                <http://org.softlang.com/XMIElement> ;
+        <http://org.softlang.com/partOf>
+                <repository:/model/PrimerPO.ecore#/element/content(2)> .
+
+<repository:/src/ppo/util/PpoAdapterFactory.java#/imports(4)>
+        <http://org.softlang.com/elementOf>
+                <http://org.softlang.com/ImportJava> ;
+        <http://org.softlang.com/partOf>
+                <repository:/src/ppo/util/PpoAdapterFactory.java> .
+
+<repository:/model/PrimerPO.genmodel#/element/content(4)>
+        <http://org.softlang.com/GenerateJavaCode>
+                <repository:/src/ppo/util/PpoAdapterFactory.java> ;
+        <http://org.softlang.com/elementOf>
+                <http://org.softlang.com/XMIElement> ;
+        <http://org.softlang.com/env/qname>
+                "ppo" ;
+        <http://org.softlang.com/instanceOf>
+                <http://org.softlang.com/GeneratorPackage> ;
+        <http://org.softlang.com/partOf>
+                <repository:/model/PrimerPO.genmodel#/element> .
+
+<repository:/bin/ppo/util/PpoAdapterFactory.class>
+        <http://org.softlang.com/manifestsAs>
+                <http://org.softlang.com/File> ;
+        <http://org.softlang.com/partOf>
+                <repository:/bin/ppo/util> .
+
+<repository:/model/PrimerPO.genmodel#/element/content(4)/content(10)>
+        <http://org.softlang.com/GenerateJavaCode>
+                <repository:/src/ppo/impl/ItemImpl.java> , <repository:/src/ppo/Item.java> ;
+        <http://org.softlang.com/elementOf>
+                <http://org.softlang.com/XMIElement> ;
+        <http://org.softlang.com/env/qname>
+                "ppo.Item" ;
+        <http://org.softlang.com/env/sname>
+                "Item" ;
+        <http://org.softlang.com/instanceOf>
+                <http://org.softlang.com/GeneratorClass> ;
+        <http://org.softlang.com/partOf>
+                <repository:/model/PrimerPO.genmodel#/element/content(4)> .
+
+<repository:/src/ppo/impl/USAddressImpl.java#/imports(3)>
+        <http://org.softlang.com/elementOf>
+                <http://org.softlang.com/ImportJava> ;
+        <http://org.softlang.com/partOf>
+                <repository:/src/ppo/impl/USAddressImpl.java> .
+
+<repository:/src/ppo/impl/ItemImpl.java#/imports(2)>
+        <http://org.softlang.com/elementOf>
+                <http://org.softlang.com/ImportJava> ;
+        <http://org.softlang.com/partOf>
+                <repository:/src/ppo/impl/ItemImpl.java> .
+
+<repository:/model/PrimerPO.ecore#/element/content(11)>
+        <http://org.softlang.com/elementOf>
+                <http://org.softlang.com/XMIElement> ;
+        <http://org.softlang.com/partOf>
+                <repository:/model/PrimerPO.ecore#/element> .
+
+<repository:/src/ppo/impl/PpoFactoryImpl.java#/type(1)/implementedTypes(1)>
+        <http://org.softlang.com/elementOf>
+                <http://org.softlang.com/ImplementedTypeJava> ;
+        <http://org.softlang.com/env/escope>
+                <cls:EObject> , <repository:/model/PrimerPO.genmodel#/element/content(4)> , <repository:/src/ppo/impl> , <repository:/src/ppo/impl/PpoFactoryImpl.java> , <repository:/src/ppo> ;
+        <http://org.softlang.com/env/usescope>
+                <repository:/src/ppo/impl> , <repository:/src/ppo/impl/PpoFactoryImpl.java> ;
+        <http://org.softlang.com/partOf>
+                <repository:/src/ppo/impl/PpoFactoryImpl.java> .
+
+<repository:/model/PrimerPO.genmodel#/element/content(4)/content(6)/content(1)>
+        <http://org.softlang.com/elementOf>
+                <http://org.softlang.com/XMIElement> ;
+        <http://org.softlang.com/partOf>
+                <repository:/model/PrimerPO.genmodel#/element/content(4)/content(6)> .
+
+<repository:/bin/ppo/impl/PpoFactoryImpl.class>
+        <http://org.softlang.com/manifestsAs>
+                <http://org.softlang.com/File> ;
+        <http://org.softlang.com/partOf>
+                <repository:/bin/ppo/impl> .
+
+<repository:/META-INF>
+        <http://org.softlang.com/manifestsAs>
+                <http://org.softlang.com/Folder> ;
+        <http://org.softlang.com/partOf>
+                <repository:/> .
+
+<repository:/model/PrimerPO.genmodel#/element>
+        <http://org.softlang.com/elementOf>
+                <http://org.softlang.com/XMIElement> ;
+        <http://org.softlang.com/instanceOf>
+                <http://org.softlang.com/GeneratorRoot> ;
+        <http://org.softlang.com/partOf>
+                <repository:/model/PrimerPO.genmodel> .
+
+<repository:/src/ppo/impl/ItemImpl.java#/imports(7)>
+        <http://org.softlang.com/elementOf>
+                <http://org.softlang.com/ImportJava> ;
+        <http://org.softlang.com/partOf>
+                <repository:/src/ppo/impl/ItemImpl.java> .
+
+<repository:/src/ppo/impl/PurchaseOrderImpl.java#/imports(3)>
+        <http://org.softlang.com/elementOf>
+                <http://org.softlang.com/ImportJava> ;
+        <http://org.softlang.com/partOf>
+                <repository:/src/ppo/impl/PurchaseOrderImpl.java> .
+
+<repository:/model/PrimerPO.ecore#/element/content(4)/content(3)>
+        <http://org.softlang.com/elementOf>
+                <http://org.softlang.com/XMIElement> ;
+        <http://org.softlang.com/partOf>
+                <repository:/model/PrimerPO.ecore#/element/content(4)> .
+
+<repository:/model/PrimerPO.ecore#/element/content(4)/content(11)>
+        <http://org.softlang.com/elementOf>
+                <http://org.softlang.com/XMIElement> ;
+        <http://org.softlang.com/partOf>
+                <repository:/model/PrimerPO.ecore#/element/content(4)> .
+
+<repository:/model>  <http://org.softlang.com/manifestsAs>
+                <http://org.softlang.com/Folder> ;
+        <http://org.softlang.com/partOf>
+                <repository:/> .
+
+<repository:/src>  <http://org.softlang.com/manifestsAs>
+                <http://org.softlang.com/Folder> ;
+        <http://org.softlang.com/partOf>
+                <repository:/> .
+
+<repository:/model/PrimerPO.genmodel#/element/content(4)/content(6)/content(6)>
+        <http://org.softlang.com/elementOf>
+                <http://org.softlang.com/XMIElement> ;
+        <http://org.softlang.com/partOf>
+                <repository:/model/PrimerPO.genmodel#/element/content(4)/content(6)> .
+
+<repository:/src/ppo/PpoFactory.java>
+        <http://org.softlang.com/elementOf>
+                <http://org.softlang.com/Java> ;
+        <http://org.softlang.com/env/escope>
+                <repository:/src/ppo> , <repository:/src/ppo/PpoFactory.java> ;
+        <http://org.softlang.com/env/inscope>
+                <repository:/src/ppo> , <repository:/src/ppo/PpoFactory.java> ;
+        <http://org.softlang.com/env/qname>
+                "ppo.PpoFactory" ;
+        <http://org.softlang.com/env/sname>
+                "PpoFactory" ;
+        <http://org.softlang.com/env/usescope>
+                <repository:/src/ppo> ;
+        <http://org.softlang.com/manifestsAs>
+                <http://org.softlang.com/File> ;
+        <http://org.softlang.com/partOf>
+                <repository:/src/ppo> .
+
+<repository:/model/PrimerPO.ecore#/element/content(6)/content(12)>
+        <http://org.softlang.com/elementOf>
+                <http://org.softlang.com/XMIElement> ;
+        <http://org.softlang.com/partOf>
+                <repository:/model/PrimerPO.ecore#/element/content(6)> .
+
+<repository:/src/ppo/impl/PurchaseOrderImpl.java#/imports(10)>
+        <http://org.softlang.com/elementOf>
+                <http://org.softlang.com/ImportJava> ;
+        <http://org.softlang.com/partOf>
+                <repository:/src/ppo/impl/PurchaseOrderImpl.java> .
+
+<repository:/model/PrimerPO.genmodel#/element/content(4)/content(10)/content(3)>
+        <http://org.softlang.com/elementOf>
+                <http://org.softlang.com/XMIElement> ;
+        <http://org.softlang.com/partOf>
+                <repository:/model/PrimerPO.genmodel#/element/content(4)/content(10)> .
+
+<repository:/src/ppo/impl/PurchaseOrderImpl.java#/imports(8)>
+        <http://org.softlang.com/elementOf>
+                <http://org.softlang.com/ImportJava> ;
+        <http://org.softlang.com/partOf>
+                <repository:/src/ppo/impl/PurchaseOrderImpl.java> .
+
+<repository:/model/PrimerPO.ecore#/element/content(4)/content(8)>
+        <http://org.softlang.com/elementOf>
+                <http://org.softlang.com/XMIElement> ;
+        <http://org.softlang.com/partOf>
+                <repository:/model/PrimerPO.ecore#/element/content(4)> .
+
+<repository:/.classpath>
+        <http://org.softlang.com/manifestsAs>
+                <http://org.softlang.com/File> ;
+        <http://org.softlang.com/partOf>
+                <repository:/> .
+
+<repository:/src/ppo/impl/ItemImpl.java>
+        <http://org.softlang.com/elementOf>
+                <http://org.softlang.com/Java> ;
+        <http://org.softlang.com/env/escope>
+                <repository:/model/PrimerPO.genmodel#/element/content(4)/content(10)> , <repository:/src/ppo/impl> , <repository:/src/ppo/impl/ItemImpl.java> , <repository:/src/ppo/PpoPackage.java> , <repository:/src/ppo/Item.java> ;
+        <http://org.softlang.com/env/inscope>
+                <repository:/src/ppo/impl> , <repository:/src/ppo/impl/ItemImpl.java> ;
+        <http://org.softlang.com/env/qname>
+                "ppo.impl.ItemImpl" ;
+        <http://org.softlang.com/env/sname>
+                "ItemImpl" ;
+        <http://org.softlang.com/env/usescope>
+                <repository:/src/ppo/impl> ;
+        <http://org.softlang.com/implement>
+                <repository:/src/ppo/Item.java> ;
+        <http://org.softlang.com/instanceOf>
+                <http://org.softlang.com/InterfaceImpl> ;
+        <http://org.softlang.com/manifestsAs>
+                <http://org.softlang.com/File> ;
+        <http://org.softlang.com/partOf>
+                <repository:/src/ppo/impl> .
+
+<repository:/model/PrimerPO.genmodel#/element/content(4)/content(10)/content(12)>
+        <http://org.softlang.com/elementOf>
+                <http://org.softlang.com/XMIElement> ;
+        <http://org.softlang.com/partOf>
+                <repository:/model/PrimerPO.genmodel#/element/content(4)/content(10)> .
+
+<repository:/bin/ppo/util>
+        <http://org.softlang.com/manifestsAs>
+                <http://org.softlang.com/Folder> ;
+        <http://org.softlang.com/partOf>
+                <repository:/bin/ppo> .
+
+<repository:/model/PrimerPO.genmodel#/element/content(4)/content(8)/content(3)>
+        <http://org.softlang.com/elementOf>
+                <http://org.softlang.com/XMIElement> ;
+        <http://org.softlang.com/partOf>
+                <repository:/model/PrimerPO.genmodel#/element/content(4)/content(8)> .
+
+<repository:/model/PrimerPO.genmodel#/element/content(4)/content(10)/content(8)>
+        <http://org.softlang.com/elementOf>
+                <http://org.softlang.com/XMIElement> ;
+        <http://org.softlang.com/partOf>
+                <repository:/model/PrimerPO.genmodel#/element/content(4)/content(10)> .
+
+<repository:/src/ppo/impl/PurchaseOrderImpl.java#/imports(15)>
+        <http://org.softlang.com/elementOf>
+                <http://org.softlang.com/ImportJava> ;
+        <http://org.softlang.com/partOf>
+                <repository:/src/ppo/impl/PurchaseOrderImpl.java> .
+
+<repository:/src/ppo/impl/PpoPackageImpl.java#/imports(5)>
+        <http://org.softlang.com/elementOf>
+                <http://org.softlang.com/ImportJava> ;
+        <http://org.softlang.com/partOf>
+                <repository:/src/ppo/impl/PpoPackageImpl.java> .
+
+<repository:/model/PrimerPO.ecore#/element/content(5)>
+        <http://org.softlang.com/elementOf>
+                <http://org.softlang.com/XMIElement> ;
+        <http://org.softlang.com/partOf>
+                <repository:/model/PrimerPO.ecore#/element> .
+
+<repository:/model/PrimerPO.genmodel#/element/content(4)/content(6)/content(10)>
+        <http://org.softlang.com/elementOf>
+                <http://org.softlang.com/XMIElement> ;
+        <http://org.softlang.com/partOf>
+                <repository:/model/PrimerPO.genmodel#/element/content(4)/content(6)> .
+
+<repository:/src/ppo/PpoPackage.java#/imports(1)>
+        <http://org.softlang.com/elementOf>
+                <http://org.softlang.com/ImportJava> ;
+        <http://org.softlang.com/partOf>
+                <repository:/src/ppo/PpoPackage.java> .
+
+<repository:/model/PrimerPO.genmodel#/element/content(4)/content(5)>
+        <http://org.softlang.com/elementOf>
+                <http://org.softlang.com/XMIElement> ;
+        <http://org.softlang.com/partOf>
+                <repository:/model/PrimerPO.genmodel#/element/content(4)> .
+
+<repository:/src/ppo/impl/PpoFactoryImpl.java#/imports(5)>
+        <http://org.softlang.com/elementOf>
+                <http://org.softlang.com/ImportJava> ;
+        <http://org.softlang.com/partOf>
+                <repository:/src/ppo/impl/PpoFactoryImpl.java> .
+
+<repository:/src/ppo/PpoFactory.java#/type(1)/extendedTypes(1)>
+        <http://org.softlang.com/elementOf>
+                <http://org.softlang.com/ExtendedTypeJava> ;
+        <http://org.softlang.com/env/escope>
+                <repository:/src/ppo/PpoFactory.java> , <repository:/src/ppo> ;
+        <http://org.softlang.com/env/usescope>
+                <repository:/src/ppo> , <repository:/src/ppo/PpoFactory.java> ;
+        <http://org.softlang.com/partOf>
+                <repository:/src/ppo/PpoFactory.java> .
+
+<repository:/model/PrimerPO.ecore#/element/content(2)/content(3)>
+        <http://org.softlang.com/elementOf>
+                <http://org.softlang.com/XMIElement> ;
+        <http://org.softlang.com/partOf>
+                <repository:/model/PrimerPO.ecore#/element/content(2)> .
+
+<repository:/model/PrimerPO.ecore#/element/content(6)/content(5)>
+        <http://org.softlang.com/elementOf>
+                <http://org.softlang.com/XMIElement> ;
+        <http://org.softlang.com/partOf>
+                <repository:/model/PrimerPO.ecore#/element/content(6)> .
+
+<repository:/model/PrimerPO.genmodel#/element/content(4)/content(8)/content(11)>
+        <http://org.softlang.com/elementOf>
+                <http://org.softlang.com/XMIElement> ;
+        <http://org.softlang.com/partOf>
+                <repository:/model/PrimerPO.genmodel#/element/content(4)/content(8)> .
+
+<repository:/model/PrimerPO.genmodel#/element/content(4)/content(8)/content(8)>
+        <http://org.softlang.com/elementOf>
+                <http://org.softlang.com/XMIElement> ;
+        <http://org.softlang.com/partOf>
+                <repository:/model/PrimerPO.genmodel#/element/content(4)/content(8)> .
+
+<repository:/src/ppo/util/PpoSwitch.java#/type(1)/extendedTypes(1)>
+        <http://org.softlang.com/elementOf>
+                <http://org.softlang.com/ExtendedTypeJava> ;
+        <http://org.softlang.com/env/escope>
+                <cls:EObject> , <repository:/model/PrimerPO.genmodel#/element/content(4)> , <repository:/src/ppo> , <repository:/src/ppo/util> , <repository:/src/ppo/util/PpoSwitch.java> ;
+        <http://org.softlang.com/env/usescope>
+                <repository:/src/ppo/util> , <repository:/src/ppo/util/PpoSwitch.java> ;
+        <http://org.softlang.com/partOf>
+                <repository:/src/ppo/util/PpoSwitch.java> .
+
+<repository:/src/ppo/util/PpoSwitch.java#/imports(4)>
+        <http://org.softlang.com/elementOf>
+                <http://org.softlang.com/ImportJava> ;
+        <http://org.softlang.com/partOf>
+                <repository:/src/ppo/util/PpoSwitch.java> .
+
+<repository:/model/PrimerPO.ecore#/element/content(2)/content(8)>
+        <http://org.softlang.com/elementOf>
+                <http://org.softlang.com/XMIElement> ;
+        <http://org.softlang.com/partOf>
+                <repository:/model/PrimerPO.ecore#/element/content(2)> .
+
+<repository:/src/ppo/util/PpoAdapterFactory.java#/imports(3)>
+        <http://org.softlang.com/elementOf>
+                <http://org.softlang.com/ImportJava> ;
+        <http://org.softlang.com/partOf>
+                <repository:/src/ppo/util/PpoAdapterFactory.java> .
+
+<repository:/model/PrimerPO.genmodel#/element/content(3)>
+        <http://org.softlang.com/elementOf>
+                <http://org.softlang.com/XMIElement> ;
+        <http://org.softlang.com/partOf>
+                <repository:/model/PrimerPO.genmodel#/element> .
+
+<repository:/src/ppo/PpoPackage.java>
+        <http://org.softlang.com/elementOf>
+                <http://org.softlang.com/Java> ;
+        <http://org.softlang.com/env/escope>
+                <repository:/src/ppo> , <repository:/src/ppo/PpoPackage.java> ;
+        <http://org.softlang.com/env/inscope>
+                <repository:/src/ppo/PpoPackage.java> , <repository:/src/ppo> ;
+        <http://org.softlang.com/env/qname>
+                "ppo.PpoPackage" ;
+        <http://org.softlang.com/env/sname>
+                "PpoPackage" ;
+        <http://org.softlang.com/env/usescope>
+                <repository:/src/ppo> ;
+        <http://org.softlang.com/manifestsAs>
+                <http://org.softlang.com/File> ;
+        <http://org.softlang.com/partOf>
+                <repository:/src/ppo> .
+
+<repository:/model/PrimerPO.ecore>
+        <http://org.softlang.com/CreateGeneratorModel>
+                <repository:/model/PrimerPO.genmodel> ;
+        <http://org.softlang.com/elementOf>
+                <http://org.softlang.com/XMI> ;
+        <http://org.softlang.com/instanceOf>
+                <http://org.softlang.com/EcoreModel> ;
+        <http://org.softlang.com/manifestsAs>
+                <http://org.softlang.com/File> ;
+        <http://org.softlang.com/partOf>
+                <repository:/model> .
+
+<repository:/src/ppo/impl/USAddressImpl.java#/imports(2)>
+        <http://org.softlang.com/elementOf>
+                <http://org.softlang.com/ImportJava> ;
+        <http://org.softlang.com/partOf>
+                <repository:/src/ppo/impl/USAddressImpl.java> .
+
+<repository:/src/ppo/impl/ItemImpl.java#/imports(1)>
+        <http://org.softlang.com/elementOf>
+                <http://org.softlang.com/ImportJava> ;
+        <http://org.softlang.com/partOf>
+                <repository:/src/ppo/impl/ItemImpl.java> .
+
+<repository:/model/PrimerPO.ecore#/element/content(10)>
+        <http://org.softlang.com/elementOf>
+                <http://org.softlang.com/XMIElement> ;
+        <http://org.softlang.com/partOf>
+                <repository:/model/PrimerPO.ecore#/element> .
+
+<repository:/src/ppo/impl/PurchaseOrderImpl.java#/imports(2)>
+        <http://org.softlang.com/elementOf>
+                <http://org.softlang.com/ImportJava> ;
+        <http://org.softlang.com/partOf>
+                <repository:/src/ppo/impl/PurchaseOrderImpl.java> .
+
+<repository:/src/ppo/impl/ItemImpl.java#/imports(6)>
+        <http://org.softlang.com/elementOf>
+                <http://org.softlang.com/ImportJava> ;
+        <http://org.softlang.com/partOf>
+                <repository:/src/ppo/impl/ItemImpl.java> .
+
+<repository:/bin/ppo/PpoPackage$Literals.class>
+        <http://org.softlang.com/manifestsAs>
+                <http://org.softlang.com/File> ;
+        <http://org.softlang.com/partOf>
+                <repository:/bin/ppo> .
+
+<repository:/model/PrimerPO.ecore#/element/content(4)/content(2)>
+        <http://org.softlang.com/elementOf>
+                <http://org.softlang.com/XMIElement> ;
+        <http://org.softlang.com/partOf>
+                <repository:/model/PrimerPO.ecore#/element/content(4)> .
+
+<repository:/model/PrimerPO.ecore#/element/content(4)/content(10)>
+        <http://org.softlang.com/elementOf>
+                <http://org.softlang.com/XMIElement> ;
+        <http://org.softlang.com/partOf>
+                <repository:/model/PrimerPO.ecore#/element/content(4)> .
+
+<repository:/model/PrimerPO.genmodel#/element/content(4)/content(6)/content(5)>
+        <http://org.softlang.com/elementOf>
+                <http://org.softlang.com/XMIElement> ;
+        <http://org.softlang.com/partOf>
+                <repository:/model/PrimerPO.genmodel#/element/content(4)/content(6)> .
+
+<repository:/src/ppo/PurchaseOrder.java#/imports(3)>
+        <http://org.softlang.com/elementOf>
+                <http://org.softlang.com/ImportJava> ;
+        <http://org.softlang.com/partOf>
+                <repository:/src/ppo/PurchaseOrder.java> .
+
+<repository:/model/PrimerPO.ecore#/element/content(6)/content(11)>
+        <http://org.softlang.com/elementOf>
+                <http://org.softlang.com/XMIElement> ;
+        <http://org.softlang.com/partOf>
+                <repository:/model/PrimerPO.ecore#/element/content(6)> .
+
+<repository:/model/PrimerPO.genmodel#/element/content(4)/content(10)/content(2)>
+        <http://org.softlang.com/elementOf>
+                <http://org.softlang.com/XMIElement> ;
+        <http://org.softlang.com/partOf>
+                <repository:/model/PrimerPO.genmodel#/element/content(4)/content(10)> .
+
+<repository:/src/ppo/impl/PurchaseOrderImpl.java#/imports(7)>
+        <http://org.softlang.com/elementOf>
+                <http://org.softlang.com/ImportJava> ;
+        <http://org.softlang.com/partOf>
+                <repository:/src/ppo/impl/PurchaseOrderImpl.java> .
+
+<repository:/src/ppo/impl/PurchaseOrderImpl.java>
+        <http://org.softlang.com/elementOf>
+                <http://org.softlang.com/Java> ;
+        <http://org.softlang.com/env/escope>
+                <repository:/src/ppo/Item.java> , <repository:/src/ppo/PpoPackage.java> , <repository:/model/PrimerPO.genmodel#/element/content(4)/content(8)> , <repository:/src/ppo/impl/PurchaseOrderImpl.java> , <repository:/src/ppo/USAddress.java> , <repository:/model/PrimerPO.genmodel#/element/content(4)/content(6)> , <repository:/model/PrimerPO.genmodel#/element/content(4)/content(10)> , <repository:/src/ppo/PurchaseOrder.java> , <repository:/src/ppo/impl> ;
+        <http://org.softlang.com/env/inscope>
+                <repository:/src/ppo/impl/PurchaseOrderImpl.java> , <repository:/src/ppo/impl> ;
+        <http://org.softlang.com/env/qname>
+                "ppo.impl.PurchaseOrderImpl" ;
+        <http://org.softlang.com/env/sname>
+                "PurchaseOrderImpl" ;
+        <http://org.softlang.com/env/usescope>
+                <repository:/src/ppo/impl> ;
+        <http://org.softlang.com/implement>
+                <repository:/src/ppo/PurchaseOrder.java> ;
+        <http://org.softlang.com/instanceOf>
+                <http://org.softlang.com/InterfaceImpl> ;
+        <http://org.softlang.com/manifestsAs>
+                <http://org.softlang.com/File> ;
+        <http://org.softlang.com/partOf>
+                <repository:/src/ppo/impl> .
+
+<repository:/model/PrimerPO.ecore#/element/content(4)/content(7)>
+        <http://org.softlang.com/elementOf>
+                <http://org.softlang.com/XMIElement> ;
+        <http://org.softlang.com/partOf>
+                <repository:/model/PrimerPO.ecore#/element/content(4)> .
+
+<repository:/model/PrimerPO.genmodel#/element/content(4)/content(10)/content(11)>
+        <http://org.softlang.com/elementOf>
+                <http://org.softlang.com/XMIElement> ;
+        <http://org.softlang.com/partOf>
+                <repository:/model/PrimerPO.genmodel#/element/content(4)/content(10)> .
+
+<repository:/model/PrimerPO.genmodel#/element/content(4)/content(8)/content(2)>
+        <http://org.softlang.com/elementOf>
+                <http://org.softlang.com/XMIElement> ;
+        <http://org.softlang.com/partOf>
+                <repository:/model/PrimerPO.genmodel#/element/content(4)/content(8)> .
+
+<repository:/src/ppo/impl/PpoPackageImpl.java#/imports(4)>
+        <http://org.softlang.com/elementOf>
+                <http://org.softlang.com/ImportJava> ;
+        <http://org.softlang.com/partOf>
+                <repository:/src/ppo/impl/PpoPackageImpl.java> .
+
+<repository:/src/ppo/impl/PurchaseOrderImpl.java#/imports(14)>
+        <http://org.softlang.com/elementOf>
+                <http://org.softlang.com/ImportJava> ;
+        <http://org.softlang.com/partOf>
+                <repository:/src/ppo/impl/PurchaseOrderImpl.java> .
+
+<repository:/model/PrimerPO.genmodel#/element/content(4)/content(10)/content(7)>
+        <http://org.softlang.com/elementOf>
+                <http://org.softlang.com/XMIElement> ;
+        <http://org.softlang.com/partOf>
+                <repository:/model/PrimerPO.genmodel#/element/content(4)/content(10)> .
+
+<repository:/model/PrimerPO.ecore#/element/content(4)>
+        <http://org.softlang.com/elementOf>
+                <http://org.softlang.com/XMIElement> ;
+        <http://org.softlang.com/partOf>
+                <repository:/model/PrimerPO.ecore#/element> .
+
+<repository:/META-INF/MANIFEST.MF>
+        <http://org.softlang.com/manifestsAs>
+                <http://org.softlang.com/File> ;
+        <http://org.softlang.com/partOf>
+                <repository:/META-INF> .
+
+<repository:/bin/ppo/impl>
+        <http://org.softlang.com/manifestsAs>
+                <http://org.softlang.com/Folder> ;
+        <http://org.softlang.com/partOf>
+                <repository:/bin/ppo> .
+
+<repository:/src/ppo/impl/PpoFactoryImpl.java#/imports(4)>
+        <http://org.softlang.com/elementOf>
+                <http://org.softlang.com/ImportJava> ;
+        <http://org.softlang.com/partOf>
+                <repository:/src/ppo/impl/PpoFactoryImpl.java> .
+
+<repository:/model/PrimerPO.genmodel#/element/content(4)/content(4)>
+        <http://org.softlang.com/elementOf>
+                <http://org.softlang.com/XMIElement> ;
+        <http://org.softlang.com/partOf>
+                <repository:/model/PrimerPO.genmodel#/element/content(4)> .
+
+<repository:/src/ppo/impl/PpoFactoryImpl.java>
+        <http://org.softlang.com/elementOf>
+                <http://org.softlang.com/Java> ;
+        <http://org.softlang.com/env/escope>
+                <cls:EObject> , <repository:/src/ppo/impl> , <repository:/model/PrimerPO.genmodel#/element/content(4)> , <repository:/src/ppo> , <repository:/src/ppo/impl/PpoFactoryImpl.java> ;
+        <http://org.softlang.com/env/inscope>
+                <repository:/src/ppo/impl> , <repository:/src/ppo/impl/PpoFactoryImpl.java> ;
+        <http://org.softlang.com/env/qname>
+                "ppo.impl.PpoFactoryImpl" ;
+        <http://org.softlang.com/env/sname>
+                "PpoFactoryImpl" ;
+        <http://org.softlang.com/env/usescope>
+                <repository:/src/ppo/impl> ;
+        <http://org.softlang.com/implement>
+                <repository:/src/ppo/PpoFactory.java> ;
+        <http://org.softlang.com/manifestsAs>
+                <http://org.softlang.com/File> ;
+        <http://org.softlang.com/partOf>
+                <repository:/src/ppo/impl> .
+
+<repository:/model/PrimerPO.ecore#/element/content(2)/content(2)>
+        <http://org.softlang.com/elementOf>
+                <http://org.softlang.com/XMIElement> ;
+        <http://org.softlang.com/partOf>
+                <repository:/model/PrimerPO.ecore#/element/content(2)> .
+
+<repository:/model/PrimerPO.ecore#/element/content(6)/content(4)>
+        <http://org.softlang.com/elementOf>
+                <http://org.softlang.com/XMIElement> ;
+        <http://org.softlang.com/partOf>
+                <repository:/model/PrimerPO.ecore#/element/content(6)> .
+
+<repository:/model/PrimerPO.genmodel#/element/content(4)/content(8)/content(10)>
+        <http://org.softlang.com/elementOf>
+                <http://org.softlang.com/XMIElement> ;
+        <http://org.softlang.com/partOf>
+                <repository:/model/PrimerPO.genmodel#/element/content(4)/content(8)> .
+
+<repository:/model/PrimerPO.genmodel#/element/content(4)/content(8)/content(7)>
+        <http://org.softlang.com/elementOf>
+                <http://org.softlang.com/XMIElement> ;
+        <http://org.softlang.com/partOf>
+                <repository:/model/PrimerPO.genmodel#/element/content(4)/content(8)> .
+
+<repository:/src/ppo/impl/PpoPackageImpl.java#/imports(9)>
+        <http://org.softlang.com/elementOf>
+                <http://org.softlang.com/ImportJava> ;
+        <http://org.softlang.com/partOf>
+                <repository:/src/ppo/impl/PpoPackageImpl.java> .
+
+<repository:/bin/ppo/impl/ItemImpl.class>
+        <http://org.softlang.com/manifestsAs>
+                <http://org.softlang.com/File> ;
+        <http://org.softlang.com/partOf>
+                <repository:/bin/ppo/impl> .
+
+<repository:/bin/ppo/USAddress.class>
+        <http://org.softlang.com/manifestsAs>
+                <http://org.softlang.com/File> ;
+        <http://org.softlang.com/partOf>
+                <repository:/bin/ppo> .
+
+<repository:/model/PrimerPO.ecore#/element/content(9)>
+        <http://org.softlang.com/elementOf>
+                <http://org.softlang.com/XMIElement> ;
+        <http://org.softlang.com/partOf>
+                <repository:/model/PrimerPO.ecore#/element> .
+
+<repository:/src/ppo/PpoPackage.java#/imports(5)>
+        <http://org.softlang.com/elementOf>
+                <http://org.softlang.com/ImportJava> ;
+        <http://org.softlang.com/partOf>
+                <repository:/src/ppo/PpoPackage.java> .
+
+<repository:/bin/ppo/impl/PurchaseOrderImpl.class>
+        <http://org.softlang.com/manifestsAs>
+                <http://org.softlang.com/File> ;
+        <http://org.softlang.com/partOf>
+                <repository:/bin/ppo/impl> .
+
+<repository:/model/PrimerPO.genmodel#/element/content(4)/content(9)>
+        <http://org.softlang.com/elementOf>
+                <http://org.softlang.com/XMIElement> ;
+        <http://org.softlang.com/partOf>
+                <repository:/model/PrimerPO.genmodel#/element/content(4)> .
+
+<repository:/model/PrimerPO.ecore#/element/content(2)/content(7)>
+        <http://org.softlang.com/elementOf>
+                <http://org.softlang.com/XMIElement> ;
+        <http://org.softlang.com/partOf>
+                <repository:/model/PrimerPO.ecore#/element/content(2)> .
+
+<repository:/model/PrimerPO.ecore#/element/content(6)/content(9)>
+        <http://org.softlang.com/elementOf>
+                <http://org.softlang.com/XMIElement> ;
+        <http://org.softlang.com/partOf>
+                <repository:/model/PrimerPO.ecore#/element/content(6)> .
+
+<repository:/src/ppo/util/PpoSwitch.java#/imports(3)>
+        <http://org.softlang.com/elementOf>
+                <http://org.softlang.com/ImportJava> ;
+        <http://org.softlang.com/partOf>
+                <repository:/src/ppo/util/PpoSwitch.java> .
+
+<repository:/src/ppo/impl/PpoPackageImpl.java#/imports(12)>
+        <http://org.softlang.com/elementOf>
+                <http://org.softlang.com/ImportJava> ;
+        <http://org.softlang.com/partOf>
+                <repository:/src/ppo/impl/PpoPackageImpl.java> .
+
+<repository:/src/ppo/util/PpoAdapterFactory.java#/imports(2)>
+        <http://org.softlang.com/elementOf>
+                <http://org.softlang.com/ImportJava> ;
+        <http://org.softlang.com/partOf>
+                <repository:/src/ppo/util/PpoAdapterFactory.java> .
+
+<repository:/model/PrimerPO.genmodel#/element/content(2)>
+        <http://org.softlang.com/elementOf>
+                <http://org.softlang.com/XMIElement> ;
+        <http://org.softlang.com/partOf>
+                <repository:/model/PrimerPO.genmodel#/element> .
+
+<repository:/src/ppo/impl/PpoPackageImpl.java#/type(1)/implementedTypes(1)>
+        <http://org.softlang.com/elementOf>
+                <http://org.softlang.com/ImplementedTypeJava> ;
+        <http://org.softlang.com/env/escope>
+                <repository:/model/PrimerPO.genmodel#/element/content(4)/content(10)> , <repository:/src/ppo/impl> , <repository:/model/PrimerPO.genmodel#/element/content(4)/content(8)> , <repository:/src/ppo/Item.java> , <repository:/src/ppo/PurchaseOrder.java> , <repository:/src/ppo/PpoFactory.java> , <repository:/src/ppo/USAddress.java> , <repository:/model/PrimerPO.genmodel#/element/content(4)/content(6)> , <repository:/src/ppo/PpoPackage.java> , <repository:/src/ppo/impl/PpoPackageImpl.java> ;
+        <http://org.softlang.com/env/usescope>
+                <repository:/src/ppo/impl> , <repository:/src/ppo/impl/PpoPackageImpl.java> ;
+        <http://org.softlang.com/partOf>
+                <repository:/src/ppo/impl/PpoPackageImpl.java> .
+
+<repository:/src/ppo/impl/USAddressImpl.java#/type(1)/implementedTypes(1)>
+        <http://org.softlang.com/elementOf>
+                <http://org.softlang.com/ImplementedTypeJava> ;
+        <http://org.softlang.com/env/escope>
+                <repository:/model/PrimerPO.genmodel#/element/content(4)/content(8)> , <repository:/src/ppo/PpoPackage.java> , <repository:/src/ppo/USAddress.java> , <repository:/src/ppo/impl/USAddressImpl.java> , <repository:/src/ppo/impl> ;
+        <http://org.softlang.com/env/usescope>
+                <repository:/src/ppo/impl> , <repository:/src/ppo/impl/USAddressImpl.java> ;
+        <http://org.softlang.com/partOf>
+                <repository:/src/ppo/impl/USAddressImpl.java> .
+
+<repository:/src/ppo/impl/USAddressImpl.java#/imports(1)>
+        <http://org.softlang.com/elementOf>
+                <http://org.softlang.com/ImportJava> ;
+        <http://org.softlang.com/partOf>
+                <repository:/src/ppo/impl/USAddressImpl.java> .
+
+<repository:/model/PrimerPO.ecore#/element/content(2)/content(11)>
+        <http://org.softlang.com/elementOf>
+                <http://org.softlang.com/XMIElement> ;
+        <http://org.softlang.com/partOf>
+                <repository:/model/PrimerPO.ecore#/element/content(2)> .
+
+<repository:/bin/ppo/util/PpoSwitch.class>
+        <http://org.softlang.com/manifestsAs>
+                <http://org.softlang.com/File> ;
+        <http://org.softlang.com/partOf>
+                <repository:/bin/ppo/util> .
+
+<repository:/src/ppo/impl/USAddressImpl.java#/imports(6)>
+        <http://org.softlang.com/elementOf>
+                <http://org.softlang.com/ImportJava> ;
+        <http://org.softlang.com/partOf>
+                <repository:/src/ppo/impl/USAddressImpl.java> .
+
+<repository:/model/PrimerPO.genmodel#/element/content(2)/content(1)>
+        <http://org.softlang.com/elementOf>
+                <http://org.softlang.com/XMIElement> ;
+        <http://org.softlang.com/partOf>
+                <repository:/model/PrimerPO.genmodel#/element/content(2)> .
+
+<repository:/src/ppo/impl/ItemImpl.java#/imports(5)>
+        <http://org.softlang.com/elementOf>
+                <http://org.softlang.com/ImportJava> ;
+        <http://org.softlang.com/partOf>
+                <repository:/src/ppo/impl/ItemImpl.java> .
+
+<repository:/src/ppo/impl/PurchaseOrderImpl.java#/imports(1)>
+        <http://org.softlang.com/elementOf>
+                <http://org.softlang.com/ImportJava> ;
+        <http://org.softlang.com/partOf>
+                <repository:/src/ppo/impl/PurchaseOrderImpl.java> .
+
+<repository:/model/PrimerPO.ecore#/element/content(4)/content(1)>
+        <http://org.softlang.com/elementOf>
+                <http://org.softlang.com/XMIElement> ;
+        <http://org.softlang.com/partOf>
+                <repository:/model/PrimerPO.ecore#/element/content(4)> .
+
+<repository:/src/ppo/impl/PurchaseOrderImpl.java#/type(1)/extendedTypes(1)>
+        <http://org.softlang.com/elementOf>
+                <http://org.softlang.com/ExtendedTypeJava> ;
+        <http://org.softlang.com/env/escope>
+                <repository:/src/ppo/Item.java> , <repository:/src/ppo/USAddress.java> , <repository:/model/PrimerPO.genmodel#/element/content(4)/content(10)> , <repository:/src/ppo/impl/PurchaseOrderImpl.java> , <repository:/model/PrimerPO.genmodel#/element/content(4)/content(6)> , <repository:/src/ppo/PurchaseOrder.java> , <repository:/model/PrimerPO.genmodel#/element/content(4)/content(8)> , <repository:/src/ppo/impl> , <repository:/src/ppo/PpoPackage.java> ;
+        <http://org.softlang.com/env/usescope>
+                <repository:/src/ppo/impl/PurchaseOrderImpl.java> , <repository:/src/ppo/impl> ;
+        <http://org.softlang.com/partOf>
+                <repository:/src/ppo/impl/PurchaseOrderImpl.java> .
+
+<repository:/src/ppo/USAddress.java>
+        <http://org.softlang.com/elementOf>
+                <http://org.softlang.com/Java> ;
+        <http://org.softlang.com/env/escope>
+                <repository:/src/ppo/USAddress.java> , <cls:EObject> , <repository:/src/ppo> ;
+        <http://org.softlang.com/env/inscope>
+                <repository:/src/ppo/USAddress.java> , <repository:/src/ppo> ;
+        <http://org.softlang.com/env/qname>
+                "ppo.USAddress" ;
+        <http://org.softlang.com/env/sname>
+                "USAddress" ;
+        <http://org.softlang.com/env/usescope>
+                <repository:/src/ppo> ;
+        <http://org.softlang.com/extend>
+                <cls:EObject> ;
+        <http://org.softlang.com/instanceOf>
+                <http://org.softlang.com/Interface> ;
+        <http://org.softlang.com/manifestsAs>
+                <http://org.softlang.com/File> ;
+        <http://org.softlang.com/partOf>
+                <repository:/src/ppo> .
+
+<repository:/bin/ppo>
+        <http://org.softlang.com/manifestsAs>
+                <http://org.softlang.com/Folder> ;
+        <http://org.softlang.com/partOf>
+                <repository:/bin> .
+
+<repository:/model/PrimerPO.genmodel#/element/content(4)/content(6)/content(4)>
+        <http://org.softlang.com/elementOf>
+                <http://org.softlang.com/XMIElement> ;
+        <http://org.softlang.com/partOf>
+                <repository:/model/PrimerPO.genmodel#/element/content(4)/content(6)> .
+
+<repository:/src/ppo/PurchaseOrder.java#/imports(2)>
+        <http://org.softlang.com/elementOf>
+                <http://org.softlang.com/ImportJava> ;
+        <http://org.softlang.com/partOf>
+                <repository:/src/ppo/PurchaseOrder.java> .
+
+<repository:/model/PrimerPO.ecore#/element/content(6)/content(10)>
+        <http://org.softlang.com/elementOf>
+                <http://org.softlang.com/XMIElement> ;
+        <http://org.softlang.com/partOf>
+                <repository:/model/PrimerPO.ecore#/element/content(6)> .
+
+<repository:/model/PrimerPO.genmodel#/element/content(4)/content(10)/content(1)>
+        <http://org.softlang.com/elementOf>
+                <http://org.softlang.com/XMIElement> ;
+        <http://org.softlang.com/partOf>
+                <repository:/model/PrimerPO.genmodel#/element/content(4)/content(10)> .
+
+<repository:/src/ppo/impl/PurchaseOrderImpl.java#/imports(6)>
+        <http://org.softlang.com/elementOf>
+                <http://org.softlang.com/ImportJava> ;
+        <http://org.softlang.com/partOf>
+                <repository:/src/ppo/impl/PurchaseOrderImpl.java> .
+
+<repository:/model/PrimerPO.ecore#/element/content(4)/content(6)>
+        <http://org.softlang.com/elementOf>
+                <http://org.softlang.com/XMIElement> ;
+        <http://org.softlang.com/partOf>
+                <repository:/model/PrimerPO.ecore#/element/content(4)> .
+
+<repository:/src/ppo/util>
+        <http://org.softlang.com/elementOf>
+                <http://org.softlang.com/PackageJava> ;
+        <http://org.softlang.com/env/escope>
+                <repository:/src/ppo/util> ;
+        <http://org.softlang.com/env/inscope>
+                <repository:/src/ppo/util> ;
+        <http://org.softlang.com/env/qname>
+                "ppo.util" ;
+        <http://org.softlang.com/manifestsAs>
+                <http://org.softlang.com/Folder> ;
+        <http://org.softlang.com/partOf>
+                <repository:/src/ppo> .
+
+<repository:/src/ppo/PurchaseOrder.java#/type(1)/extendedTypes(1)>
+        <http://org.softlang.com/elementOf>
+                <http://org.softlang.com/ExtendedTypeJava> ;
+        <http://org.softlang.com/env/escope>
+                <cls:EObject> , <repository:/src/ppo> , <repository:/src/ppo/PurchaseOrder.java> ;
+        <http://org.softlang.com/env/usescope>
+                <repository:/src/ppo> , <repository:/src/ppo/PurchaseOrder.java> ;
+        <http://org.softlang.com/partOf>
+                <repository:/src/ppo/PurchaseOrder.java> .
+
+<repository:/bin/ppo/impl/PpoPackageImpl.class>
+        <http://org.softlang.com/manifestsAs>
+                <http://org.softlang.com/File> ;
+        <http://org.softlang.com/partOf>
+                <repository:/bin/ppo/impl> .
+
+<repository:/build.properties>
+        <http://org.softlang.com/manifestsAs>
+                <http://org.softlang.com/File> ;
+        <http://org.softlang.com/partOf>
+                <repository:/> .
+
+<repository:/model/PrimerPO.genmodel#/element/content(4)/content(10)/content(10)>
+        <http://org.softlang.com/elementOf>
+                <http://org.softlang.com/XMIElement> ;
+        <http://org.softlang.com/partOf>
+                <repository:/model/PrimerPO.genmodel#/element/content(4)/content(10)> .
+
+<repository:/model/PrimerPO.genmodel#/element/content(4)/content(6)/content(9)>
+        <http://org.softlang.com/elementOf>
+                <http://org.softlang.com/XMIElement> ;
+        <http://org.softlang.com/partOf>
+                <repository:/model/PrimerPO.genmodel#/element/content(4)/content(6)> .
+
+<repository:/model/PrimerPO.genmodel#/element/content(4)/content(8)/content(1)>
+        <http://org.softlang.com/elementOf>
+                <http://org.softlang.com/XMIElement> ;
+        <http://org.softlang.com/partOf>
+                <repository:/model/PrimerPO.genmodel#/element/content(4)/content(8)> .
+
+<repository:/src/ppo/Item.java#/imports(2)>
+        <http://org.softlang.com/elementOf>
+                <http://org.softlang.com/ImportJava> ;
+        <http://org.softlang.com/partOf>
+                <repository:/src/ppo/Item.java> .
+
+<repository:/>  <http://org.softlang.com/manifestsAs>
+                <http://org.softlang.com/Folder> .

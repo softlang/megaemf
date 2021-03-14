@@ -1,0 +1,1792 @@
+<repository:/EclipseProject/StudentManager/model/DataModel.ecore#/element/content(2)/content(3)>
+        <http://org.softlang.com/elementOf>
+                <http://org.softlang.com/XMIElement> ;
+        <http://org.softlang.com/partOf>
+                <repository:/EclipseProject/StudentManager/model/DataModel.ecore#/element/content(2)> .
+
+<repository:/EclipseProject/StudentManager/model/DataModel.genmodel#/element/content(2)/content(22)>
+        <http://org.softlang.com/elementOf>
+                <http://org.softlang.com/XMIElement> ;
+        <http://org.softlang.com/partOf>
+                <repository:/EclipseProject/StudentManager/model/DataModel.genmodel#/element/content(2)> .
+
+<repository:/EclipseProject/StudentManager/model/DataModel.genmodel#/element/content(6)/content(2)/content(1)>
+        <http://org.softlang.com/elementOf>
+                <http://org.softlang.com/XMIElement> ;
+        <http://org.softlang.com/partOf>
+                <repository:/EclipseProject/StudentManager/model/DataModel.genmodel#/element/content(6)/content(2)> .
+
+<repository:/EclipseProject/StudentManager/model/DataModel.genmodel#/element/content(5)>
+        <http://org.softlang.com/elementOf>
+                <http://org.softlang.com/XMIElement> ;
+        <http://org.softlang.com/partOf>
+                <repository:/EclipseProject/StudentManager/model/DataModel.genmodel#/element> .
+
+<repository:/EclipseProject/StudentManager/model/DataModel.genmodel#/element/content(2)/content(17)>
+        <http://org.softlang.com/elementOf>
+                <http://org.softlang.com/XMIElement> ;
+        <http://org.softlang.com/partOf>
+                <repository:/EclipseProject/StudentManager/model/DataModel.genmodel#/element/content(2)> .
+
+<repository:/EclipseProject/StudentManager/model/DataModel.genmodel#/element/content(2)/content(32)>
+        <http://org.softlang.com/elementOf>
+                <http://org.softlang.com/XMIElement> ;
+        <http://org.softlang.com/partOf>
+                <repository:/EclipseProject/StudentManager/model/DataModel.genmodel#/element/content(2)> .
+
+<repository:/EclipseProject/StudentManager/src/DataModel/impl/StudentCollectionImpl.java#/type(1)/implementedTypes(1)>
+        <http://org.softlang.com/elementOf>
+                <http://org.softlang.com/ImplementedTypeJava> ;
+        <http://org.softlang.com/env/escope>
+                <repository:/EclipseProject/StudentManager/src/DataModel/DataModelPackage.java> , <repository:/EclipseProject/StudentManager/src/DataModel/impl/StudentCollectionImpl.java> , <repository:/EclipseProject/StudentManager/src/DataModel/StudentCollection.java> , <repository:/EclipseProject/StudentManager/src/DataModel/Student.java> , <repository:/EclipseProject/StudentManager/src/DataModel/impl> ;
+        <http://org.softlang.com/env/usescope>
+                <repository:/EclipseProject/StudentManager/src/DataModel/impl> , <repository:/EclipseProject/StudentManager/src/DataModel/impl/StudentCollectionImpl.java> ;
+        <http://org.softlang.com/partOf>
+                <repository:/EclipseProject/StudentManager/src/DataModel/impl/StudentCollectionImpl.java> .
+
+<repository:/EclipseProject/StudentManager/src/DataModel/impl/StudentImpl.java#/imports(4)>
+        <http://org.softlang.com/elementOf>
+                <http://org.softlang.com/ImportJava> ;
+        <http://org.softlang.com/partOf>
+                <repository:/EclipseProject/StudentManager/src/DataModel/impl/StudentImpl.java> .
+
+<repository:/EclipseProject/StudentManager/model/DataModel.genmodel>
+        <http://org.softlang.com/elementOf>
+                <http://org.softlang.com/XMI> ;
+        <http://org.softlang.com/instanceOf>
+                <http://org.softlang.com/GeneratorModel> ;
+        <http://org.softlang.com/manifestsAs>
+                <http://org.softlang.com/File> ;
+        <http://org.softlang.com/partOf>
+                <repository:/EclipseProject/StudentManager/model> .
+
+<repository:/EclipseProject/StudentManager/model/DataModel.genmodel#/element/content(2)/content(27)>
+        <http://org.softlang.com/elementOf>
+                <http://org.softlang.com/XMIElement> ;
+        <http://org.softlang.com/partOf>
+                <repository:/EclipseProject/StudentManager/model/DataModel.genmodel#/element/content(2)> .
+
+<repository:/EclipseProject/StudentManager/model/DataModel.genmodel#/element/content(2)/content(7)>
+        <http://org.softlang.com/elementOf>
+                <http://org.softlang.com/XMIElement> ;
+        <http://org.softlang.com/partOf>
+                <repository:/EclipseProject/StudentManager/model/DataModel.genmodel#/element/content(2)> .
+
+<repository:/EclipseProject/StudentManager/src/gui>
+        <http://org.softlang.com/elementOf>
+                <http://org.softlang.com/PackageJava> ;
+        <http://org.softlang.com/env/escope>
+                <repository:/EclipseProject/StudentManager/src/gui> ;
+        <http://org.softlang.com/env/inscope>
+                <repository:/EclipseProject/StudentManager/src/gui> ;
+        <http://org.softlang.com/env/qname>
+                "gui" ;
+        <http://org.softlang.com/manifestsAs>
+                <http://org.softlang.com/Folder> ;
+        <http://org.softlang.com/partOf>
+                <repository:/EclipseProject/StudentManager/src> .
+
+<repository:/EclipseProject/StudentManager/src/DataModel/impl/DataModelPackageImpl.java>
+        <http://org.softlang.com/elementOf>
+                <http://org.softlang.com/Java> ;
+        <http://org.softlang.com/env/escope>
+                <repository:/EclipseProject/StudentManager/src/DataModel/impl> , <repository:/EclipseProject/StudentManager/src/DataModel/DataModelPackage.java> , <repository:/EclipseProject/StudentManager/src/DataModel/StudentCollection.java> , <repository:/EclipseProject/StudentManager/src/DataModel/Student.java> , <repository:/EclipseProject/StudentManager/src/DataModel/DataModelFactory.java> , <repository:/EclipseProject/StudentManager/src/DataModel/impl/DataModelPackageImpl.java> ;
+        <http://org.softlang.com/env/inscope>
+                <repository:/EclipseProject/StudentManager/src/DataModel/impl/DataModelPackageImpl.java> , <repository:/EclipseProject/StudentManager/src/DataModel/impl> ;
+        <http://org.softlang.com/env/qname>
+                "DataModel.impl.DataModelPackageImpl" ;
+        <http://org.softlang.com/env/sname>
+                "DataModelPackageImpl" ;
+        <http://org.softlang.com/env/usescope>
+                <repository:/EclipseProject/StudentManager/src/DataModel/impl> ;
+        <http://org.softlang.com/implement>
+                <repository:/EclipseProject/StudentManager/src/DataModel/DataModelPackage.java> ;
+        <http://org.softlang.com/manifestsAs>
+                <http://org.softlang.com/File> ;
+        <http://org.softlang.com/partOf>
+                <repository:/EclipseProject/StudentManager/src/DataModel/impl> .
+
+<repository:/EclipseProject/StudentManager/src/DataModel/util/DataModelAdapterFactory.java#/imports(2)>
+        <http://org.softlang.com/elementOf>
+                <http://org.softlang.com/ImportJava> ;
+        <http://org.softlang.com/partOf>
+                <repository:/EclipseProject/StudentManager/src/DataModel/util/DataModelAdapterFactory.java> .
+
+<repository:/EclipseProject/StudentManager/src/gui/Application.java#/imports(11)>
+        <http://org.softlang.com/elementOf>
+                <http://org.softlang.com/ImportJava> ;
+        <http://org.softlang.com/partOf>
+                <repository:/EclipseProject/StudentManager/src/gui/Application.java> .
+
+<repository:/.git/logs/refs/remotes/origin/studenmanger-tablemodel>
+        <http://org.softlang.com/manifestsAs>
+                <http://org.softlang.com/File> ;
+        <http://org.softlang.com/partOf>
+                <repository:/.git/logs/refs/remotes/origin> .
+
+<repository:/EclipseProject/StudentManager/studentManager_Example.students>
+        <http://org.softlang.com/manifestsAs>
+                <http://org.softlang.com/File> ;
+        <http://org.softlang.com/partOf>
+                <repository:/EclipseProject/StudentManager> .
+
+<repository:/.git/logs/refs>
+        <http://org.softlang.com/manifestsAs>
+                <http://org.softlang.com/Folder> ;
+        <http://org.softlang.com/partOf>
+                <repository:/.git/logs> .
+
+<repository:/.git/packed-refs>
+        <http://org.softlang.com/manifestsAs>
+                <http://org.softlang.com/File> ;
+        <http://org.softlang.com/partOf>
+                <repository:/.git> .
+
+<repository:/EclipseProject/StudentManager/src>
+        <http://org.softlang.com/manifestsAs>
+                <http://org.softlang.com/Folder> ;
+        <http://org.softlang.com/partOf>
+                <repository:/EclipseProject/StudentManager> .
+
+<repository:/EclipseProject/StudentManager/src/controller/MainController.java#/imports(13)>
+        <http://org.softlang.com/elementOf>
+                <http://org.softlang.com/ImportJava> ;
+        <http://org.softlang.com/partOf>
+                <repository:/EclipseProject/StudentManager/src/controller/MainController.java> .
+
+<repository:/EclipseProject/StudentManager/src/DataModel/impl/DataModelFactoryImpl.java#/type(1)/implementedTypes(1)>
+        <http://org.softlang.com/elementOf>
+                <http://org.softlang.com/ImplementedTypeJava> ;
+        <http://org.softlang.com/env/escope>
+                <cls:EObject> , <repository:/EclipseProject/StudentManager/src/DataModel/impl/DataModelFactoryImpl.java> , <repository:/EclipseProject/StudentManager/src/DataModel/impl> , <repository:/EclipseProject/StudentManager/src/DataModel> ;
+        <http://org.softlang.com/env/usescope>
+                <repository:/EclipseProject/StudentManager/src/DataModel/impl> , <repository:/EclipseProject/StudentManager/src/DataModel/impl/DataModelFactoryImpl.java> ;
+        <http://org.softlang.com/partOf>
+                <repository:/EclipseProject/StudentManager/src/DataModel/impl/DataModelFactoryImpl.java> .
+
+<repository:/EclipseProject/StudentManager/src/gui/Application.java#/imports(21)>
+        <http://org.softlang.com/elementOf>
+                <http://org.softlang.com/ImportJava> ;
+        <http://org.softlang.com/partOf>
+                <repository:/EclipseProject/StudentManager/src/gui/Application.java> .
+
+<repository:/EclipseProject/StudentManager/src/DataModel/Student.java>
+        <http://org.softlang.com/elementOf>
+                <http://org.softlang.com/Java> ;
+        <http://org.softlang.com/env/escope>
+                <repository:/EclipseProject/StudentManager/src/DataModel/Student.java> , <cls:EObject> , <repository:/EclipseProject/StudentManager/src/DataModel> ;
+        <http://org.softlang.com/env/inscope>
+                <repository:/EclipseProject/StudentManager/src/DataModel> , <repository:/EclipseProject/StudentManager/src/DataModel/Student.java> ;
+        <http://org.softlang.com/env/qname>
+                "DataModel.Student" ;
+        <http://org.softlang.com/env/sname>
+                "Student" ;
+        <http://org.softlang.com/env/usescope>
+                <repository:/EclipseProject/StudentManager/src/DataModel> ;
+        <http://org.softlang.com/extend>
+                <cls:EObject> ;
+        <http://org.softlang.com/instanceOf>
+                <http://org.softlang.com/Interface> ;
+        <http://org.softlang.com/manifestsAs>
+                <http://org.softlang.com/File> ;
+        <http://org.softlang.com/partOf>
+                <repository:/EclipseProject/StudentManager/src/DataModel> .
+
+<repository:/EclipseProject/StudentManager/src/controller>
+        <http://org.softlang.com/elementOf>
+                <http://org.softlang.com/PackageJava> ;
+        <http://org.softlang.com/env/escope>
+                <repository:/EclipseProject/StudentManager/src/controller> ;
+        <http://org.softlang.com/env/inscope>
+                <repository:/EclipseProject/StudentManager/src/controller> ;
+        <http://org.softlang.com/env/qname>
+                "controller" ;
+        <http://org.softlang.com/manifestsAs>
+                <http://org.softlang.com/Folder> ;
+        <http://org.softlang.com/partOf>
+                <repository:/EclipseProject/StudentManager/src> .
+
+<repository:/EclipseProject/StudentManager/src/gui/Application.java#/imports(16)>
+        <http://org.softlang.com/elementOf>
+                <http://org.softlang.com/ImportJava> ;
+        <http://org.softlang.com/partOf>
+                <repository:/EclipseProject/StudentManager/src/gui/Application.java> .
+
+<repository:/EclipseProject/StudentManager/src/gui/StudentListModel.java>
+        <http://org.softlang.com/elementOf>
+                <http://org.softlang.com/Java> ;
+        <http://org.softlang.com/env/escope>
+                <repository:/EclipseProject/StudentManager/src/gui> , <repository:/EclipseProject/StudentManager/src/DataModel/Student.java> , <repository:/EclipseProject/StudentManager/src/gui/StudentListModel.java> ;
+        <http://org.softlang.com/env/inscope>
+                <repository:/EclipseProject/StudentManager/src/gui> , <repository:/EclipseProject/StudentManager/src/gui/StudentListModel.java> ;
+        <http://org.softlang.com/env/qname>
+                "gui.StudentListModel" ;
+        <http://org.softlang.com/env/sname>
+                "StudentListModel" ;
+        <http://org.softlang.com/env/usescope>
+                <repository:/EclipseProject/StudentManager/src/gui> ;
+        <http://org.softlang.com/manifestsAs>
+                <http://org.softlang.com/File> ;
+        <http://org.softlang.com/partOf>
+                <repository:/EclipseProject/StudentManager/src/gui> .
+
+<repository:/EclipseProject/StudentManager/src/controller/MainController.java#/imports(3)>
+        <http://org.softlang.com/elementOf>
+                <http://org.softlang.com/ImportJava> ;
+        <http://org.softlang.com/partOf>
+                <repository:/EclipseProject/StudentManager/src/controller/MainController.java> .
+
+<repository:/EclipseProject/StudentManager/model/DataModel.ecore#/element/content(4)/content(5)>
+        <http://org.softlang.com/elementOf>
+                <http://org.softlang.com/XMIElement> ;
+        <http://org.softlang.com/partOf>
+                <repository:/EclipseProject/StudentManager/model/DataModel.ecore#/element/content(4)> .
+
+<repository:/EclipseProject/StudentManager/src/DataModel/impl/StudentImpl.java>
+        <http://org.softlang.com/elementOf>
+                <http://org.softlang.com/Java> ;
+        <http://org.softlang.com/env/escope>
+                <repository:/EclipseProject/StudentManager/src/DataModel/DataModelPackage.java> , <repository:/EclipseProject/StudentManager/src/DataModel/impl/StudentImpl.java> , <repository:/EclipseProject/StudentManager/src/DataModel/Student.java> , <repository:/EclipseProject/StudentManager/src/DataModel/impl> ;
+        <http://org.softlang.com/env/inscope>
+                <repository:/EclipseProject/StudentManager/src/DataModel/impl> , <repository:/EclipseProject/StudentManager/src/DataModel/impl/StudentImpl.java> ;
+        <http://org.softlang.com/env/qname>
+                "DataModel.impl.StudentImpl" ;
+        <http://org.softlang.com/env/sname>
+                "StudentImpl" ;
+        <http://org.softlang.com/env/usescope>
+                <repository:/EclipseProject/StudentManager/src/DataModel/impl> ;
+        <http://org.softlang.com/implement>
+                <repository:/EclipseProject/StudentManager/src/DataModel/Student.java> ;
+        <http://org.softlang.com/instanceOf>
+                <http://org.softlang.com/InterfaceImpl> ;
+        <http://org.softlang.com/manifestsAs>
+                <http://org.softlang.com/File> ;
+        <http://org.softlang.com/partOf>
+                <repository:/EclipseProject/StudentManager/src/DataModel/impl> .
+
+<repository:/EclipseProject/StudentManager/src/gui/Application.java#/imports(5)>
+        <http://org.softlang.com/elementOf>
+                <http://org.softlang.com/ImportJava> ;
+        <http://org.softlang.com/partOf>
+                <repository:/EclipseProject/StudentManager/src/gui/Application.java> .
+
+<repository:/EclipseProject/StudentManager>
+        <http://org.softlang.com/manifestsAs>
+                <http://org.softlang.com/Folder> ;
+        <http://org.softlang.com/partOf>
+                <repository:/EclipseProject> .
+
+<repository:/EclipseProject/StudentManager/src/gui/Application.java>
+        <http://org.softlang.com/elementOf>
+                <http://org.softlang.com/Java> ;
+        <http://org.softlang.com/env/escope>
+                <repository:/EclipseProject/StudentManager/src/gui> , <repository:/EclipseProject/StudentManager/src/DataModel/Student.java> , <repository:/EclipseProject/StudentManager/src/controller/MainController.java> , <repository:/EclipseProject/StudentManager/src/gui/Application.java> ;
+        <http://org.softlang.com/env/inscope>
+                <repository:/EclipseProject/StudentManager/src/gui/Application.java> , <repository:/EclipseProject/StudentManager/src/gui> ;
+        <http://org.softlang.com/env/qname>
+                "gui.Application" ;
+        <http://org.softlang.com/env/sname>
+                "Application" ;
+        <http://org.softlang.com/env/usescope>
+                <repository:/EclipseProject/StudentManager/src/gui> ;
+        <http://org.softlang.com/manifestsAs>
+                <http://org.softlang.com/File> ;
+        <http://org.softlang.com/partOf>
+                <repository:/EclipseProject/StudentManager/src/gui> .
+
+<repository:/EclipseProject/StudentManager/src/DataModel/StudentCollection.java#/imports(1)>
+        <http://org.softlang.com/elementOf>
+                <http://org.softlang.com/ImportJava> ;
+        <http://org.softlang.com/partOf>
+                <repository:/EclipseProject/StudentManager/src/DataModel/StudentCollection.java> .
+
+<repository:/EclipseProject/StudentManager/model/DataModel.genmodel#/element/content(4)/content(1)>
+        <http://org.softlang.com/elementOf>
+                <http://org.softlang.com/XMIElement> ;
+        <http://org.softlang.com/partOf>
+                <repository:/EclipseProject/StudentManager/model/DataModel.genmodel#/element/content(4)> .
+
+<repository:/EclipseProject/StudentManager/src/DataModel/impl/StudentCollectionImpl.java#/imports(4)>
+        <http://org.softlang.com/elementOf>
+                <http://org.softlang.com/ImportJava> ;
+        <http://org.softlang.com/partOf>
+                <repository:/EclipseProject/StudentManager/src/DataModel/impl/StudentCollectionImpl.java> .
+
+<repository:/EclipseProject/StudentManager/src/DataModel/impl/StudentCollectionImpl.java#/imports(10)>
+        <http://org.softlang.com/elementOf>
+                <http://org.softlang.com/ImportJava> ;
+        <http://org.softlang.com/partOf>
+                <repository:/EclipseProject/StudentManager/src/DataModel/impl/StudentCollectionImpl.java> .
+
+<repository:/EclipseProject/StudentManager/src/DataModel/DataModelPackage.java#/imports(2)>
+        <http://org.softlang.com/elementOf>
+                <http://org.softlang.com/ImportJava> ;
+        <http://org.softlang.com/partOf>
+                <repository:/EclipseProject/StudentManager/src/DataModel/DataModelPackage.java> .
+
+<repository:/EclipseProject/StudentManager/src/controller/MainController.java#/imports(8)>
+        <http://org.softlang.com/elementOf>
+                <http://org.softlang.com/ImportJava> ;
+        <http://org.softlang.com/partOf>
+                <repository:/EclipseProject/StudentManager/src/controller/MainController.java> .
+
+<repository:/EclipseProject/StudentManager/src/DataModel/impl/DataModelFactoryImpl.java#/imports(2)>
+        <http://org.softlang.com/elementOf>
+                <http://org.softlang.com/ImportJava> ;
+        <http://org.softlang.com/partOf>
+                <repository:/EclipseProject/StudentManager/src/DataModel/impl/DataModelFactoryImpl.java> .
+
+<repository:/EclipseProject/StudentManager/model/DataModel.ecore>
+        <http://org.softlang.com/elementOf>
+                <http://org.softlang.com/XMI> ;
+        <http://org.softlang.com/instanceOf>
+                <http://org.softlang.com/EcoreModel> ;
+        <http://org.softlang.com/manifestsAs>
+                <http://org.softlang.com/File> ;
+        <http://org.softlang.com/partOf>
+                <repository:/EclipseProject/StudentManager/model> .
+
+<repository:/EclipseProject/StudentManager/src/DataModel/impl/StudentImpl.java#/type(1)/extendedTypes(1)>
+        <http://org.softlang.com/elementOf>
+                <http://org.softlang.com/ExtendedTypeJava> ;
+        <http://org.softlang.com/env/escope>
+                <repository:/EclipseProject/StudentManager/src/DataModel/DataModelPackage.java> , <repository:/EclipseProject/StudentManager/src/DataModel/impl/StudentImpl.java> , <repository:/EclipseProject/StudentManager/src/DataModel/impl> , <repository:/EclipseProject/StudentManager/src/DataModel/Student.java> ;
+        <http://org.softlang.com/env/usescope>
+                <repository:/EclipseProject/StudentManager/src/DataModel/impl> , <repository:/EclipseProject/StudentManager/src/DataModel/impl/StudentImpl.java> ;
+        <http://org.softlang.com/partOf>
+                <repository:/EclipseProject/StudentManager/src/DataModel/impl/StudentImpl.java> .
+
+<repository:/EclipseProject/StudentManager/src/DataModel/Student.java#/imports(1)>
+        <http://org.softlang.com/elementOf>
+                <http://org.softlang.com/ImportJava> ;
+        <http://org.softlang.com/partOf>
+                <repository:/EclipseProject/StudentManager/src/DataModel/Student.java> .
+
+<repository:/.git/logs/refs/remotes/origin>
+        <http://org.softlang.com/manifestsAs>
+                <http://org.softlang.com/Folder> ;
+        <http://org.softlang.com/partOf>
+                <repository:/.git/logs/refs/remotes> .
+
+<repository:/EclipseProject/StudentManager/src/DataModel/impl/StudentCollectionImpl.java#/imports(9)>
+        <http://org.softlang.com/elementOf>
+                <http://org.softlang.com/ImportJava> ;
+        <http://org.softlang.com/partOf>
+                <repository:/EclipseProject/StudentManager/src/DataModel/impl/StudentCollectionImpl.java> .
+
+<repository:/EclipseProject/StudentManager/model/DataModel.ecore#/element>
+        <http://org.softlang.com/elementOf>
+                <http://org.softlang.com/XMIElement> ;
+        <http://org.softlang.com/instanceOf>
+                <http://org.softlang.com/EPackage> ;
+        <http://org.softlang.com/partOf>
+                <repository:/EclipseProject/StudentManager/model/DataModel.ecore> .
+
+<repository:/EclipseProject/StudentManager/model/DataModel.genmodel#/element/content(6)/content(4)/content(5)>
+        <http://org.softlang.com/elementOf>
+                <http://org.softlang.com/XMIElement> ;
+        <http://org.softlang.com/partOf>
+                <repository:/EclipseProject/StudentManager/model/DataModel.genmodel#/element/content(6)/content(4)> .
+
+<repository:/.git/config>
+        <http://org.softlang.com/manifestsAs>
+                <http://org.softlang.com/File> ;
+        <http://org.softlang.com/partOf>
+                <repository:/.git> .
+
+<repository:/EclipseProject/StudentManager/src/gui/StudentListModel.java#/imports(1)>
+        <http://org.softlang.com/elementOf>
+                <http://org.softlang.com/ImportJava> ;
+        <http://org.softlang.com/partOf>
+                <repository:/EclipseProject/StudentManager/src/gui/StudentListModel.java> .
+
+<repository:/EclipseProject/StudentManager/src/DataModel/impl/DataModelPackageImpl.java#/imports(4)>
+        <http://org.softlang.com/elementOf>
+                <http://org.softlang.com/ImportJava> ;
+        <http://org.softlang.com/partOf>
+                <repository:/EclipseProject/StudentManager/src/DataModel/impl/DataModelPackageImpl.java> .
+
+<repository:/.git/logs/refs/heads/master>
+        <http://org.softlang.com/manifestsAs>
+                <http://org.softlang.com/File> ;
+        <http://org.softlang.com/partOf>
+                <repository:/.git/logs/refs/heads> .
+
+<repository:/EclipseProject/StudentManager/src/DataModel/util/DataModelSwitch.java#/type(1)/extendedTypes(1)>
+        <http://org.softlang.com/elementOf>
+                <http://org.softlang.com/ExtendedTypeJava> ;
+        <http://org.softlang.com/env/escope>
+                <cls:EObject> , <repository:/EclipseProject/StudentManager/src/DataModel> , <repository:/EclipseProject/StudentManager/src/DataModel/util/DataModelSwitch.java> , <repository:/EclipseProject/StudentManager/src/DataModel/util> ;
+        <http://org.softlang.com/env/usescope>
+                <repository:/EclipseProject/StudentManager/src/DataModel/util> , <repository:/EclipseProject/StudentManager/src/DataModel/util/DataModelSwitch.java> ;
+        <http://org.softlang.com/partOf>
+                <repository:/EclipseProject/StudentManager/src/DataModel/util/DataModelSwitch.java> .
+
+<repository:/EclipseProject/StudentManager/model/DataModel.ecore#/element/content(5)>
+        <http://org.softlang.com/elementOf>
+                <http://org.softlang.com/XMIElement> ;
+        <http://org.softlang.com/partOf>
+                <repository:/EclipseProject/StudentManager/model/DataModel.ecore#/element> .
+
+<repository:/EclipseProject/StudentManager/model/DataModel.genmodel#/element/content(2)/content(11)>
+        <http://org.softlang.com/elementOf>
+                <http://org.softlang.com/XMIElement> ;
+        <http://org.softlang.com/partOf>
+                <repository:/EclipseProject/StudentManager/model/DataModel.genmodel#/element/content(2)> .
+
+<repository:/.git/refs>
+        <http://org.softlang.com/manifestsAs>
+                <http://org.softlang.com/Folder> ;
+        <http://org.softlang.com/partOf>
+                <repository:/.git> .
+
+<repository:/EclipseProject/StudentManager/model/DataModel.genmodel#/element/content(2)/content(1)>
+        <http://org.softlang.com/elementOf>
+                <http://org.softlang.com/XMIElement> ;
+        <http://org.softlang.com/partOf>
+                <repository:/EclipseProject/StudentManager/model/DataModel.genmodel#/element/content(2)> .
+
+<repository:/EclipseProject/StudentManager/model/DataModel.genmodel#/element/content(6)/content(3)>
+        <http://org.softlang.com/elementOf>
+                <http://org.softlang.com/XMIElement> ;
+        <http://org.softlang.com/partOf>
+                <repository:/EclipseProject/StudentManager/model/DataModel.genmodel#/element/content(6)> .
+
+<repository:/EclipseProject/StudentManager/model/DataModel.ecore#/element/content(2)/content(2)>
+        <http://org.softlang.com/elementOf>
+                <http://org.softlang.com/XMIElement> ;
+        <http://org.softlang.com/partOf>
+                <repository:/EclipseProject/StudentManager/model/DataModel.ecore#/element/content(2)> .
+
+<repository:/EclipseProject/StudentManager/model/DataModel.genmodel#/element/content(2)/content(21)>
+        <http://org.softlang.com/elementOf>
+                <http://org.softlang.com/XMIElement> ;
+        <http://org.softlang.com/partOf>
+                <repository:/EclipseProject/StudentManager/model/DataModel.genmodel#/element/content(2)> .
+
+<repository:/EclipseProject/StudentManager/model/DataModel.genmodel#/element/content(4)>
+        <http://org.softlang.com/elementOf>
+                <http://org.softlang.com/XMIElement> ;
+        <http://org.softlang.com/partOf>
+                <repository:/EclipseProject/StudentManager/model/DataModel.genmodel#/element> .
+
+<repository:/EclipseProject/StudentManager/src/DataModel/impl/DataModelPackageImpl.java#/imports(9)>
+        <http://org.softlang.com/elementOf>
+                <http://org.softlang.com/ImportJava> ;
+        <http://org.softlang.com/partOf>
+                <repository:/EclipseProject/StudentManager/src/DataModel/impl/DataModelPackageImpl.java> .
+
+<repository:/EclipseProject/StudentManager/model/DataModel.genmodel#/element/content(2)/content(16)>
+        <http://org.softlang.com/elementOf>
+                <http://org.softlang.com/XMIElement> ;
+        <http://org.softlang.com/partOf>
+                <repository:/EclipseProject/StudentManager/model/DataModel.genmodel#/element/content(2)> .
+
+<repository:/.git/refs/tags>
+        <http://org.softlang.com/manifestsAs>
+                <http://org.softlang.com/Folder> ;
+        <http://org.softlang.com/partOf>
+                <repository:/.git/refs> .
+
+<repository:/EclipseProject/StudentManager/src/DataModel/impl/StudentImpl.java#/imports(3)>
+        <http://org.softlang.com/elementOf>
+                <http://org.softlang.com/ImportJava> ;
+        <http://org.softlang.com/partOf>
+                <repository:/EclipseProject/StudentManager/src/DataModel/impl/StudentImpl.java> .
+
+<repository:/EclipseProject/StudentManager/model/DataModel.genmodel#/element/content(2)/content(31)>
+        <http://org.softlang.com/elementOf>
+                <http://org.softlang.com/XMIElement> ;
+        <http://org.softlang.com/partOf>
+                <repository:/EclipseProject/StudentManager/model/DataModel.genmodel#/element/content(2)> .
+
+<repository:/EclipseProject/StudentManager/model/DataModel.genmodel#/element/content(2)/content(6)>
+        <http://org.softlang.com/elementOf>
+                <http://org.softlang.com/XMIElement> ;
+        <http://org.softlang.com/partOf>
+                <repository:/EclipseProject/StudentManager/model/DataModel.genmodel#/element/content(2)> .
+
+<repository:/EclipseProject/StudentManager/model/DataModel.genmodel#/element/content(2)/content(26)>
+        <http://org.softlang.com/elementOf>
+                <http://org.softlang.com/XMIElement> ;
+        <http://org.softlang.com/partOf>
+                <repository:/EclipseProject/StudentManager/model/DataModel.genmodel#/element/content(2)> .
+
+<repository:/EclipseProject/StudentManager/src/DataModel/util/DataModelAdapterFactory.java#/imports(1)>
+        <http://org.softlang.com/elementOf>
+                <http://org.softlang.com/ImportJava> ;
+        <http://org.softlang.com/partOf>
+                <repository:/EclipseProject/StudentManager/src/DataModel/util/DataModelAdapterFactory.java> .
+
+<repository:/EclipseProject/StudentManager/src/gui/Application.java#/imports(10)>
+        <http://org.softlang.com/elementOf>
+                <http://org.softlang.com/ImportJava> ;
+        <http://org.softlang.com/partOf>
+                <repository:/EclipseProject/StudentManager/src/gui/Application.java> .
+
+<repository:/.git/refs/heads/master>
+        <http://org.softlang.com/manifestsAs>
+                <http://org.softlang.com/File> ;
+        <http://org.softlang.com/partOf>
+                <repository:/.git/refs/heads> .
+
+<repository:/.git/objects>
+        <http://org.softlang.com/manifestsAs>
+                <http://org.softlang.com/Folder> ;
+        <http://org.softlang.com/partOf>
+                <repository:/.git> .
+
+<repository:/EclipseProject/StudentManager/src/controller/MainController.java#/imports(12)>
+        <http://org.softlang.com/elementOf>
+                <http://org.softlang.com/ImportJava> ;
+        <http://org.softlang.com/partOf>
+                <repository:/EclipseProject/StudentManager/src/controller/MainController.java> .
+
+<repository:/EclipseProject/StudentManager/src/gui/Application.java#/imports(20)>
+        <http://org.softlang.com/elementOf>
+                <http://org.softlang.com/ImportJava> ;
+        <http://org.softlang.com/partOf>
+                <repository:/EclipseProject/StudentManager/src/gui/Application.java> .
+
+<repository:/EclipseProject/StudentManager/src/gui/resources/minus.png>
+        <http://org.softlang.com/manifestsAs>
+                <http://org.softlang.com/File> ;
+        <http://org.softlang.com/partOf>
+                <repository:/EclipseProject/StudentManager/src/gui/resources> .
+
+<repository:/EclipseProject/StudentManager/src/gui/Application.java#/imports(15)>
+        <http://org.softlang.com/elementOf>
+                <http://org.softlang.com/ImportJava> ;
+        <http://org.softlang.com/partOf>
+                <repository:/EclipseProject/StudentManager/src/gui/Application.java> .
+
+<repository:/EclipseProject/StudentManager/src/controller/MainController.java#/imports(2)>
+        <http://org.softlang.com/elementOf>
+                <http://org.softlang.com/ImportJava> ;
+        <http://org.softlang.com/partOf>
+                <repository:/EclipseProject/StudentManager/src/controller/MainController.java> .
+
+<repository:/EclipseProject/StudentManager/model/DataModel.ecore#/element/content(4)/content(4)>
+        <http://org.softlang.com/elementOf>
+                <http://org.softlang.com/XMIElement> ;
+        <http://org.softlang.com/partOf>
+                <repository:/EclipseProject/StudentManager/model/DataModel.ecore#/element/content(4)> .
+
+<repository:/EclipseProject/StudentManager/src/gui/Application.java#/imports(4)>
+        <http://org.softlang.com/elementOf>
+                <http://org.softlang.com/ImportJava> ;
+        <http://org.softlang.com/partOf>
+                <repository:/EclipseProject/StudentManager/src/gui/Application.java> .
+
+<repository:/.git/logs/HEAD>
+        <http://org.softlang.com/manifestsAs>
+                <http://org.softlang.com/File> ;
+        <http://org.softlang.com/partOf>
+                <repository:/.git/logs> .
+
+<repository:/.git/logs>
+        <http://org.softlang.com/manifestsAs>
+                <http://org.softlang.com/Folder> ;
+        <http://org.softlang.com/partOf>
+                <repository:/.git> .
+
+<cls:EObject>  <http://org.softlang.com/elementOf>
+                <http://org.softlang.com/Java> ;
+        <http://org.softlang.com/env/escope>
+                <cls:EObject> ;
+        <http://org.softlang.com/env/inscope>
+                <cls:EObject> ;
+        <http://org.softlang.com/env/qname>
+                "org.eclipse.emf.ecore.EObject" ;
+        <http://org.softlang.com/env/sname>
+                "EObject" .
+
+<repository:/EclipseProject/StudentManager/src/DataModel/impl/StudentCollectionImpl.java#/imports(3)>
+        <http://org.softlang.com/elementOf>
+                <http://org.softlang.com/ImportJava> ;
+        <http://org.softlang.com/partOf>
+                <repository:/EclipseProject/StudentManager/src/DataModel/impl/StudentCollectionImpl.java> .
+
+<repository:/EclipseProject/StudentManager/src/DataModel/util/DataModelSwitch.java#/imports(4)>
+        <http://org.softlang.com/elementOf>
+                <http://org.softlang.com/ImportJava> ;
+        <http://org.softlang.com/partOf>
+                <repository:/EclipseProject/StudentManager/src/DataModel/util/DataModelSwitch.java> .
+
+<repository:/EclipseProject/StudentManager/src/DataModel/DataModelPackage.java#/imports(1)>
+        <http://org.softlang.com/elementOf>
+                <http://org.softlang.com/ImportJava> ;
+        <http://org.softlang.com/partOf>
+                <repository:/EclipseProject/StudentManager/src/DataModel/DataModelPackage.java> .
+
+<repository:/EclipseProject/StudentManager/src/controller/MainController.java#/imports(7)>
+        <http://org.softlang.com/elementOf>
+                <http://org.softlang.com/ImportJava> ;
+        <http://org.softlang.com/partOf>
+                <repository:/EclipseProject/StudentManager/src/controller/MainController.java> .
+
+<repository:/EclipseProject/StudentManager/src/DataModel/impl/DataModelFactoryImpl.java#/imports(1)>
+        <http://org.softlang.com/elementOf>
+                <http://org.softlang.com/ImportJava> ;
+        <http://org.softlang.com/partOf>
+                <repository:/EclipseProject/StudentManager/src/DataModel/impl/DataModelFactoryImpl.java> .
+
+<repository:/.git/objects/info>
+        <http://org.softlang.com/manifestsAs>
+                <http://org.softlang.com/Folder> ;
+        <http://org.softlang.com/partOf>
+                <repository:/.git/objects> .
+
+<repository:/EclipseProject/StudentManager/src/gui/Application.java#/imports(9)>
+        <http://org.softlang.com/elementOf>
+                <http://org.softlang.com/ImportJava> ;
+        <http://org.softlang.com/partOf>
+                <repository:/EclipseProject/StudentManager/src/gui/Application.java> .
+
+<repository:/EclipseProject/StudentManager/src/DataModel/impl/StudentCollectionImpl.java#/imports(8)>
+        <http://org.softlang.com/elementOf>
+                <http://org.softlang.com/ImportJava> ;
+        <http://org.softlang.com/partOf>
+                <repository:/EclipseProject/StudentManager/src/DataModel/impl/StudentCollectionImpl.java> .
+
+<repository:/EclipseProject/StudentManager/src/DataModel/impl/DataModelFactoryImpl.java#/imports(6)>
+        <http://org.softlang.com/elementOf>
+                <http://org.softlang.com/ImportJava> ;
+        <http://org.softlang.com/partOf>
+                <repository:/EclipseProject/StudentManager/src/DataModel/impl/DataModelFactoryImpl.java> .
+
+<repository:/EclipseProject/StudentManager/src/gui/resources/plus.png>
+        <http://org.softlang.com/manifestsAs>
+                <http://org.softlang.com/File> ;
+        <http://org.softlang.com/partOf>
+                <repository:/EclipseProject/StudentManager/src/gui/resources> .
+
+<repository:/EclipseProject/StudentManager/model/DataModel.genmodel#/element/content(6)/content(4)/content(4)>
+        <http://org.softlang.com/elementOf>
+                <http://org.softlang.com/XMIElement> ;
+        <http://org.softlang.com/partOf>
+                <repository:/EclipseProject/StudentManager/model/DataModel.genmodel#/element/content(6)/content(4)> .
+
+<repository:/EclipseProject/StudentManager/model/DataModel.uml>
+        <http://org.softlang.com/CreateGeneratorModel>
+                <repository:/EclipseProject/StudentManager/model/DataModel.genmodel> ;
+        <http://org.softlang.com/manifestsAs>
+                <http://org.softlang.com/File> ;
+        <http://org.softlang.com/partOf>
+                <repository:/EclipseProject/StudentManager/model> .
+
+<repository:/EclipseProject/StudentManager/src/DataModel/impl/DataModelPackageImpl.java#/imports(3)>
+        <http://org.softlang.com/elementOf>
+                <http://org.softlang.com/ImportJava> ;
+        <http://org.softlang.com/partOf>
+                <repository:/EclipseProject/StudentManager/src/DataModel/impl/DataModelPackageImpl.java> .
+
+<repository:/EclipseProject/StudentManager/model/DataModel.ecore#/element/content(4)>
+        <http://org.softlang.com/elementOf>
+                <http://org.softlang.com/XMIElement> ;
+        <http://org.softlang.com/partOf>
+                <repository:/EclipseProject/StudentManager/model/DataModel.ecore#/element> .
+
+<repository:/EclipseProject/StudentManager/model/DataModel.genmodel#/element/content(2)/content(10)>
+        <http://org.softlang.com/elementOf>
+                <http://org.softlang.com/XMIElement> ;
+        <http://org.softlang.com/partOf>
+                <repository:/EclipseProject/StudentManager/model/DataModel.genmodel#/element/content(2)> .
+
+<repository:/EclipseProject/StudentManager/src/DataModel/impl/StudentCollectionImpl.java>
+        <http://org.softlang.com/elementOf>
+                <http://org.softlang.com/Java> ;
+        <http://org.softlang.com/env/escope>
+                <repository:/EclipseProject/StudentManager/src/DataModel/impl/StudentCollectionImpl.java> , <repository:/EclipseProject/StudentManager/src/DataModel/Student.java> , <repository:/EclipseProject/StudentManager/src/DataModel/DataModelPackage.java> , <repository:/EclipseProject/StudentManager/src/DataModel/impl> , <repository:/EclipseProject/StudentManager/src/DataModel/StudentCollection.java> ;
+        <http://org.softlang.com/env/inscope>
+                <repository:/EclipseProject/StudentManager/src/DataModel/impl/StudentCollectionImpl.java> , <repository:/EclipseProject/StudentManager/src/DataModel/impl> ;
+        <http://org.softlang.com/env/qname>
+                "DataModel.impl.StudentCollectionImpl" ;
+        <http://org.softlang.com/env/sname>
+                "StudentCollectionImpl" ;
+        <http://org.softlang.com/env/usescope>
+                <repository:/EclipseProject/StudentManager/src/DataModel/impl> ;
+        <http://org.softlang.com/implement>
+                <repository:/EclipseProject/StudentManager/src/DataModel/StudentCollection.java> ;
+        <http://org.softlang.com/instanceOf>
+                <http://org.softlang.com/InterfaceImpl> ;
+        <http://org.softlang.com/manifestsAs>
+                <http://org.softlang.com/File> ;
+        <http://org.softlang.com/partOf>
+                <repository:/EclipseProject/StudentManager/src/DataModel/impl> .
+
+<repository:/EclipseProject/StudentManager/src/DataModel/StudentCollection.java#/type(1)/extendedTypes(1)>
+        <http://org.softlang.com/elementOf>
+                <http://org.softlang.com/ExtendedTypeJava> ;
+        <http://org.softlang.com/env/escope>
+                <cls:EObject> , <repository:/EclipseProject/StudentManager/src/DataModel/StudentCollection.java> , <repository:/EclipseProject/StudentManager/src/DataModel> ;
+        <http://org.softlang.com/env/usescope>
+                <repository:/EclipseProject/StudentManager/src/DataModel> , <repository:/EclipseProject/StudentManager/src/DataModel/StudentCollection.java> ;
+        <http://org.softlang.com/partOf>
+                <repository:/EclipseProject/StudentManager/src/DataModel/StudentCollection.java> .
+
+<repository:/EclipseProject/StudentManager/src/DataModel/DataModelFactory.java#/type(1)/extendedTypes(1)>
+        <http://org.softlang.com/elementOf>
+                <http://org.softlang.com/ExtendedTypeJava> ;
+        <http://org.softlang.com/env/escope>
+                <repository:/EclipseProject/StudentManager/src/DataModel/DataModelFactory.java> , <repository:/EclipseProject/StudentManager/src/DataModel> ;
+        <http://org.softlang.com/env/usescope>
+                <repository:/EclipseProject/StudentManager/src/DataModel> , <repository:/EclipseProject/StudentManager/src/DataModel/DataModelFactory.java> ;
+        <http://org.softlang.com/partOf>
+                <repository:/EclipseProject/StudentManager/src/DataModel/DataModelFactory.java> .
+
+<repository:/EclipseProject/StudentManager/model/DataModel.genmodel#/element/content(6)/content(2)>
+        <http://org.softlang.com/elementOf>
+                <http://org.softlang.com/XMIElement> ;
+        <http://org.softlang.com/env/sname>
+                "StudentCollection" ;
+        <http://org.softlang.com/instanceOf>
+                <http://org.softlang.com/GeneratorClass> ;
+        <http://org.softlang.com/partOf>
+                <repository:/EclipseProject/StudentManager/model/DataModel.genmodel#/element/content(6)> .
+
+<repository:/EclipseProject/StudentManager/model/DataModel.ecore#/element/content(2)/content(1)>
+        <http://org.softlang.com/elementOf>
+                <http://org.softlang.com/XMIElement> ;
+        <http://org.softlang.com/partOf>
+                <repository:/EclipseProject/StudentManager/model/DataModel.ecore#/element/content(2)> .
+
+<repository:/EclipseProject/StudentManager/model/DataModel.genmodel#/element/content(2)/content(20)>
+        <http://org.softlang.com/elementOf>
+                <http://org.softlang.com/XMIElement> ;
+        <http://org.softlang.com/partOf>
+                <repository:/EclipseProject/StudentManager/model/DataModel.genmodel#/element/content(2)> .
+
+<repository:/.git/index>
+        <http://org.softlang.com/manifestsAs>
+                <http://org.softlang.com/File> ;
+        <http://org.softlang.com/partOf>
+                <repository:/.git> .
+
+<repository:/.git/objects/pack/pack-6c1601d09a9ab1e2e3e353ea2edfc1c5cfb22d82.pack>
+        <http://org.softlang.com/manifestsAs>
+                <http://org.softlang.com/File> ;
+        <http://org.softlang.com/partOf>
+                <repository:/.git/objects/pack> .
+
+<repository:/EclipseProject/StudentManager/model/DataModel.genmodel#/element/content(3)>
+        <http://org.softlang.com/elementOf>
+                <http://org.softlang.com/XMIElement> ;
+        <http://org.softlang.com/partOf>
+                <repository:/EclipseProject/StudentManager/model/DataModel.genmodel#/element> .
+
+<repository:/EclipseProject/StudentManager/src/DataModel/impl/DataModelPackageImpl.java#/imports(8)>
+        <http://org.softlang.com/elementOf>
+                <http://org.softlang.com/ImportJava> ;
+        <http://org.softlang.com/partOf>
+                <repository:/EclipseProject/StudentManager/src/DataModel/impl/DataModelPackageImpl.java> .
+
+<repository:/EclipseProject/StudentManager/src/DataModel/DataModelPackage.java#/type(1)/extendedTypes(1)>
+        <http://org.softlang.com/elementOf>
+                <http://org.softlang.com/ExtendedTypeJava> ;
+        <http://org.softlang.com/env/escope>
+                <repository:/EclipseProject/StudentManager/src/DataModel/DataModelPackage.java> , <repository:/EclipseProject/StudentManager/src/DataModel> ;
+        <http://org.softlang.com/env/usescope>
+                <repository:/EclipseProject/StudentManager/src/DataModel> , <repository:/EclipseProject/StudentManager/src/DataModel/DataModelPackage.java> ;
+        <http://org.softlang.com/partOf>
+                <repository:/EclipseProject/StudentManager/src/DataModel/DataModelPackage.java> .
+
+<repository:/EclipseProject/StudentManager/model/DataModel.genmodel#/element/content(2)/content(15)>
+        <http://org.softlang.com/elementOf>
+                <http://org.softlang.com/XMIElement> ;
+        <http://org.softlang.com/partOf>
+                <repository:/EclipseProject/StudentManager/model/DataModel.genmodel#/element/content(2)> .
+
+<repository:/EclipseProject/StudentManager/src/DataModel/impl/StudentImpl.java#/imports(2)>
+        <http://org.softlang.com/elementOf>
+                <http://org.softlang.com/ImportJava> ;
+        <http://org.softlang.com/partOf>
+                <repository:/EclipseProject/StudentManager/src/DataModel/impl/StudentImpl.java> .
+
+<repository:/EclipseProject/StudentManager/model/DataModel.genmodel#/element/content(2)/content(30)>
+        <http://org.softlang.com/elementOf>
+                <http://org.softlang.com/XMIElement> ;
+        <http://org.softlang.com/partOf>
+                <repository:/EclipseProject/StudentManager/model/DataModel.genmodel#/element/content(2)> .
+
+<repository:/.git/HEAD>
+        <http://org.softlang.com/manifestsAs>
+                <http://org.softlang.com/File> ;
+        <http://org.softlang.com/partOf>
+                <repository:/.git> .
+
+<repository:/EclipseProject/StudentManager/model/DataModel.genmodel#/element/content(2)/content(5)>
+        <http://org.softlang.com/elementOf>
+                <http://org.softlang.com/XMIElement> ;
+        <http://org.softlang.com/partOf>
+                <repository:/EclipseProject/StudentManager/model/DataModel.genmodel#/element/content(2)> .
+
+<repository:/EclipseProject/StudentManager/model/DataModel.genmodel#/element/content(2)/content(25)>
+        <http://org.softlang.com/elementOf>
+                <http://org.softlang.com/XMIElement> ;
+        <http://org.softlang.com/partOf>
+                <repository:/EclipseProject/StudentManager/model/DataModel.genmodel#/element/content(2)> .
+
+<repository:/EclipseProject>
+        <http://org.softlang.com/manifestsAs>
+                <http://org.softlang.com/Folder> ;
+        <http://org.softlang.com/partOf>
+                <repository:/> .
+
+<repository:/EclipseProject/StudentManager/src/gui/resources/save.png>
+        <http://org.softlang.com/manifestsAs>
+                <http://org.softlang.com/File> ;
+        <http://org.softlang.com/partOf>
+                <repository:/EclipseProject/StudentManager/src/gui/resources> .
+
+<repository:/EclipseProject/StudentManager/.settings/org.eclipse.core.resources.prefs>
+        <http://org.softlang.com/manifestsAs>
+                <http://org.softlang.com/File> ;
+        <http://org.softlang.com/partOf>
+                <repository:/EclipseProject/StudentManager/.settings> .
+
+<repository:/EclipseProject/StudentManager/src/DataModel/impl/DataModelFactoryImpl.java>
+        <http://org.softlang.com/elementOf>
+                <http://org.softlang.com/Java> ;
+        <http://org.softlang.com/env/escope>
+                <cls:EObject> , <repository:/EclipseProject/StudentManager/src/DataModel> , <repository:/EclipseProject/StudentManager/src/DataModel/impl> , <repository:/EclipseProject/StudentManager/src/DataModel/impl/DataModelFactoryImpl.java> ;
+        <http://org.softlang.com/env/inscope>
+                <repository:/EclipseProject/StudentManager/src/DataModel/impl> , <repository:/EclipseProject/StudentManager/src/DataModel/impl/DataModelFactoryImpl.java> ;
+        <http://org.softlang.com/env/qname>
+                "DataModel.impl.DataModelFactoryImpl" ;
+        <http://org.softlang.com/env/sname>
+                "DataModelFactoryImpl" ;
+        <http://org.softlang.com/env/usescope>
+                <repository:/EclipseProject/StudentManager/src/DataModel/impl> ;
+        <http://org.softlang.com/implement>
+                <repository:/EclipseProject/StudentManager/src/DataModel/DataModelFactory.java> ;
+        <http://org.softlang.com/manifestsAs>
+                <http://org.softlang.com/File> ;
+        <http://org.softlang.com/partOf>
+                <repository:/EclipseProject/StudentManager/src/DataModel/impl> .
+
+<repository:/EclipseProject/StudentManager/src/controller/MainController.java#/imports(11)>
+        <http://org.softlang.com/elementOf>
+                <http://org.softlang.com/ImportJava> ;
+        <http://org.softlang.com/partOf>
+                <repository:/EclipseProject/StudentManager/src/controller/MainController.java> .
+
+<repository:/EclipseProject/StudentManager/src/gui/StudentListModel.java#/type(1)/extendedTypes(1)>
+        <http://org.softlang.com/elementOf>
+                <http://org.softlang.com/ExtendedTypeJava> ;
+        <http://org.softlang.com/env/escope>
+                <repository:/EclipseProject/StudentManager/src/DataModel/Student.java> , <repository:/EclipseProject/StudentManager/src/gui/StudentListModel.java> , <repository:/EclipseProject/StudentManager/src/gui> ;
+        <http://org.softlang.com/env/usescope>
+                <repository:/EclipseProject/StudentManager/src/gui> , <repository:/EclipseProject/StudentManager/src/gui/StudentListModel.java> ;
+        <http://org.softlang.com/partOf>
+                <repository:/EclipseProject/StudentManager/src/gui/StudentListModel.java> .
+
+<repository:/EclipseProject/StudentManager/src/DataModel/util/DataModelAdapterFactory.java#/imports(5)>
+        <http://org.softlang.com/elementOf>
+                <http://org.softlang.com/ImportJava> ;
+        <http://org.softlang.com/partOf>
+                <repository:/EclipseProject/StudentManager/src/DataModel/util/DataModelAdapterFactory.java> .
+
+<repository:/EclipseProject/StudentManager/src/gui/Application.java#/imports(14)>
+        <http://org.softlang.com/elementOf>
+                <http://org.softlang.com/ImportJava> ;
+        <http://org.softlang.com/partOf>
+                <repository:/EclipseProject/StudentManager/src/gui/Application.java> .
+
+<repository:/EclipseProject/StudentManager/src/controller/MainController.java#/imports(1)>
+        <http://org.softlang.com/elementOf>
+                <http://org.softlang.com/ImportJava> ;
+        <http://org.softlang.com/partOf>
+                <repository:/EclipseProject/StudentManager/src/controller/MainController.java> .
+
+<cls:AdapterFactoryImpl>
+        <http://org.softlang.com/elementOf>
+                <http://org.softlang.com/Java> ;
+        <http://org.softlang.com/env/escope>
+                <cls:AdapterFactoryImpl> ;
+        <http://org.softlang.com/env/inscope>
+                <cls:AdapterFactoryImpl> ;
+        <http://org.softlang.com/env/qname>
+                "org.eclipse.emf.common.notify.impl.AdapterFactoryImpl" ;
+        <http://org.softlang.com/env/sname>
+                "AdapterFactoryImpl" .
+
+<repository:/EclipseProject/StudentManager/model/DataModel.ecore#/element/content(4)/content(3)>
+        <http://org.softlang.com/elementOf>
+                <http://org.softlang.com/XMIElement> ;
+        <http://org.softlang.com/partOf>
+                <repository:/EclipseProject/StudentManager/model/DataModel.ecore#/element/content(4)> .
+
+<repository:/EclipseProject/StudentManager/src/DataModel>
+        <http://org.softlang.com/elementOf>
+                <http://org.softlang.com/PackageJava> ;
+        <http://org.softlang.com/env/escope>
+                <repository:/EclipseProject/StudentManager/src/DataModel> ;
+        <http://org.softlang.com/env/inscope>
+                <repository:/EclipseProject/StudentManager/src/DataModel> ;
+        <http://org.softlang.com/env/qname>
+                "DataModel" ;
+        <http://org.softlang.com/manifestsAs>
+                <http://org.softlang.com/Folder> ;
+        <http://org.softlang.com/partOf>
+                <repository:/EclipseProject/StudentManager/src> .
+
+<repository:/EclipseProject/StudentManager/src/gui/Application.java#/imports(3)>
+        <http://org.softlang.com/elementOf>
+                <http://org.softlang.com/ImportJava> ;
+        <http://org.softlang.com/partOf>
+                <repository:/EclipseProject/StudentManager/src/gui/Application.java> .
+
+<repository:/EclipseProject/StudentManager/model/DataModel.umlclass>
+        <http://org.softlang.com/manifestsAs>
+                <http://org.softlang.com/File> ;
+        <http://org.softlang.com/partOf>
+                <repository:/EclipseProject/StudentManager/model> .
+
+<repository:/.git/FETCH_HEAD>
+        <http://org.softlang.com/manifestsAs>
+                <http://org.softlang.com/File> ;
+        <http://org.softlang.com/partOf>
+                <repository:/.git> .
+
+<repository:/.gitignore>
+        <http://org.softlang.com/manifestsAs>
+                <http://org.softlang.com/File> ;
+        <http://org.softlang.com/partOf>
+                <repository:/> .
+
+<repository:/EclipseProject/StudentManager/META-INF/MANIFEST.MF>
+        <http://org.softlang.com/manifestsAs>
+                <http://org.softlang.com/File> ;
+        <http://org.softlang.com/partOf>
+                <repository:/EclipseProject/StudentManager/META-INF> .
+
+<repository:/EclipseProject/StudentManager/src/DataModel/util/DataModelSwitch.java#/imports(3)>
+        <http://org.softlang.com/elementOf>
+                <http://org.softlang.com/ImportJava> ;
+        <http://org.softlang.com/partOf>
+                <repository:/EclipseProject/StudentManager/src/DataModel/util/DataModelSwitch.java> .
+
+<repository:/EclipseProject/StudentManager/src/DataModel/impl/StudentCollectionImpl.java#/imports(2)>
+        <http://org.softlang.com/elementOf>
+                <http://org.softlang.com/ImportJava> ;
+        <http://org.softlang.com/partOf>
+                <repository:/EclipseProject/StudentManager/src/DataModel/impl/StudentCollectionImpl.java> .
+
+<repository:/EclipseProject/StudentManager/src/DataModel/impl/DataModelFactoryImpl.java#/type(1)/extendedTypes(1)>
+        <http://org.softlang.com/elementOf>
+                <http://org.softlang.com/ExtendedTypeJava> ;
+        <http://org.softlang.com/env/escope>
+                <cls:EObject> , <repository:/EclipseProject/StudentManager/src/DataModel/impl/DataModelFactoryImpl.java> , <repository:/EclipseProject/StudentManager/src/DataModel/impl> , <repository:/EclipseProject/StudentManager/src/DataModel> ;
+        <http://org.softlang.com/env/usescope>
+                <repository:/EclipseProject/StudentManager/src/DataModel/impl> , <repository:/EclipseProject/StudentManager/src/DataModel/impl/DataModelFactoryImpl.java> ;
+        <http://org.softlang.com/partOf>
+                <repository:/EclipseProject/StudentManager/src/DataModel/impl/DataModelFactoryImpl.java> .
+
+<repository:/EclipseProject/StudentManager/src/gui/Application.java#/imports(19)>
+        <http://org.softlang.com/elementOf>
+                <http://org.softlang.com/ImportJava> ;
+        <http://org.softlang.com/partOf>
+                <repository:/EclipseProject/StudentManager/src/gui/Application.java> .
+
+<repository:/EclipseProject/StudentManager/src/controller/MainController.java#/imports(6)>
+        <http://org.softlang.com/elementOf>
+                <http://org.softlang.com/ImportJava> ;
+        <http://org.softlang.com/partOf>
+                <repository:/EclipseProject/StudentManager/src/controller/MainController.java> .
+
+<repository:/EclipseProject/StudentManager/plugin.properties>
+        <http://org.softlang.com/manifestsAs>
+                <http://org.softlang.com/File> ;
+        <http://org.softlang.com/partOf>
+                <repository:/EclipseProject/StudentManager> .
+
+<repository:/EclipseProject/StudentManager/src/gui/Application.java#/imports(8)>
+        <http://org.softlang.com/elementOf>
+                <http://org.softlang.com/ImportJava> ;
+        <http://org.softlang.com/partOf>
+                <repository:/EclipseProject/StudentManager/src/gui/Application.java> .
+
+<repository:/EclipseProject/StudentManager/META-INF>
+        <http://org.softlang.com/manifestsAs>
+                <http://org.softlang.com/Folder> ;
+        <http://org.softlang.com/partOf>
+                <repository:/EclipseProject/StudentManager> .
+
+<repository:/EclipseProject/StudentManager/model/DataModel.genmodel#/element>
+        <http://org.softlang.com/elementOf>
+                <http://org.softlang.com/XMIElement> ;
+        <http://org.softlang.com/instanceOf>
+                <http://org.softlang.com/GeneratorRoot> ;
+        <http://org.softlang.com/partOf>
+                <repository:/EclipseProject/StudentManager/model/DataModel.genmodel> .
+
+<repository:/.git/hooks>
+        <http://org.softlang.com/manifestsAs>
+                <http://org.softlang.com/Folder> ;
+        <http://org.softlang.com/partOf>
+                <repository:/.git> .
+
+<repository:/EclipseProject/StudentManager/src/DataModel/impl/StudentCollectionImpl.java#/imports(7)>
+        <http://org.softlang.com/elementOf>
+                <http://org.softlang.com/ImportJava> ;
+        <http://org.softlang.com/partOf>
+                <repository:/EclipseProject/StudentManager/src/DataModel/impl/StudentCollectionImpl.java> .
+
+<repository:/EclipseProject/StudentManager/build.properties>
+        <http://org.softlang.com/manifestsAs>
+                <http://org.softlang.com/File> ;
+        <http://org.softlang.com/partOf>
+                <repository:/EclipseProject/StudentManager> .
+
+<repository:/EclipseProject/StudentManager/src/DataModel/impl/DataModelFactoryImpl.java#/imports(5)>
+        <http://org.softlang.com/elementOf>
+                <http://org.softlang.com/ImportJava> ;
+        <http://org.softlang.com/partOf>
+                <repository:/EclipseProject/StudentManager/src/DataModel/impl/DataModelFactoryImpl.java> .
+
+<repository:/EclipseProject/StudentManager/model/DataModel.genmodel#/element/content(6)/content(4)/content(3)>
+        <http://org.softlang.com/elementOf>
+                <http://org.softlang.com/XMIElement> ;
+        <http://org.softlang.com/partOf>
+                <repository:/EclipseProject/StudentManager/model/DataModel.genmodel#/element/content(6)/content(4)> .
+
+<repository:/EclipseProject/StudentManager/src/DataModel/util>
+        <http://org.softlang.com/elementOf>
+                <http://org.softlang.com/PackageJava> ;
+        <http://org.softlang.com/env/escope>
+                <repository:/EclipseProject/StudentManager/src/DataModel/util> ;
+        <http://org.softlang.com/env/inscope>
+                <repository:/EclipseProject/StudentManager/src/DataModel/util> ;
+        <http://org.softlang.com/env/qname>
+                "DataModel.util" ;
+        <http://org.softlang.com/manifestsAs>
+                <http://org.softlang.com/Folder> ;
+        <http://org.softlang.com/partOf>
+                <repository:/EclipseProject/StudentManager/src/DataModel> .
+
+<repository:/EclipseProject/StudentManager/src/DataModel/impl/StudentCollectionImpl.java#/type(1)/extendedTypes(1)>
+        <http://org.softlang.com/elementOf>
+                <http://org.softlang.com/ExtendedTypeJava> ;
+        <http://org.softlang.com/env/escope>
+                <repository:/EclipseProject/StudentManager/src/DataModel/DataModelPackage.java> , <repository:/EclipseProject/StudentManager/src/DataModel/impl/StudentCollectionImpl.java> , <repository:/EclipseProject/StudentManager/src/DataModel/StudentCollection.java> , <repository:/EclipseProject/StudentManager/src/DataModel/Student.java> , <repository:/EclipseProject/StudentManager/src/DataModel/impl> ;
+        <http://org.softlang.com/env/usescope>
+                <repository:/EclipseProject/StudentManager/src/DataModel/impl> , <repository:/EclipseProject/StudentManager/src/DataModel/impl/StudentCollectionImpl.java> ;
+        <http://org.softlang.com/partOf>
+                <repository:/EclipseProject/StudentManager/src/DataModel/impl/StudentCollectionImpl.java> .
+
+<repository:/EclipseProject/StudentManager/src/DataModel/impl/DataModelPackageImpl.java#/imports(2)>
+        <http://org.softlang.com/elementOf>
+                <http://org.softlang.com/ImportJava> ;
+        <http://org.softlang.com/partOf>
+                <repository:/EclipseProject/StudentManager/src/DataModel/impl/DataModelPackageImpl.java> .
+
+<repository:/.git/logs/refs/remotes/origin/master>
+        <http://org.softlang.com/manifestsAs>
+                <http://org.softlang.com/File> ;
+        <http://org.softlang.com/partOf>
+                <repository:/.git/logs/refs/remotes/origin> .
+
+<repository:/.git>  <http://org.softlang.com/manifestsAs>
+                <http://org.softlang.com/Folder> ;
+        <http://org.softlang.com/partOf>
+                <repository:/> .
+
+<repository:/EclipseProject/StudentManager/model/DataModel.ecore#/element/content(3)>
+        <http://org.softlang.com/elementOf>
+                <http://org.softlang.com/XMIElement> ;
+        <http://org.softlang.com/partOf>
+                <repository:/EclipseProject/StudentManager/model/DataModel.ecore#/element> .
+
+<repository:/EclipseProject/StudentManager/src/controller/MainController.java>
+        <http://org.softlang.com/elementOf>
+                <http://org.softlang.com/Java> ;
+        <http://org.softlang.com/env/escope>
+                <repository:/EclipseProject/StudentManager/src/gui/StudentListModel.java> , <repository:/EclipseProject/StudentManager/src/controller/MainController.java> , <repository:/EclipseProject/StudentManager/src/DataModel/Student.java> , <repository:/EclipseProject/StudentManager/src/DataModel/StudentCollection.java> , <repository:/EclipseProject/StudentManager/src/DataModel/DataModelPackage.java> , <repository:/EclipseProject/StudentManager/src/DataModel/DataModelFactory.java> , <repository:/EclipseProject/StudentManager/src/controller> ;
+        <http://org.softlang.com/env/inscope>
+                <repository:/EclipseProject/StudentManager/src/controller> , <repository:/EclipseProject/StudentManager/src/controller/MainController.java> ;
+        <http://org.softlang.com/env/qname>
+                "controller.MainController" ;
+        <http://org.softlang.com/env/sname>
+                "MainController" ;
+        <http://org.softlang.com/env/usescope>
+                <repository:/EclipseProject/StudentManager/src/controller> ;
+        <http://org.softlang.com/manifestsAs>
+                <http://org.softlang.com/File> ;
+        <http://org.softlang.com/partOf>
+                <repository:/EclipseProject/StudentManager/src/controller> .
+
+<repository:/EclipseProject/StudentManager/model/DataModel.genmodel#/element/content(6)/content(1)>
+        <http://org.softlang.com/elementOf>
+                <http://org.softlang.com/XMIElement> ;
+        <http://org.softlang.com/partOf>
+                <repository:/EclipseProject/StudentManager/model/DataModel.genmodel#/element/content(6)> .
+
+<repository:/.git/objects/pack/pack-6c1601d09a9ab1e2e3e353ea2edfc1c5cfb22d82.idx>
+        <http://org.softlang.com/manifestsAs>
+                <http://org.softlang.com/File> ;
+        <http://org.softlang.com/partOf>
+                <repository:/.git/objects/pack> .
+
+<repository:/EclipseProject/StudentManager/model/DataModel.genmodel#/element/content(2)>
+        <http://org.softlang.com/elementOf>
+                <http://org.softlang.com/XMIElement> ;
+        <http://org.softlang.com/partOf>
+                <repository:/EclipseProject/StudentManager/model/DataModel.genmodel#/element> .
+
+<repository:/EclipseProject/StudentManager/src/DataModel/impl/DataModelPackageImpl.java#/imports(7)>
+        <http://org.softlang.com/elementOf>
+                <http://org.softlang.com/ImportJava> ;
+        <http://org.softlang.com/partOf>
+                <repository:/EclipseProject/StudentManager/src/DataModel/impl/DataModelPackageImpl.java> .
+
+<repository:/EclipseProject/StudentManager/model/DataModel.genmodel#/element/content(2)/content(14)>
+        <http://org.softlang.com/elementOf>
+                <http://org.softlang.com/XMIElement> ;
+        <http://org.softlang.com/partOf>
+                <repository:/EclipseProject/StudentManager/model/DataModel.genmodel#/element/content(2)> .
+
+<repository:/EclipseProject/StudentManager/.project>
+        <http://org.softlang.com/manifestsAs>
+                <http://org.softlang.com/File> ;
+        <http://org.softlang.com/partOf>
+                <repository:/EclipseProject/StudentManager> .
+
+<repository:/EclipseProject/StudentManager/.classpath>
+        <http://org.softlang.com/manifestsAs>
+                <http://org.softlang.com/File> ;
+        <http://org.softlang.com/partOf>
+                <repository:/EclipseProject/StudentManager> .
+
+<repository:/EclipseProject/StudentManager/src/DataModel/impl/StudentImpl.java#/imports(1)>
+        <http://org.softlang.com/elementOf>
+                <http://org.softlang.com/ImportJava> ;
+        <http://org.softlang.com/partOf>
+                <repository:/EclipseProject/StudentManager/src/DataModel/impl/StudentImpl.java> .
+
+<repository:/EclipseProject/StudentManager/model/DataModel.genmodel#/element/content(2)/content(4)>
+        <http://org.softlang.com/elementOf>
+                <http://org.softlang.com/XMIElement> ;
+        <http://org.softlang.com/partOf>
+                <repository:/EclipseProject/StudentManager/model/DataModel.genmodel#/element/content(2)> .
+
+<repository:/EclipseProject/StudentManager/src/DataModel/util/DataModelAdapterFactory.java>
+        <http://org.softlang.com/elementOf>
+                <http://org.softlang.com/Java> ;
+        <http://org.softlang.com/env/escope>
+                <repository:/EclipseProject/StudentManager/src/DataModel/util/DataModelAdapterFactory.java> , <repository:/EclipseProject/StudentManager/src/DataModel> , <cls:EObject> , <repository:/EclipseProject/StudentManager/src/DataModel/util> , <cls:AdapterFactoryImpl> ;
+        <http://org.softlang.com/env/inscope>
+                <repository:/EclipseProject/StudentManager/src/DataModel/util> , <repository:/EclipseProject/StudentManager/src/DataModel/util/DataModelAdapterFactory.java> ;
+        <http://org.softlang.com/env/qname>
+                "DataModel.util.DataModelAdapterFactory" ;
+        <http://org.softlang.com/env/sname>
+                "DataModelAdapterFactory" ;
+        <http://org.softlang.com/env/usescope>
+                <repository:/EclipseProject/StudentManager/src/DataModel/util> ;
+        <http://org.softlang.com/extend>
+                <cls:AdapterFactoryImpl> ;
+        <http://org.softlang.com/instanceOf>
+                <http://org.softlang.com/AdapterFactory> ;
+        <http://org.softlang.com/manifestsAs>
+                <http://org.softlang.com/File> ;
+        <http://org.softlang.com/partOf>
+                <repository:/EclipseProject/StudentManager/src/DataModel/util> .
+
+<repository:/EclipseProject/StudentManager/model/DataModel.genmodel#/element/content(2)/content(24)>
+        <http://org.softlang.com/elementOf>
+                <http://org.softlang.com/XMIElement> ;
+        <http://org.softlang.com/partOf>
+                <repository:/EclipseProject/StudentManager/model/DataModel.genmodel#/element/content(2)> .
+
+<repository:/EclipseProject/StudentManager/model/DataModel.genmodel#/element/content(6)/content(2)/content(3)>
+        <http://org.softlang.com/elementOf>
+                <http://org.softlang.com/XMIElement> ;
+        <http://org.softlang.com/partOf>
+                <repository:/EclipseProject/StudentManager/model/DataModel.genmodel#/element/content(6)/content(2)> .
+
+<repository:/EclipseProject/StudentManager/model/DataModel.genmodel#/element/content(7)>
+        <http://org.softlang.com/elementOf>
+                <http://org.softlang.com/XMIElement> ;
+        <http://org.softlang.com/partOf>
+                <repository:/EclipseProject/StudentManager/model/DataModel.genmodel#/element> .
+
+<repository:/EclipseProject/StudentManager/model/DataModel.genmodel#/element/content(2)/content(19)>
+        <http://org.softlang.com/elementOf>
+                <http://org.softlang.com/XMIElement> ;
+        <http://org.softlang.com/partOf>
+                <repository:/EclipseProject/StudentManager/model/DataModel.genmodel#/element/content(2)> .
+
+<repository:/EclipseProject/StudentManager/src/controller/MainController.java#/imports(10)>
+        <http://org.softlang.com/elementOf>
+                <http://org.softlang.com/ImportJava> ;
+        <http://org.softlang.com/partOf>
+                <repository:/EclipseProject/StudentManager/src/controller/MainController.java> .
+
+<repository:/EclipseProject/StudentManager/src/DataModel/impl/StudentImpl.java#/imports(6)>
+        <http://org.softlang.com/elementOf>
+                <http://org.softlang.com/ImportJava> ;
+        <http://org.softlang.com/partOf>
+                <repository:/EclipseProject/StudentManager/src/DataModel/impl/StudentImpl.java> .
+
+<repository:/EclipseProject/StudentManager/model/DataModel.genmodel#/element/content(2)/content(9)>
+        <http://org.softlang.com/elementOf>
+                <http://org.softlang.com/XMIElement> ;
+        <http://org.softlang.com/partOf>
+                <repository:/EclipseProject/StudentManager/model/DataModel.genmodel#/element/content(2)> .
+
+<repository:/EclipseProject/StudentManager/model/DataModel.genmodel#/element/content(2)/content(29)>
+        <http://org.softlang.com/elementOf>
+                <http://org.softlang.com/XMIElement> ;
+        <http://org.softlang.com/partOf>
+                <repository:/EclipseProject/StudentManager/model/DataModel.genmodel#/element/content(2)> .
+
+<repository:/EclipseProject/StudentManager/src/DataModel/util/DataModelAdapterFactory.java#/imports(4)>
+        <http://org.softlang.com/elementOf>
+                <http://org.softlang.com/ImportJava> ;
+        <http://org.softlang.com/partOf>
+                <repository:/EclipseProject/StudentManager/src/DataModel/util/DataModelAdapterFactory.java> .
+
+<repository:/EclipseProject/StudentManager/src/gui/Application.java#/imports(13)>
+        <http://org.softlang.com/elementOf>
+                <http://org.softlang.com/ImportJava> ;
+        <http://org.softlang.com/partOf>
+                <repository:/EclipseProject/StudentManager/src/gui/Application.java> .
+
+<repository:/EclipseProject/StudentManager/model/DataModel.ecore#/element/content(4)/content(2)>
+        <http://org.softlang.com/elementOf>
+                <http://org.softlang.com/XMIElement> ;
+        <http://org.softlang.com/partOf>
+                <repository:/EclipseProject/StudentManager/model/DataModel.ecore#/element/content(4)> .
+
+<repository:/EclipseProject/StudentManager/src/gui/Application.java#/imports(2)>
+        <http://org.softlang.com/elementOf>
+                <http://org.softlang.com/ImportJava> ;
+        <http://org.softlang.com/partOf>
+                <repository:/EclipseProject/StudentManager/src/gui/Application.java> .
+
+<repository:/EclipseProject/StudentManager/src/DataModel/DataModelFactory.java>
+        <http://org.softlang.com/elementOf>
+                <http://org.softlang.com/Java> ;
+        <http://org.softlang.com/env/escope>
+                <repository:/EclipseProject/StudentManager/src/DataModel> , <repository:/EclipseProject/StudentManager/src/DataModel/DataModelFactory.java> ;
+        <http://org.softlang.com/env/inscope>
+                <repository:/EclipseProject/StudentManager/src/DataModel/DataModelFactory.java> , <repository:/EclipseProject/StudentManager/src/DataModel> ;
+        <http://org.softlang.com/env/qname>
+                "DataModel.DataModelFactory" ;
+        <http://org.softlang.com/env/sname>
+                "DataModelFactory" ;
+        <http://org.softlang.com/env/usescope>
+                <repository:/EclipseProject/StudentManager/src/DataModel> ;
+        <http://org.softlang.com/manifestsAs>
+                <http://org.softlang.com/File> ;
+        <http://org.softlang.com/partOf>
+                <repository:/EclipseProject/StudentManager/src/DataModel> .
+
+<repository:/.git/objects/pack>
+        <http://org.softlang.com/manifestsAs>
+                <http://org.softlang.com/Folder> ;
+        <http://org.softlang.com/partOf>
+                <repository:/.git/objects> .
+
+<repository:/.git/logs/refs/remotes/origin/eobject-listmodel>
+        <http://org.softlang.com/manifestsAs>
+                <http://org.softlang.com/File> ;
+        <http://org.softlang.com/partOf>
+                <repository:/.git/logs/refs/remotes/origin> .
+
+<repository:/EclipseProject/StudentManager/.settings>
+        <http://org.softlang.com/manifestsAs>
+                <http://org.softlang.com/Folder> ;
+        <http://org.softlang.com/partOf>
+                <repository:/EclipseProject/StudentManager> .
+
+<repository:/EclipseProject/StudentManager/src/DataModel/impl/StudentCollectionImpl.java#/imports(1)>
+        <http://org.softlang.com/elementOf>
+                <http://org.softlang.com/ImportJava> ;
+        <http://org.softlang.com/partOf>
+                <repository:/EclipseProject/StudentManager/src/DataModel/impl/StudentCollectionImpl.java> .
+
+<repository:/EclipseProject/StudentManager/src/DataModel/util/DataModelSwitch.java#/imports(2)>
+        <http://org.softlang.com/elementOf>
+                <http://org.softlang.com/ImportJava> ;
+        <http://org.softlang.com/partOf>
+                <repository:/EclipseProject/StudentManager/src/DataModel/util/DataModelSwitch.java> .
+
+<repository:/EclipseProject/StudentManager/src/gui/Application.java#/imports(18)>
+        <http://org.softlang.com/elementOf>
+                <http://org.softlang.com/ImportJava> ;
+        <http://org.softlang.com/partOf>
+                <repository:/EclipseProject/StudentManager/src/gui/Application.java> .
+
+<repository:/EclipseProject/StudentManager/src/controller/MainController.java#/imports(5)>
+        <http://org.softlang.com/elementOf>
+                <http://org.softlang.com/ImportJava> ;
+        <http://org.softlang.com/partOf>
+                <repository:/EclipseProject/StudentManager/src/controller/MainController.java> .
+
+<repository:/.git/refs/remotes>
+        <http://org.softlang.com/manifestsAs>
+                <http://org.softlang.com/Folder> ;
+        <http://org.softlang.com/partOf>
+                <repository:/.git/refs> .
+
+<repository:/EclipseProject/StudentManager/src/gui/Application.java#/imports(7)>
+        <http://org.softlang.com/elementOf>
+                <http://org.softlang.com/ImportJava> ;
+        <http://org.softlang.com/partOf>
+                <repository:/EclipseProject/StudentManager/src/gui/Application.java> .
+
+<repository:/EclipseProject/StudentManager/src/DataModel/StudentCollection.java>
+        <http://org.softlang.com/elementOf>
+                <http://org.softlang.com/Java> ;
+        <http://org.softlang.com/env/escope>
+                <repository:/EclipseProject/StudentManager/src/DataModel/StudentCollection.java> , <repository:/EclipseProject/StudentManager/src/DataModel> , <cls:EObject> ;
+        <http://org.softlang.com/env/inscope>
+                <repository:/EclipseProject/StudentManager/src/DataModel/StudentCollection.java> , <repository:/EclipseProject/StudentManager/src/DataModel> ;
+        <http://org.softlang.com/env/qname>
+                "DataModel.StudentCollection" ;
+        <http://org.softlang.com/env/sname>
+                "StudentCollection" ;
+        <http://org.softlang.com/env/usescope>
+                <repository:/EclipseProject/StudentManager/src/DataModel> ;
+        <http://org.softlang.com/extend>
+                <cls:EObject> ;
+        <http://org.softlang.com/instanceOf>
+                <http://org.softlang.com/Interface> ;
+        <http://org.softlang.com/manifestsAs>
+                <http://org.softlang.com/File> ;
+        <http://org.softlang.com/partOf>
+                <repository:/EclipseProject/StudentManager/src/DataModel> .
+
+<repository:/EclipseProject/StudentManager/src/DataModel/impl/StudentCollectionImpl.java#/imports(6)>
+        <http://org.softlang.com/elementOf>
+                <http://org.softlang.com/ImportJava> ;
+        <http://org.softlang.com/partOf>
+                <repository:/EclipseProject/StudentManager/src/DataModel/impl/StudentCollectionImpl.java> .
+
+<repository:/EclipseProject/StudentManager/src/DataModel/DataModelPackage.java#/imports(4)>
+        <http://org.softlang.com/elementOf>
+                <http://org.softlang.com/ImportJava> ;
+        <http://org.softlang.com/partOf>
+                <repository:/EclipseProject/StudentManager/src/DataModel/DataModelPackage.java> .
+
+<repository:/EclipseProject/StudentManager/src/DataModel/impl/DataModelFactoryImpl.java#/imports(4)>
+        <http://org.softlang.com/elementOf>
+                <http://org.softlang.com/ImportJava> ;
+        <http://org.softlang.com/partOf>
+                <repository:/EclipseProject/StudentManager/src/DataModel/impl/DataModelFactoryImpl.java> .
+
+<repository:/EclipseProject/StudentManager/model/DataModel.genmodel#/element/content(6)/content(4)/content(2)>
+        <http://org.softlang.com/elementOf>
+                <http://org.softlang.com/XMIElement> ;
+        <http://org.softlang.com/partOf>
+                <repository:/EclipseProject/StudentManager/model/DataModel.genmodel#/element/content(6)/content(4)> .
+
+<repository:/EclipseProject/StudentManager/.settings/org.eclipse.jdt.core.prefs>
+        <http://org.softlang.com/manifestsAs>
+                <http://org.softlang.com/File> ;
+        <http://org.softlang.com/partOf>
+                <repository:/EclipseProject/StudentManager/.settings> .
+
+<repository:/.git/logs/refs/heads>
+        <http://org.softlang.com/manifestsAs>
+                <http://org.softlang.com/Folder> ;
+        <http://org.softlang.com/partOf>
+                <repository:/.git/logs/refs> .
+
+<repository:/EclipseProject/StudentManager/src/DataModel/impl/DataModelPackageImpl.java#/imports(1)>
+        <http://org.softlang.com/elementOf>
+                <http://org.softlang.com/ImportJava> ;
+        <http://org.softlang.com/partOf>
+                <repository:/EclipseProject/StudentManager/src/DataModel/impl/DataModelPackageImpl.java> .
+
+<repository:/EclipseProject/StudentManager/model/DataModel.ecore#/element/content(2)>
+        <http://org.softlang.com/elementOf>
+                <http://org.softlang.com/XMIElement> ;
+        <http://org.softlang.com/partOf>
+                <repository:/EclipseProject/StudentManager/model/DataModel.ecore#/element> .
+
+<repository:/EclipseProject/StudentManager/src/DataModel/impl>
+        <http://org.softlang.com/elementOf>
+                <http://org.softlang.com/PackageJava> ;
+        <http://org.softlang.com/env/escope>
+                <repository:/EclipseProject/StudentManager/src/DataModel/impl> ;
+        <http://org.softlang.com/env/inscope>
+                <repository:/EclipseProject/StudentManager/src/DataModel/impl> ;
+        <http://org.softlang.com/env/qname>
+                "DataModel.impl" ;
+        <http://org.softlang.com/manifestsAs>
+                <http://org.softlang.com/Folder> ;
+        <http://org.softlang.com/partOf>
+                <repository:/EclipseProject/StudentManager/src/DataModel> .
+
+<repository:/EclipseProject/StudentManager/src/gui/resources>
+        <http://org.softlang.com/manifestsAs>
+                <http://org.softlang.com/Folder> ;
+        <http://org.softlang.com/partOf>
+                <repository:/EclipseProject/StudentManager/src/gui> .
+
+<repository:/EclipseProject/StudentManager/model/DataModel.genmodel#/element/content(1)>
+        <http://org.softlang.com/elementOf>
+                <http://org.softlang.com/XMIElement> ;
+        <http://org.softlang.com/partOf>
+                <repository:/EclipseProject/StudentManager/model/DataModel.genmodel#/element> .
+
+<repository:/EclipseProject/StudentManager/src/DataModel/DataModelPackage.java>
+        <http://org.softlang.com/elementOf>
+                <http://org.softlang.com/Java> ;
+        <http://org.softlang.com/env/escope>
+                <repository:/EclipseProject/StudentManager/src/DataModel/DataModelPackage.java> , <repository:/EclipseProject/StudentManager/src/DataModel> ;
+        <http://org.softlang.com/env/inscope>
+                <repository:/EclipseProject/StudentManager/src/DataModel/DataModelPackage.java> , <repository:/EclipseProject/StudentManager/src/DataModel> ;
+        <http://org.softlang.com/env/qname>
+                "DataModel.DataModelPackage" ;
+        <http://org.softlang.com/env/sname>
+                "DataModelPackage" ;
+        <http://org.softlang.com/env/usescope>
+                <repository:/EclipseProject/StudentManager/src/DataModel> ;
+        <http://org.softlang.com/manifestsAs>
+                <http://org.softlang.com/File> ;
+        <http://org.softlang.com/partOf>
+                <repository:/EclipseProject/StudentManager/src/DataModel> .
+
+<repository:/EclipseProject/StudentManager/src/gui/StudentListModel.java#/imports(3)>
+        <http://org.softlang.com/elementOf>
+                <http://org.softlang.com/ImportJava> ;
+        <http://org.softlang.com/partOf>
+                <repository:/EclipseProject/StudentManager/src/gui/StudentListModel.java> .
+
+<repository:/EclipseProject/StudentManager/src/DataModel/impl/DataModelPackageImpl.java#/imports(6)>
+        <http://org.softlang.com/elementOf>
+                <http://org.softlang.com/ImportJava> ;
+        <http://org.softlang.com/partOf>
+                <repository:/EclipseProject/StudentManager/src/DataModel/impl/DataModelPackageImpl.java> .
+
+<repository:/EclipseProject/StudentManager/model/DataModel.genmodel#/element/content(2)/content(13)>
+        <http://org.softlang.com/elementOf>
+                <http://org.softlang.com/XMIElement> ;
+        <http://org.softlang.com/partOf>
+                <repository:/EclipseProject/StudentManager/model/DataModel.genmodel#/element/content(2)> .
+
+<repository:/EclipseProject/StudentManager/src/DataModel/Student.java#/type(1)/extendedTypes(1)>
+        <http://org.softlang.com/elementOf>
+                <http://org.softlang.com/ExtendedTypeJava> ;
+        <http://org.softlang.com/env/escope>
+                <cls:EObject> , <repository:/EclipseProject/StudentManager/src/DataModel/Student.java> , <repository:/EclipseProject/StudentManager/src/DataModel> ;
+        <http://org.softlang.com/env/usescope>
+                <repository:/EclipseProject/StudentManager/src/DataModel> , <repository:/EclipseProject/StudentManager/src/DataModel/Student.java> ;
+        <http://org.softlang.com/partOf>
+                <repository:/EclipseProject/StudentManager/src/DataModel/Student.java> .
+
+<repository:/EclipseProject/StudentManager/model/DataModel.genmodel#/element/content(2)/content(3)>
+        <http://org.softlang.com/elementOf>
+                <http://org.softlang.com/XMIElement> ;
+        <http://org.softlang.com/partOf>
+                <repository:/EclipseProject/StudentManager/model/DataModel.genmodel#/element/content(2)> .
+
+<repository:/EclipseProject/StudentManager/model/DataModel.genmodel#/element/content(6)/content(5)>
+        <http://org.softlang.com/elementOf>
+                <http://org.softlang.com/XMIElement> ;
+        <http://org.softlang.com/partOf>
+                <repository:/EclipseProject/StudentManager/model/DataModel.genmodel#/element/content(6)> .
+
+<repository:/EclipseProject/StudentManager/model/DataModel.genmodel#/element/content(2)/content(23)>
+        <http://org.softlang.com/elementOf>
+                <http://org.softlang.com/XMIElement> ;
+        <http://org.softlang.com/partOf>
+                <repository:/EclipseProject/StudentManager/model/DataModel.genmodel#/element/content(2)> .
+
+<repository:/EclipseProject/StudentManager/model/DataModel.genmodel#/element/content(6)/content(2)/content(2)>
+        <http://org.softlang.com/elementOf>
+                <http://org.softlang.com/XMIElement> ;
+        <http://org.softlang.com/partOf>
+                <repository:/EclipseProject/StudentManager/model/DataModel.genmodel#/element/content(6)/content(2)> .
+
+<repository:/README.md>
+        <http://org.softlang.com/manifestsAs>
+                <http://org.softlang.com/File> ;
+        <http://org.softlang.com/partOf>
+                <repository:/> .
+
+<repository:/EclipseProject/StudentManager/src/DataModel/util/DataModelAdapterFactory.java#/type(1)/extendedTypes(1)>
+        <http://org.softlang.com/elementOf>
+                <http://org.softlang.com/ExtendedTypeJava> ;
+        <http://org.softlang.com/env/escope>
+                <cls:AdapterFactoryImpl> , <cls:EObject> , <repository:/EclipseProject/StudentManager/src/DataModel> , <repository:/EclipseProject/StudentManager/src/DataModel/util/DataModelAdapterFactory.java> , <repository:/EclipseProject/StudentManager/src/DataModel/util> ;
+        <http://org.softlang.com/env/usescope>
+                <repository:/EclipseProject/StudentManager/src/DataModel/util> , <repository:/EclipseProject/StudentManager/src/DataModel/util/DataModelAdapterFactory.java> ;
+        <http://org.softlang.com/partOf>
+                <repository:/EclipseProject/StudentManager/src/DataModel/util/DataModelAdapterFactory.java> .
+
+<repository:/EclipseProject/StudentManager/src/DataModel/impl/StudentImpl.java#/type(1)/implementedTypes(1)>
+        <http://org.softlang.com/elementOf>
+                <http://org.softlang.com/ImplementedTypeJava> ;
+        <http://org.softlang.com/env/escope>
+                <repository:/EclipseProject/StudentManager/src/DataModel/DataModelPackage.java> , <repository:/EclipseProject/StudentManager/src/DataModel/impl/StudentImpl.java> , <repository:/EclipseProject/StudentManager/src/DataModel/impl> , <repository:/EclipseProject/StudentManager/src/DataModel/Student.java> ;
+        <http://org.softlang.com/env/usescope>
+                <repository:/EclipseProject/StudentManager/src/DataModel/impl> , <repository:/EclipseProject/StudentManager/src/DataModel/impl/StudentImpl.java> ;
+        <http://org.softlang.com/partOf>
+                <repository:/EclipseProject/StudentManager/src/DataModel/impl/StudentImpl.java> .
+
+<repository:/EclipseProject/StudentManager/model/DataModel.genmodel#/element/content(6)>
+        <http://org.softlang.com/elementOf>
+                <http://org.softlang.com/XMIElement> ;
+        <http://org.softlang.com/instanceOf>
+                <http://org.softlang.com/GeneratorPackage> ;
+        <http://org.softlang.com/partOf>
+                <repository:/EclipseProject/StudentManager/model/DataModel.genmodel#/element> .
+
+<repository:/EclipseProject/StudentManager/model/DataModel.genmodel#/element/content(2)/content(18)>
+        <http://org.softlang.com/elementOf>
+                <http://org.softlang.com/XMIElement> ;
+        <http://org.softlang.com/partOf>
+                <repository:/EclipseProject/StudentManager/model/DataModel.genmodel#/element/content(2)> .
+
+<repository:/EclipseProject/StudentManager/model/DataModel.genmodel#/element/content(2)/content(33)>
+        <http://org.softlang.com/elementOf>
+                <http://org.softlang.com/XMIElement> ;
+        <http://org.softlang.com/partOf>
+                <repository:/EclipseProject/StudentManager/model/DataModel.genmodel#/element/content(2)> .
+
+<repository:/EclipseProject/StudentManager/src/DataModel/impl/StudentImpl.java#/imports(5)>
+        <http://org.softlang.com/elementOf>
+                <http://org.softlang.com/ImportJava> ;
+        <http://org.softlang.com/partOf>
+                <repository:/EclipseProject/StudentManager/src/DataModel/impl/StudentImpl.java> .
+
+<repository:/EclipseProject/StudentManager/model>
+        <http://org.softlang.com/manifestsAs>
+                <http://org.softlang.com/Folder> ;
+        <http://org.softlang.com/partOf>
+                <repository:/EclipseProject/StudentManager> .
+
+<repository:/EclipseProject/StudentManager/model/DataModel.genmodel#/element/content(2)/content(8)>
+        <http://org.softlang.com/elementOf>
+                <http://org.softlang.com/XMIElement> ;
+        <http://org.softlang.com/partOf>
+                <repository:/EclipseProject/StudentManager/model/DataModel.genmodel#/element/content(2)> .
+
+<repository:/EclipseProject/StudentManager/model/DataModel.genmodel#/element/content(2)/content(28)>
+        <http://org.softlang.com/elementOf>
+                <http://org.softlang.com/XMIElement> ;
+        <http://org.softlang.com/partOf>
+                <repository:/EclipseProject/StudentManager/model/DataModel.genmodel#/element/content(2)> .
+
+<repository:/EclipseProject/StudentManager/src/DataModel/util/DataModelAdapterFactory.java#/imports(3)>
+        <http://org.softlang.com/elementOf>
+                <http://org.softlang.com/ImportJava> ;
+        <http://org.softlang.com/partOf>
+                <repository:/EclipseProject/StudentManager/src/DataModel/util/DataModelAdapterFactory.java> .
+
+<repository:/EclipseProject/StudentManager/src/gui/Application.java#/imports(12)>
+        <http://org.softlang.com/elementOf>
+                <http://org.softlang.com/ImportJava> ;
+        <http://org.softlang.com/partOf>
+                <repository:/EclipseProject/StudentManager/src/gui/Application.java> .
+
+<repository:/EclipseProject/StudentManager/plugin.xml>
+        <http://org.softlang.com/manifestsAs>
+                <http://org.softlang.com/File> ;
+        <http://org.softlang.com/partOf>
+                <repository:/EclipseProject/StudentManager> .
+
+<repository:/EclipseProject/StudentManager/model/DataModel.ecore#/element/content(4)/content(1)>
+        <http://org.softlang.com/elementOf>
+                <http://org.softlang.com/XMIElement> ;
+        <http://org.softlang.com/partOf>
+                <repository:/EclipseProject/StudentManager/model/DataModel.ecore#/element/content(4)> .
+
+<repository:/EclipseProject/StudentManager/src/gui/Application.java#/imports(1)>
+        <http://org.softlang.com/elementOf>
+                <http://org.softlang.com/ImportJava> ;
+        <http://org.softlang.com/partOf>
+                <repository:/EclipseProject/StudentManager/src/gui/Application.java> .
+
+<repository:/EclipseProject/StudentManager/src/controller/MainController.java#/imports(14)>
+        <http://org.softlang.com/elementOf>
+                <http://org.softlang.com/ImportJava> ;
+        <http://org.softlang.com/partOf>
+                <repository:/EclipseProject/StudentManager/src/controller/MainController.java> .
+
+<repository:/.git/logs/refs/remotes>
+        <http://org.softlang.com/manifestsAs>
+                <http://org.softlang.com/Folder> ;
+        <http://org.softlang.com/partOf>
+                <repository:/.git/logs/refs> .
+
+<repository:/EclipseProject/StudentManager/src/DataModel/util/DataModelSwitch.java>
+        <http://org.softlang.com/elementOf>
+                <http://org.softlang.com/Java> ;
+        <http://org.softlang.com/env/escope>
+                <repository:/EclipseProject/StudentManager/src/DataModel/util/DataModelSwitch.java> , <cls:EObject> , <repository:/EclipseProject/StudentManager/src/DataModel/util> , <repository:/EclipseProject/StudentManager/src/DataModel> ;
+        <http://org.softlang.com/env/inscope>
+                <repository:/EclipseProject/StudentManager/src/DataModel/util> , <repository:/EclipseProject/StudentManager/src/DataModel/util/DataModelSwitch.java> ;
+        <http://org.softlang.com/env/qname>
+                "DataModel.util.DataModelSwitch" ;
+        <http://org.softlang.com/env/sname>
+                "DataModelSwitch" ;
+        <http://org.softlang.com/env/usescope>
+                <repository:/EclipseProject/StudentManager/src/DataModel/util> ;
+        <http://org.softlang.com/manifestsAs>
+                <http://org.softlang.com/File> ;
+        <http://org.softlang.com/partOf>
+                <repository:/EclipseProject/StudentManager/src/DataModel/util> .
+
+<repository:/EclipseProject/StudentManager/src/DataModel/util/DataModelSwitch.java#/imports(1)>
+        <http://org.softlang.com/elementOf>
+                <http://org.softlang.com/ImportJava> ;
+        <http://org.softlang.com/partOf>
+                <repository:/EclipseProject/StudentManager/src/DataModel/util/DataModelSwitch.java> .
+
+<repository:/EclipseProject/StudentManager/src/gui/Application.java#/imports(17)>
+        <http://org.softlang.com/elementOf>
+                <http://org.softlang.com/ImportJava> ;
+        <http://org.softlang.com/partOf>
+                <repository:/EclipseProject/StudentManager/src/gui/Application.java> .
+
+<repository:/EclipseProject/StudentManager/src/controller/MainController.java#/imports(4)>
+        <http://org.softlang.com/elementOf>
+                <http://org.softlang.com/ImportJava> ;
+        <http://org.softlang.com/partOf>
+                <repository:/EclipseProject/StudentManager/src/controller/MainController.java> .
+
+<repository:/EclipseProject/StudentManager/src/DataModel/impl/DataModelPackageImpl.java#/type(1)/extendedTypes(1)>
+        <http://org.softlang.com/elementOf>
+                <http://org.softlang.com/ExtendedTypeJava> ;
+        <http://org.softlang.com/env/escope>
+                <repository:/EclipseProject/StudentManager/src/DataModel/impl> , <repository:/EclipseProject/StudentManager/src/DataModel/impl/DataModelPackageImpl.java> , <repository:/EclipseProject/StudentManager/src/DataModel/DataModelPackage.java> , <repository:/EclipseProject/StudentManager/src/DataModel/DataModelFactory.java> , <repository:/EclipseProject/StudentManager/src/DataModel/Student.java> , <repository:/EclipseProject/StudentManager/src/DataModel/StudentCollection.java> ;
+        <http://org.softlang.com/env/usescope>
+                <repository:/EclipseProject/StudentManager/src/DataModel/impl> , <repository:/EclipseProject/StudentManager/src/DataModel/impl/DataModelPackageImpl.java> ;
+        <http://org.softlang.com/partOf>
+                <repository:/EclipseProject/StudentManager/src/DataModel/impl/DataModelPackageImpl.java> .
+
+<repository:/.git/refs/heads>
+        <http://org.softlang.com/manifestsAs>
+                <http://org.softlang.com/Folder> ;
+        <http://org.softlang.com/partOf>
+                <repository:/.git/refs> .
+
+<repository:/EclipseProject/StudentManager/src/gui/Application.java#/imports(6)>
+        <http://org.softlang.com/elementOf>
+                <http://org.softlang.com/ImportJava> ;
+        <http://org.softlang.com/partOf>
+                <repository:/EclipseProject/StudentManager/src/gui/Application.java> .
+
+<repository:/EclipseProject/StudentManager/src/DataModel/DataModelFactory.java#/imports(1)>
+        <http://org.softlang.com/elementOf>
+                <http://org.softlang.com/ImportJava> ;
+        <http://org.softlang.com/partOf>
+                <repository:/EclipseProject/StudentManager/src/DataModel/DataModelFactory.java> .
+
+<repository:/EclipseProject/StudentManager/src/DataModel/StudentCollection.java#/imports(2)>
+        <http://org.softlang.com/elementOf>
+                <http://org.softlang.com/ImportJava> ;
+        <http://org.softlang.com/partOf>
+                <repository:/EclipseProject/StudentManager/src/DataModel/StudentCollection.java> .
+
+<repository:/EclipseProject/StudentManager/src/DataModel/impl/StudentCollectionImpl.java#/imports(5)>
+        <http://org.softlang.com/elementOf>
+                <http://org.softlang.com/ImportJava> ;
+        <http://org.softlang.com/partOf>
+                <repository:/EclipseProject/StudentManager/src/DataModel/impl/StudentCollectionImpl.java> .
+
+<repository:/EclipseProject/StudentManager/src/DataModel/impl/StudentCollectionImpl.java#/imports(11)>
+        <http://org.softlang.com/elementOf>
+                <http://org.softlang.com/ImportJava> ;
+        <http://org.softlang.com/partOf>
+                <repository:/EclipseProject/StudentManager/src/DataModel/impl/StudentCollectionImpl.java> .
+
+<repository:/EclipseProject/StudentManager/src/DataModel/DataModelPackage.java#/imports(3)>
+        <http://org.softlang.com/elementOf>
+                <http://org.softlang.com/ImportJava> ;
+        <http://org.softlang.com/partOf>
+                <repository:/EclipseProject/StudentManager/src/DataModel/DataModelPackage.java> .
+
+<repository:/.git/refs/remotes/origin>
+        <http://org.softlang.com/manifestsAs>
+                <http://org.softlang.com/Folder> ;
+        <http://org.softlang.com/partOf>
+                <repository:/.git/refs/remotes> .
+
+<repository:/EclipseProject/StudentManager/src/controller/MainController.java#/imports(9)>
+        <http://org.softlang.com/elementOf>
+                <http://org.softlang.com/ImportJava> ;
+        <http://org.softlang.com/partOf>
+                <repository:/EclipseProject/StudentManager/src/controller/MainController.java> .
+
+<repository:/EclipseProject/StudentManager/model/DataModel.genmodel#/element/content(6)/content(4)/content(1)>
+        <http://org.softlang.com/elementOf>
+                <http://org.softlang.com/XMIElement> ;
+        <http://org.softlang.com/partOf>
+                <repository:/EclipseProject/StudentManager/model/DataModel.genmodel#/element/content(6)/content(4)> .
+
+<repository:/EclipseProject/StudentManager/src/DataModel/impl/DataModelFactoryImpl.java#/imports(3)>
+        <http://org.softlang.com/elementOf>
+                <http://org.softlang.com/ImportJava> ;
+        <http://org.softlang.com/partOf>
+                <repository:/EclipseProject/StudentManager/src/DataModel/impl/DataModelFactoryImpl.java> .
+
+<repository:/EclipseProject/StudentManager/src/gui/resources/apply.png>
+        <http://org.softlang.com/manifestsAs>
+                <http://org.softlang.com/File> ;
+        <http://org.softlang.com/partOf>
+                <repository:/EclipseProject/StudentManager/src/gui/resources> .
+
+<repository:/EclipseProject/StudentManager/model/DataModel.ecore#/element/content(1)>
+        <http://org.softlang.com/elementOf>
+                <http://org.softlang.com/XMIElement> ;
+        <http://org.softlang.com/partOf>
+                <repository:/EclipseProject/StudentManager/model/DataModel.ecore#/element> .
+
+<repository:/.git/branches>
+        <http://org.softlang.com/manifestsAs>
+                <http://org.softlang.com/Folder> ;
+        <http://org.softlang.com/partOf>
+                <repository:/.git> .
+
+<repository:/EclipseProject/StudentManager/src/DataModel/impl/DataModelPackageImpl.java#/type(1)/implementedTypes(1)>
+        <http://org.softlang.com/elementOf>
+                <http://org.softlang.com/ImplementedTypeJava> ;
+        <http://org.softlang.com/env/escope>
+                <repository:/EclipseProject/StudentManager/src/DataModel/StudentCollection.java> , <repository:/EclipseProject/StudentManager/src/DataModel/DataModelFactory.java> , <repository:/EclipseProject/StudentManager/src/DataModel/Student.java> , <repository:/EclipseProject/StudentManager/src/DataModel/impl> , <repository:/EclipseProject/StudentManager/src/DataModel/impl/DataModelPackageImpl.java> , <repository:/EclipseProject/StudentManager/src/DataModel/DataModelPackage.java> ;
+        <http://org.softlang.com/env/usescope>
+                <repository:/EclipseProject/StudentManager/src/DataModel/impl/DataModelPackageImpl.java> , <repository:/EclipseProject/StudentManager/src/DataModel/impl> ;
+        <http://org.softlang.com/partOf>
+                <repository:/EclipseProject/StudentManager/src/DataModel/impl/DataModelPackageImpl.java> .
+
+<repository:/EclipseProject/StudentManager/src/gui/StudentListModel.java#/imports(2)>
+        <http://org.softlang.com/elementOf>
+                <http://org.softlang.com/ImportJava> ;
+        <http://org.softlang.com/partOf>
+                <repository:/EclipseProject/StudentManager/src/gui/StudentListModel.java> .
+
+<repository:/EclipseProject/StudentManager/src/DataModel/impl/DataModelPackageImpl.java#/imports(5)>
+        <http://org.softlang.com/elementOf>
+                <http://org.softlang.com/ImportJava> ;
+        <http://org.softlang.com/partOf>
+                <repository:/EclipseProject/StudentManager/src/DataModel/impl/DataModelPackageImpl.java> .
+
+<repository:/EclipseProject/StudentManager/model/DataModel.genmodel#/element/content(2)/content(12)>
+        <http://org.softlang.com/elementOf>
+                <http://org.softlang.com/XMIElement> ;
+        <http://org.softlang.com/partOf>
+                <repository:/EclipseProject/StudentManager/model/DataModel.genmodel#/element/content(2)> .
+
+<repository:/EclipseProject/StudentManager/model/DataModel.genmodel#/element/content(2)/content(2)>
+        <http://org.softlang.com/elementOf>
+                <http://org.softlang.com/XMIElement> ;
+        <http://org.softlang.com/partOf>
+                <repository:/EclipseProject/StudentManager/model/DataModel.genmodel#/element/content(2)> .
+
+<repository:/EclipseProject/StudentManager/model/DataModel.genmodel#/element/content(6)/content(4)>
+        <http://org.softlang.com/elementOf>
+                <http://org.softlang.com/XMIElement> ;
+        <http://org.softlang.com/env/sname>
+                "Student" ;
+        <http://org.softlang.com/instanceOf>
+                <http://org.softlang.com/GeneratorClass> ;
+        <http://org.softlang.com/partOf>
+                <repository:/EclipseProject/StudentManager/model/DataModel.genmodel#/element/content(6)> .
+
+<repository:/>  <http://org.softlang.com/manifestsAs>
+                <http://org.softlang.com/Folder> .

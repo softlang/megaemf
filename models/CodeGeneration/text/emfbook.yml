@@ -1,0 +1,58 @@
+Corpus: "EMF: Eclipse Modeling Framework" by Steinberg (2008)
+
+Types:
+  - name: Ecore Model
+    link: Subsection 2.3.1 The Ecore (Meta) Model
+    query: "Ecore+model" in table of contents
+    rationale: Explains what an Ecore model is and what its structural parts represent.
+
+  - name: Generator Model
+    link: Subsection 2.4.4 Generator Model
+    query: "Generator model" in table of contents
+    rationale: Explains that a generator model contains configuration aspects.
+
+  - name: Interface
+    link: Subsection 2.4.1 Generated Model Classes
+    query: "Generated" in table of contents (the interface is a model class)
+    rationale: Explains that an interface is generated and that it is a subtype of EObject.
+
+  - name: Interface Implementation
+    link: Subsection 2.4.1 Generated Model Classes
+    query: "Generated" in table of contents (the interface implementation implements the interface as identified above)
+    rationale: Explains that a respective interface implementation is also generated.
+
+  - name: Adapter Factory
+    link: Subsection 2.4.2 Other Generated "Stuff"
+    query:
+      - "Generated" in table of contents
+      - "Adapter Factory" in 2.4.1 and 2.4.2 leads to more relevant explanations in 2.4.2
+    rationale: Explains what the skeleton Adapter Factory is used for.
+
+Relations:
+  - name: Create Generator Model
+    link: Subsection 2.4.4 Generator Model
+    query: "Generator Model" in table of content
+    rationale: Explains that the generator model refers to and decorates the Ecore model with the code generation config.
+
+  - name: Create Generator Model
+    link: Subsection 12.4.4 Ecore2GenModel
+    query: "Ecore+genmodel" in table of content (.genmodel is the file extension for a generator model)
+    rationale: Explains the process artifact which creates the generator model based on an Ecore model.
+
+  - name: Generate Java Code
+    link: Subsection 2.4.1 Generated Model Classes
+    query: "Generated"
+    rationale: Explains that Java interfaces as well as their implementations are generated.
+
+  - name: Generate Java Code
+    link: Subsection 2.4.2 Other Generated "Stuff"
+    query:
+      - "Generated" in table of content
+      - "Adapter Factory" in 2.4.1 and 2.4.2 leads to more relevant explanations in 2.4.2
+    rationale: Explains that an adapter factory is generated, e.g., POAdapterFactory.
+
+  - name: Generate Java Code
+    link: Subsection 12.4.5 Generator
+    query:
+      - "Generator" (as part of the term generator model)
+    rationale: Explains the process artifact which executes the code generation.

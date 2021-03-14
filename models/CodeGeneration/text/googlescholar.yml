@@ -1,0 +1,178 @@
+Corpus: https://scholar.google.de
+
+Types:
+  - name: Ecore Model
+    link: "Towards patterns for mde-related processes to detect and handle changeability risks" - Hebig et al. 2012 
+    query: 
+      - EMF "generator model" generate Java
+      - in pdf: Ecore
+    rationale: Figure 3 and referencing explanation refer to "Ecore Model".
+
+  - name: Ecore Model
+    link: "Taming EMF and GMF using Model Transformation" - Kolovos et al. 2010 
+    query: 
+      - EMF "generator model" generate Java
+      - in pdf: Ecore
+    rationale: Fig. 1 and referencing explanation refer to "Ecore metamodel".
+    
+  - name: Ecore Model
+    link: "Modeling the "ecore to genmodel" transformation with emf henshin" - Biermann et al. 2010 
+    query: 
+      - EMF "generator model" generate Java
+      - in pdf: Ecore
+    rationale: Introductory text explains the Ecore model.
+  
+  - name: Ecore Model
+    link: "On a-posteriori integration of ecore models and hand-written java code" - Buchmann and Schwägerl 2015 
+    query: 
+      - EMF "generator model" generate Java
+      - in pdf: Ecore
+    rationale: Introductory text explains the Ecore model.
+
+  - name: Ecore Model
+    link: "Eugenia: towards disciplined and automated development of gmf-based graphical model editors" - Kolovos et al. 2017 
+    query: 
+      - EMF "generator model" generate Java
+      - in pdf: Ecore
+    rationale: Introductory text explains the Ecore model.
+
+    
+  - name: Generator Model
+    link: "Towards patterns for mde-related processes to detect and handle changeability risks" - Hebig et al. 2012 
+    query: 
+      - EMF "generator model" generate Java
+      - in pdf: generator model
+    rationale: Figure 3 uses the name in the model and referencing text explains it.
+
+  - name: Generator Model
+    link: "Taming EMF and GMF using Model Transformation" - Kolovos et al. 2010 
+    query: 
+      - EMF "generator model" generate Java
+      - in pdf: genmodel 
+    rationale: Fig. 1 and referencing explanation refer to "GenModel model".
+  
+  - name: Generator Model
+    link: "Modeling the "ecore to genmodel" transformation with emf henshin" - Biermann et al. 2010 
+    query: 
+      - EMF "generator model" generate Java
+      - in pdf: genmodel
+    rationale: Introductory text explains the Generator Model.
+    
+  - name: Generator Model
+    link: "On a-posteriori integration of ecore models and hand-written java code" - Buchmann and Schwägerl 2015 
+    query: 
+      - EMF "generator model" generate Java
+      - in pdf: genmodel
+    rationale: Introductory text explains that "correct semantics of references between the classifiers" and points at the existence of a GenModel, where configuration on the level of methods can be adapted based on annotations.
+
+  - name: Generator Model
+    link: "Eugenia: towards disciplined and automated development of gmf-based graphical model editors" - Kolovos et al. 2017 
+    query: 
+      - EMF "generator model" generate Java
+      - in pdf: genmodel
+    rationale: Introductory text explains that the GenModel configures how the metamodel should be implemented.
+
+    
+  - name: Interface
+    link: "Towards patterns for mde-related processes to detect and handle changeability risks" - Hebig et al. 2012 
+    query: 
+      - EMF "generator model" generate Java
+      - in pdf: interface
+    rationale: Figure 3 uses the name in the model and referencing text explains it.
+
+  - name: Interface
+    link: "On a-posteriori integration of ecore models and hand-written java code" - Buchmann and Schwägerl 2015 
+    query: 
+      - EMF "generator model" generate Java
+      - in pdf: interface
+    rationale: Introductory text explains that a set of corresponding Java interfaces is generated.
+   
+  - name: Interface
+    link: "Eugenia: towards disciplined and automated development of gmf-based graphical model editors" - Kolovos et al. 2017 
+    query: 
+      - EMF "generator model" generate Java
+      - in pdf: java
+    rationale: Section 2.1 refers to generated Java code.
+
+  - name: Interface Implementation
+    link: "Towards patterns for mde-related processes to detect and handle changeability risks" - Hebig et al. 2012 
+    query: 
+      - EMF "generator model" generate Java
+      - in pdf: interface
+    rationale: Figure 3 uses the name in the model and referencing text explains it.
+
+  - name: Interface Implementation
+    link: "On a-posteriori integration of ecore models and hand-written java code" - Buchmann and Schwägerl 2015 
+    query: 
+      - EMF "generator model" generate Java
+      - in pdf: interface
+    rationale: Introductory text explains that a set of corresponding Java interface implementations is generated.
+    
+  - name: Interface Implementation
+    link: "Eugenia: towards disciplined and automated development of gmf-based graphical model editors" - Kolovos et al. 2017 
+    query: 
+      - EMF "generator model" generate Java
+      - in pdf: java
+    rationale: Section 2.1 refers to generated Java code.
+
+  - name: Adapter Factory
+    link: "Towards patterns for mde-related processes to detect and handle changeability risks" - Hebig et al. 2012 
+    query: 
+      - EMF "generator model" generate Java
+      - in pdf: adapter factory
+    rationale: Figure 3 uses the name in the model and referencing text explains it.
+
+Relations:
+  - name: Create Generator Model
+    link: "Towards patterns for mde-related processes to detect and handle changeability risks" - Hebig et al. 2012 
+    query: 
+      - EMF "generator model" generate Java
+      - in pdf: generator model
+    rationale: Figure 3 uses the names of types and depicts a relation in the model. Referencing text explains it.
+
+  - name: Create Generator Model
+    link: "Taming EMF and GMF using Model Transformation" - Kolovos et al. 2010 
+    query: EMF "generator model" generate Java
+    rationale: Fig. 1 uses the names of types and depicts a relation called "EMF Ecore2GenModel" in the model. Referencing text explains it.
+    
+  - name: Create Generator Model
+    link: "Modeling the "ecore to genmodel" transformation with emf henshin" - Biermann et al. 2010 
+    query: 
+      - EMF "generator model" generate Java
+      - in pdf: genmodel
+    rationale: Introductory text explains the relation between Ecore Model and Generator Model in terms of cross-document references.
+    
+  - name: Create Generator Model
+    link: "On a-posteriori integration of ecore models and hand-written java code" - Buchmann and Schwägerl 2015 
+    query: 
+      - EMF "generator model" generate Java
+      - in pdf: genmodel
+    rationale: Introductory text explains that "correct semantics of references between the classifiers" and points at the existence of a GenModel. This
+    implicitly hints at a relation from Ecore model and generator model.    
+    
+  - name: Create Generator Model   
+    link: "Eugenia: towards disciplined and automated development of gmf-based graphical model editors" - Kolovos et al. 2017
+    query: 
+      - EMF "generator model" generate Java
+      - in pdf: genmodel
+    rationale: Section 2 mentions a "model-to-model transformation to transform the Ecore metamodel into an EMF generator model".
+    
+  - name: Generate Java Code
+    link: "Towards patterns for mde-related processes to detect and handle changeability risks" - Hebig et al. 2012 
+    query: 
+      - EMF "generator model" generate Java
+      - in pdf: interface
+    rationale: Figure 3 uses the names of types and depicts a relation in the model. Referencing text explains it.
+
+  - name: Generate Java Code
+    link: "On a-posteriori integration of ecore models and hand-written java code" - Buchmann and Schwägerl 2015 
+    query: 
+      - EMF "generator model" generate Java
+      - in pdf: genmodel
+    rationale: Introductory text explains that a set of corresponding Java interface implementations is generated from the "class model" while correct semantic references are ensured based on annotations in a GenModel.  
+  - name: Generate Java Code
+    link: "Eugenia: towards disciplined and automated development of gmf-based graphical model editors" - Kolovos et al. 2017 
+    query: 
+      - EMF "generator model" generate Java
+      - in pdf: java
+    rationale: Section 2.1 refers to generated Java code as follows: "GenModel is consumed by a built-in model-to-text transformation which produces all the necessary Java code[...]"
